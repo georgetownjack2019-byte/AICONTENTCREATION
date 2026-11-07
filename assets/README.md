@@ -14,3 +14,6 @@ Generated for Kenji & Yuki; reuse freely.
 | music/sneaky-prank.mp3 | vidIQ music (royalty-free, 80 s) | pranks, schemes, sneaky moments |
 | sfx/magic-sparkle.mp3 | Mirelo | fake magic trick, sparkle, reveal |
 | sfx/crunch-chew.mp3 | Mirelo | biting/chewing a snack |
+| sfx/dumbbell-clank.mp3 | Mirelo | gym, weights, heavy objects |
+| sfx/strain-grunt.mp3 | Mirelo | effort, struggling, lifting |
+| sfx/straw-slurp.mp3 | Mirelo | sipping a drink, awkward stare |

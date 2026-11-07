@@ -17,3 +17,4 @@ Production: 1 still → 1 Seedance 2.0 Fast 11 s clip with native audio (off-scr
 Cost ≈ 2 + 27.5 = **~30 credits**.
 
 Still: 56501565-a248-4f05-88c9-6d17a2d232d5 (first try 2b6205f8 had a phone in the foreground and Kenji looked at the camera)
+Clip: 96ad5d71-e9ea-4f8f-ae89-52016e01fb05 (Seedance 11 s, off-screen voices)

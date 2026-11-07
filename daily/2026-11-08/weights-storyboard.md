@@ -24,3 +24,4 @@ Production: 3 stills (rack, bench struggle, Yuki standing over him) → 2 Wan 2.
 (dumbbell clank, strain grunt, slurp, tense sting), clean caption label. Cost ≈ 6 + 27 = **~33 credits**.
 
 Stills: Gym 1 c4e6826d-4c39-4cee-a13a-16e6ebee6a6a · Gym 2 07ee3c5b-6a6f-4792-87ca-83a671cc5a38 · Gym 3 71a62307-676a-4c85-b0e7-04fb7c801ad5
+Clips: gym A 8cffa278-b1dd-489e-92e8-69d4b151324a (Wan 8 s) · gym B ac1cc844-c4ed-4a9d-adb8-49d602a8488a (Wan 9 s)
