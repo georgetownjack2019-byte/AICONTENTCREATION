@@ -6,8 +6,8 @@ dating, whatever the joke needs).
 
 ## Official look
 **Official references (user's choice):**
-- Kenji: `refs/kenji_v2.png`, Higgsfield job `8e1ef7db-1e25-4976-b982-704130ad76d8`
-- Yuki: `refs/yuki_v2.png`, Higgsfield job `e9bee548-3ce6-46ba-8933-5dd244ebab3f`
+- Kenji: `refs/kenji_v3.png`, Higgsfield job `77791ae9-984c-479d-bba1-7395d3da963e`
+- Yuki: `refs/yuki_v3.png`, Higgsfield job `9880613a-291d-417b-857c-1245966e20ce`
 
 Attach the sheet of every character who appears in a shot as an image reference (pass the
 job ID with type `image_job`). Duo shots get both sheets.
@@ -18,10 +18,17 @@ slightly oversized heads, big glossy expressive eyes, very readable cream eyebro
 "brows", soft stylized fur, soft studio or warm cinematic lighting. Never photoreal.
 Vertical 9:16 framing.
 
+## Wardrobe direction: quiet luxury / old money
+Tailored, understated, expensive-looking: cashmere, cable knits, oxford shirts, wool
+overcoats, pleated trousers and skirts, loafers, ballet flats, pearls, slim gold watch,
+structured leather bags. **Muted, desaturated palette only:** ivory, cream, oatmeal,
+camel, taupe, beige, soft grey, muted navy, soft sage, chocolate brown. **No saturated or
+bright colours**, no visible brand logos.
+
 ## Rule of consistency
 - **Locked (never changes):** face shape, coat colour, cream *urajiro* (cheeks, muzzle,
   chest), cream eyebrow dots, pointed ears, curled fluffy tail, eye shape, 3D render style,
-  body proportions (Kenji chunky and stocky; Yuki taller and slim).
+  body proportions. **Kenji is clearly taller than Yuki**: the top of her head reaches his chin.
 - **Free (changes every video):** outfit, shoes, accessories, props, setting, and an
   optional hairstyle or hair accessory. The default look is natural fur with no hair.
 
@@ -31,11 +38,11 @@ Vertical 9:16 framing.
 | | |
 |---|---|
 | Coat | Bright red-orange Shiba, cream urajiro on cheeks, muzzle and chest, cream eyebrow dots |
-| Build | Short, chunky and stocky with a round head, plush cartoon proportions |
+| Build | Tall, long-legged, broad-shouldered, lean athletic; clearly taller than Yuki |
 | Hair | Default: natural fur. Optional per scene: quiff, slicked back, cap, beanie |
 | Face | Big round brown eyes; smug half-smile, deadpan stare, raised brow, shocked |
 | Energy | Confident, stylish, dry. Fast, sharp reactions; deadpan stare is his signature |
-| Reference fit | Cream cable-knit turtleneck, charcoal trousers, white sneakers |
+| Reference fit | Ivory cable-knit sweater over a grey-blue oxford collar, oatmeal wool trousers, brown suede loafers, gold watch |
 | Wardrobe range | Streetwear, tailored suits for office skits, gym fits, going-out shirts, costumes |
 | Signature reactions | Slow blink · single raised brow · "I'm not even surprised" stare · smug nod · wide-eyed panic |
 
@@ -43,12 +50,12 @@ Vertical 9:16 framing.
 | | |
 |---|---|
 | Coat | Golden honey-orange Shiba (lighter than Kenji), cream urajiro on cheeks, muzzle and chest, cream eyebrow dots |
-| Build | Taller and slim, longer legs, more elegant proportions than Kenji |
+| Build | Petite and slim, graceful; about a head shorter than Kenji |
 | Hair | Default: natural fur. Optional per scene: scrunchie bun, claw clip, headband, ribbon |
 | Face | Almond amber-brown eyes with lashes; side-eye, sassy smirk, half-lidded sip, laughing |
 | Energy | Playful sass. Fashionable. Pilates and matcha are her personality |
 | Signature accessory | Iced matcha latte; phone in paw |
-| Reference fit | Sage ribbed crop top and leggings, cream cardigan, white grip socks and sneakers |
+| Reference fit | Cream knit polo, camel pleated wide-leg trousers, tan belt, ivory ballet flats, pearl studs, taupe top-handle bag, cream silk ribbon |
 | Wardrobe range | Athleisure/Pilates sets, clean-girl looks, office chic, date-night dresses, cozy loungewear, costumes |
 | Signature reactions | The side-eye · sassy smirk · sipping matcha in silence · "be so for real" face · excited grin |
 
@@ -57,7 +64,9 @@ Vertical 9:16 framing.
 ## Reference history
 | Version | Source / Job ID | Status |
 |---|---|---|
-| Kenji v2 (3D cartoon) | `8e1ef7db-1e25-4976-b982-704130ad76d8` · `refs/kenji_v2.png` | **official** |
-| Yuki v2 (3D cartoon) | `e9bee548-3ce6-46ba-8933-5dd244ebab3f` · `refs/yuki_v2.png` | **official** |
+| Kenji v3 (tall, old money) | `77791ae9-984c-479d-bba1-7395d3da963e` · `refs/kenji_v3.png` | **official** |
+| Yuki v3 (old money) | `9880613a-291d-417b-857c-1245966e20ce` · `refs/yuki_v3.png` | **official** |
+| Kenji v2 (short, chunky) | `8e1ef7db-1e25-4976-b982-704130ad76d8` · `refs/kenji_v2.png` | superseded: too short |
+| Yuki v2 | `e9bee548-3ce6-46ba-8933-5dd244ebab3f` · `refs/yuki_v2.png` | superseded |
 | Grok design | `refs/kenji_yuki_master_ref.jpg` · media `085076e9-c39d-4071-9d11-7ca444a3cd06` | alternative (earlier look, hair styles) |
 | v1 builder sheets | `a7870996…`, `fc1373be…` | rejected: wrong breed |

@@ -1,24 +1,26 @@
 # Prompt templates
 
 Attach the official sheet of each character in the shot as an image reference:
-- Kenji: job `8e1ef7db-1e25-4976-b982-704130ad76d8`
-- Yuki: job `e9bee548-3ce6-46ba-8933-5dd244ebab3f`
+- Kenji: job `77791ae9-984c-479d-bba1-7395d3da963e`
+- Yuki: job `9880613a-291d-417b-857c-1245966e20ce`
 
 Keep the **LOCK** sentences word-for-word. Only edit the `[...]` parts.
 
 ## LOCK sentences (paste unchanged)
 **Kenji:** Kenji is the same character as the Kenji reference sheet: identical face,
 bright red-orange Shiba Inu coat, cream cheeks/muzzle/chest, cream eyebrow dots, pointed
-upright ears, fluffy curled tail, big round brown eyes, short chunky stocky body with a
-round head.
+upright ears, fluffy curled tail, big round brown eyes, tall lean broad-shouldered body,
+clearly taller than Yuki. His coat is a deeper red-orange than Yuki's.
 
 **Yuki:** Yuki is the same character as the Yuki reference sheet: identical face, golden
 honey-orange Shiba Inu coat lighter than Kenji's, cream cheeks/muzzle/chest, cream eyebrow
 dots, pointed upright ears, fluffy curled tail, almond amber-brown eyes with lashes,
-taller slim body.
+petite slim body, about a head shorter than Kenji.
 
 **Style:** Stylized 3D animated-feature-film cartoon render, soft stylized fur,
-expressive faces, warm cinematic lighting, vertical 9:16. Not photoreal, no human hair
+expressive faces, soft cinematic lighting, vertical 9:16. Quiet-luxury old-money
+wardrobe. Muted desaturated palette only (ivory, cream, oatmeal, camel, taupe, soft grey,
+muted navy, soft sage, chocolate brown); no saturated or bright colours. Not photoreal, no human hair
 unless stated, no text, no watermark, no brand logos on props or clothing.
 
 ## Scene: duo
@@ -34,12 +36,13 @@ unless stated, no text, no watermark, no brand logos on props or clothing.
 > [Name LOCK] [Name] dressed as [costume], full body, standing pose, pure white
 > background, centered, [expression]. [Style]
 
-## Outfit ideas
+## Outfit ideas (old money, muted)
 | Theme | Kenji | Yuki |
 |---|---|---|
-| Office | Navy suit, loosened tie, lanyard | Cream blazer, wide-leg trousers, claw clip |
-| Gym/Pilates | Black tank, joggers, gym bag | Sage ribbed Pilates set, grip socks, matcha |
-| Date night | Black turtleneck, leather jacket | Slip dress, cardigan, mini bag |
-| Cozy | Grey hoodie, sweatpants, slippers | Lilac knit set, scrunchie bun |
-| Winter | Puffer jacket, beanie | Long camel coat, knit scarf, earmuffs |
-| Brunch | Linen shirt, sunglasses | Sundress, straw tote, iced matcha |
+| Office | Charcoal flannel suit, ivory shirt, taupe knit tie | Oatmeal tweed blazer, cream silk blouse, camel trousers, pearls |
+| Country club | Camel overcoat, cream turtleneck, taupe trousers, suede loafers | Cashmere cardigan on shoulders, silk blouse, pleated midi skirt, ballet flats |
+| Pilates/active | Grey quarter-zip, cream joggers, white leather sneakers | Oatmeal ribbed Pilates set, cream grip socks, ribbon, matcha |
+| Date night | Muted navy blazer, ivory open-collar shirt, grey trousers | Champagne satin slip dress, cream cashmere wrap, pearl drops |
+| Weekend | Cable-knit sweater over shoulders, oxford shirt, chinos | Striped cream/navy Breton top, white jeans, straw tote |
+| Winter | Grey herringbone coat, cashmere scarf, leather gloves | Long camel coat, cream knit beret, cashmere scarf |
+| Tennis | Cream cable tennis sweater, white shorts | Pleated white tennis skirt, cream polo, visor |
