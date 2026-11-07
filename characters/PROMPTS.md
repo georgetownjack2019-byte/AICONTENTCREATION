@@ -2,7 +2,7 @@
 
 Attach the official sheet of each character in the shot as an image reference:
 - Kenji: job `77791ae9-984c-479d-bba1-7395d3da963e`
-- Yuki: job `9880613a-291d-417b-857c-1245966e20ce`
+- Yuki: job `15415dfd-6ca1-47c3-9669-0600172b81ae`
 
 Keep the **LOCK** sentences word-for-word. Only edit the `[...]` parts.
 
@@ -15,7 +15,8 @@ clearly taller than Yuki. His coat is a deeper red-orange than Yuki's.
 **Yuki:** Yuki is the same character as the Yuki reference sheet: identical face, golden
 honey-orange Shiba Inu coat lighter than Kenji's, cream cheeks/muzzle/chest, cream eyebrow
 dots, pointed upright ears, fluffy curled tail, almond amber-brown eyes with lashes,
-petite slim body, about a head shorter than Kenji.
+petite slim body, about a head shorter than Kenji. No ribbon, bow or hair accessory
+unless the scene asks for one.
 
 **Style:** Stylized 3D animated-feature-film cartoon render, soft stylized fur,
 expressive faces, soft cinematic lighting, vertical 9:16. Quiet-luxury old-money
@@ -41,8 +42,8 @@ unless stated, no text, no watermark, no brand logos on props or clothing.
 |---|---|---|
 | Office | Charcoal flannel suit, ivory shirt, taupe knit tie | Oatmeal tweed blazer, cream silk blouse, camel trousers, pearls |
 | Country club | Camel overcoat, cream turtleneck, taupe trousers, suede loafers | Cashmere cardigan on shoulders, silk blouse, pleated midi skirt, ballet flats |
-| Pilates/active | Grey quarter-zip, cream joggers, white leather sneakers | Oatmeal ribbed Pilates set, cream grip socks, ribbon, matcha |
+| Pilates/active | Grey quarter-zip, cream joggers, white leather sneakers | Oatmeal ribbed Pilates set, cream grip socks, matcha (optional: claw clip) |
 | Date night | Muted navy blazer, ivory open-collar shirt, grey trousers | Champagne satin slip dress, cream cashmere wrap, pearl drops |
 | Weekend | Cable-knit sweater over shoulders, oxford shirt, chinos | Striped cream/navy Breton top, white jeans, straw tote |
-| Winter | Grey herringbone coat, cashmere scarf, leather gloves | Long camel coat, cream knit beret, cashmere scarf |
+| Winter | Grey herringbone coat, cashmere scarf, leather gloves | Long camel coat, cashmere scarf (optional: cream knit beret) |
 | Tennis | Cream cable tennis sweater, white shorts | Pleated white tennis skirt, cream polo, visor |

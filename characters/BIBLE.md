@@ -7,7 +7,7 @@ dating, whatever the joke needs).
 ## Official look
 **Official references (user's choice):**
 - Kenji: `refs/kenji_v3.png`, Higgsfield job `77791ae9-984c-479d-bba1-7395d3da963e`
-- Yuki: `refs/yuki_v3.png`, Higgsfield job `9880613a-291d-417b-857c-1245966e20ce`
+- Yuki: `refs/yuki_v4.png`, Higgsfield job `15415dfd-6ca1-47c3-9669-0600172b81ae`
 
 Attach the sheet of every character who appears in a shot as an image reference (pass the
 job ID with type `image_job`). Duo shots get both sheets.
@@ -51,11 +51,11 @@ bright colours**, no visible brand logos.
 |---|---|
 | Coat | Golden honey-orange Shiba (lighter than Kenji), cream urajiro on cheeks, muzzle and chest, cream eyebrow dots |
 | Build | Petite and slim, graceful; about a head shorter than Kenji |
-| Hair | Default: natural fur. Optional per scene: scrunchie bun, claw clip, headband, ribbon |
+| Hair | Default: **natural fur, no hair accessory.** Optional per scene only when asked for: silk ribbon/bow, velvet headband, claw clip, scrunchie bun, silk scarf |
 | Face | Almond amber-brown eyes with lashes; side-eye, sassy smirk, half-lidded sip, laughing |
 | Energy | Playful sass. Fashionable. Pilates and matcha are her personality |
 | Signature accessory | Iced matcha latte; phone in paw |
-| Reference fit | Cream knit polo, camel pleated wide-leg trousers, tan belt, ivory ballet flats, pearl studs, taupe top-handle bag, cream silk ribbon |
+| Reference fit | Cream knit polo, camel pleated wide-leg trousers, tan belt, ivory ballet flats, pearl studs, taupe top-handle bag |
 | Wardrobe range | Athleisure/Pilates sets, clean-girl looks, office chic, date-night dresses, cozy loungewear, costumes |
 | Signature reactions | The side-eye · sassy smirk · sipping matcha in silence · "be so for real" face · excited grin |
 
@@ -65,7 +65,8 @@ bright colours**, no visible brand logos.
 | Version | Source / Job ID | Status |
 |---|---|---|
 | Kenji v3 (tall, old money) | `77791ae9-984c-479d-bba1-7395d3da963e` · `refs/kenji_v3.png` | **official** |
-| Yuki v3 (old money) | `9880613a-291d-417b-857c-1245966e20ce` · `refs/yuki_v3.png` | **official** |
+| Yuki v4 (old money, no ribbon) | `15415dfd-6ca1-47c3-9669-0600172b81ae` · `refs/yuki_v4.png` | **official** |
+| Yuki v3 (with ribbon) | `9880613a-291d-417b-857c-1245966e20ce` · `refs/yuki_v3.png` | superseded: ribbon was baked in |
 | Kenji v2 (short, chunky) | `8e1ef7db-1e25-4976-b982-704130ad76d8` · `refs/kenji_v2.png` | superseded: too short |
 | Yuki v2 | `e9bee548-3ce6-46ba-8933-5dd244ebab3f` · `refs/yuki_v2.png` | superseded |
 | Grok design | `refs/kenji_yuki_master_ref.jpg` · media `085076e9-c39d-4071-9d11-7ca444a3cd06` | alternative (earlier look, hair styles) |
