@@ -40,5 +40,5 @@ dating, whatever the joke needs).
 ## Higgsfield reference sheets
 | Character | Job ID | Status |
 |---|---|---|
-| Kenji v1 | `a7870996-fdbb-4456-8cdb-bf7a85bf8a9e` | generated, awaiting approval |
-| Yuki v1  | `fc1373be-57fb-4b41-b733-b362f2075605` | generated, awaiting approval |
+| Kenji v1 | `a7870996-fdbb-4456-8cdb-bf7a85bf8a9e` | rejected: wrong breed (not a Shiba), outfit ignored |
+| Yuki v1  | `fc1373be-57fb-4b41-b733-b362f2075605` | rejected: wrong breed (not a Shiba), outfit ignored |
