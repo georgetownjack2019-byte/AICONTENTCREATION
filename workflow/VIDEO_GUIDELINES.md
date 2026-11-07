@@ -63,6 +63,14 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
 - **Say it once**: one on-screen caption per video; the cover shows a clean frame + that same caption only
   (no second title). The post caption adds something new (a question, "send this to…"), never repeats the on-screen text.
 
+## 4c. No AI glitches (user rule, 2026-11-07)
+- **Design shots to avoid contact the AI gets wrong**: no hand-to-hand or arm-to-arm handling between the two characters
+  (e.g. instead of "he lifts her paw off", write "he slides his face out from under her paw; it slips onto the pillow").
+  Add "both characters keep their own arms; no limbs overlapping or passing through bodies" to every two-character prompt.
+- **Glitch check before showing anything**: inspect every clip at **4–8 fps, zoomed on contact moments** (hugs, grabs, paws
+  on faces, scoots), not just a 1–2 fps overview. Reject any frame with limbs passing through bodies, merged hands, extra or
+  missing limbs, characters leaving the frame/bed unintentionally, or outfit/blanket changes. Regenerate or trim before delivery.
+
 ## 5. Never
 - Real money or banknotes on screen (trips Higgsfield's copyright filter).
 - Logos, brand names or real people's likeness. No copying another account's characters or look.
