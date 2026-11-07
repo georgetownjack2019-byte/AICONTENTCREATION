@@ -4,5 +4,7 @@ A viral Instagram/TikTok animal-character account starring two sassy Shibas.
 
 - [Character bible](characters/BIBLE.md): who Kenji and Yuki are and what must stay consistent
 - [Content strategy](content/STRATEGY.md): format, pillars, production pipeline, monetisation
+- [Daily routine](content/ROUTINE.md): who does what, every day
+- [Trend shorts playbook](content/formats/trend-shorts.md) · [Trend reports](content/trends/)
 
 Videos are generated with Higgsfield.
