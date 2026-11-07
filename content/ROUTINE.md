@@ -7,14 +7,13 @@
 | 2. Plan | Quick review: "go" or "change X" | Breaks the original down shot by shot (script, timestamps, framing, punchline beat) and maps it **1:1** to Kenji & Yuki (same script and storyboard; characters, outfits and props clearly different), plus viral boosters. See `REMAKE_RULES.md` |
 | 3. Stills | Quick review: "good" / "redo shot N" | Generates one image per shot matching the original's framing, from the official reference sheets, checks them against the original first (~2 credits each) |
 | 4. Animate | Approve the cost, then "good" / "redo" | Animates each still into a 5 s clip, checks them (~7.5 credits per clip) |
-| 5. Download | Download the clips | Saves copies in the repo |
-| 6. Edit | CapCut: clips in order, trending sound, hook text, captions, export 1080×1920 | Gives the hook text, captions, clip order |
-| 6b. Check | — | Runs the virality predictor on your final edit; suggests fixes |
-| 7. Post | TikTok (sound in-app, **AI label on**) → Instagram 1 h later (clean CapCut file, **AI label on**) | Writes captions, hashtags, pinned comment per platform |
+| 5–6. Edit | Nothing (no CapCut needed) | Cuts the clips to the original's timing, adds on-screen text, zooms, music bed and timed SFX, normalises loudness, and exports a finished 1080×1920 `final.mp4` (see `content/videos/skincare-remake/build_final.sh`) |
+| 6b. Check | Watch `final.mp4`: "post it" or "change X" | Runs the virality predictor; suggests fixes |
+| 7. Post | Upload `final.mp4` to TikTok (optionally add the trending sound in-app at low volume, **AI label on**) → Instagram 1 h later (same file, **AI label on**) | Writes captions, hashtags, pinned comment per platform |
 | 8. Track | Next day: send views / watch time / shares | Logs results, says what to make more of |
 
 ## Daily timing (2 shorts)
-- Morning (~30–40 min): trends → approve plans and stills → download → edit
+- Morning (~15–20 min): Virlo trend → approve plan and stills → watch final.mp4
 - 12:30 pm TikTok / 1:30 pm IG: short 1
 - 7:30 pm TikTok / 8:30 pm IG: short 2
 - Next morning: send numbers

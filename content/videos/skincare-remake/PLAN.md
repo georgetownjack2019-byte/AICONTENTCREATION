@@ -25,3 +25,10 @@ Lesson: AI image edits over- or under-shoot small colour changes; a local hue co
   Cuts: clip1 0–3 s · clip2 0–4 s · clip3 2.5–4.5 s · clip4 1.0–3.5 s.
 - To finish in CapCut: playful music + SFX (squish on her products, splash, "ding" on his sparkle, "pop" on the sweat drop).
 - Credits for this video: stills 6 + fixes 6 + clips 37.5 ≈ 49.5.
+
+## Final edit (done by Claude, no CapCut)
+`final.mp4`: 11.5 s, 1080×1920, AAC audio, −14.6 LUFS. Rebuild with `./build_final.sh`.
+- Music: ElevenLabs Music v2.5, 12 s instrumental (`audio/music.mp3`, job `41d3653f-8da1-4547-9c9c-1de1b765ec5f`)
+- SFX: splash (`6e1377dd…`), sparkle (`3ba3b1ad…`), sweat drop (`f7cc9bc5…`); the squish came back silent twice, so a synthesised "bloop" pop is used instead
+- Zoom 1.0 → 1.55 on Yuki's side-eye at 9.6 s
+- Audio credits: ~4.25
