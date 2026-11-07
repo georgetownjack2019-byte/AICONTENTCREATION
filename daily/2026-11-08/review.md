@@ -3,7 +3,7 @@ Credits: 482.67 → this session spent 64.5 (5 stills 10, Wan 25.5, Seedance 27.
 were spent on this account by other work (not this session) in the same window.
 
 ## 1. "When you grab weights that are too heavy and she starts spectating"  QC: PASS
-- Video: `final_weights-spectating.mp4` (17.1 s) · cover: `posting/cover_weights-spectating.jpg` · base: IG @lc_lifts2 (4.7M, 17.4 s)
+- Video: `final_weights-spectating.mp4` (11.9 s, v2: shorter, no mid-video pause or scene jump, new ending where Kenji tries, topples off the bench, swirly eyes; Yuki's matcha spit-take; red-faced dramatic expressions. Ending clip 6e0daef0, Seedance 6 s, 15 credits) · cover: `posting/cover_weights-spectating.jpg` · base: IG @lc_lifts2 (4.7M, 17.4 s)
 - Same beats as the original: grab → waddle (camera follows) → cut to the spectator noticing → stuck on the bench → spectator
   standing right over him, staring; Yuki is the spectator (sipping matcha), Kenji's panicked side-eye at the end.
 - Setting like the original (big gym, arched windows) per user; outfits our own (Kenji black tank + grey shorts; Yuki lilac jacket + leggings).
@@ -14,8 +14,8 @@ were spent on this account by other work (not this session) in the same window.
 |---|---|---|
 | Hook | 4 | Relatable caption + Kenji grabbing huge dumbbells from frame 1 |
 | Funny | 4 | Same escalation as the original; the slow slurp while staring sells it |
-| Dramatic | 4 | Straining, sweat, frozen side-eye, sting |
-| Style match | 4 | Same gym look, handheld follow, 17 s; spectator walk-over is a cut instead of shown |
+| Dramatic | 5 | Red-faced bulging-eyed heave, backward fall, swirly eyes, matcha spit-take, sting |
+| Style match | 4 | Same gym look and handheld follow; shortened and given a slapstick payoff at the user's request |
 | Characters | 4 | Faces consistent; outfits locked |
 | Sound | 4 | Music + SFX on each beat |
 - Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____

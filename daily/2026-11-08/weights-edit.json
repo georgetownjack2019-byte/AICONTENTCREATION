@@ -1,4 +1,5 @@
 {"shots": [
- {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/gym/gymA.mp4"},
- {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/gym/gymB.mp4", "trim": 9.0}
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/gym/segA1.mp4"},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/gym/segA2.mp4"},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/gym/gymEnd.mp4"}
 ]}
