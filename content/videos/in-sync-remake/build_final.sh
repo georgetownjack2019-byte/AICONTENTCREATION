@@ -9,9 +9,11 @@ V="scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30,se
 X="-c:v libx264 -preset veryfast -crf 17 -pix_fmt yuv420p -an"
 seg() { ffmpeg -nostdin -v error -y -ss "$2" -t "$3" -i "$1" -vf "$V" $X "$T/$4.mp4"; echo "file '$T/$4.mp4'" >> $T/list.txt; }
 #   clip                         start dur  name       (global time)
-seg clips/1_think_laugh.mp4      0     1.9  a          # 0.0–1.9  thumb gesture + synced laugh
-seg clips/2_deadpan.mp4          0.9   1.7  b          # 1.9–3.6  both lean back, same deadpan
-seg clips/3_gasp_laugh.mp4       1.0   2.0  c          # 3.6–5.6  synced gasp → nudge → crack up
+# Matches the original's 6.15 s length and beat timing (original: 0–2.6 gestures + laugh,
+# 2.6–4.8 lean back, 4.8–6.15 gasp + shove)
+seg clips/1_think_laugh.mp4      0     2.0  a          # 0.0–2.0  thumb gesture + synced laugh
+seg clips/2_deadpan.mp4          0.7   2.2  b          # 2.0–4.2  both lean back, same deadpan (2.2 s, like the original)
+seg clips/3_gasp_laugh.mp4       1.0   1.95 c          # 4.2–6.15 synced gasp → nudge → crack up
 ffmpeg -nostdin -v error -y -f concat -safe 0 -i $T/list.txt -c copy $T/joined.mp4
 
 # Hook text (original wording), 3 centred lines in the roof area
@@ -23,8 +25,8 @@ ffmpeg -nostdin -v error -y -i $T/joined.mp4 -vf "drawtext=$TX:textfile=$T/l1.tx
 
 # Audio: music bed + boing on the three synced moves
 ffmpeg -nostdin -v error -y -i audio/music.mp3 -i audio/sfx_boing.wav -filter_complex "\
-[0]atrim=0:5.6,afade=t=out:st=5.1:d=0.5,volume=0.6[m];\
-[1]asplit=3[b1][b2][b3];[b1]adelay=550|550[x1];[b2]adelay=2000|2000[x2];[b3]adelay=3650|3650[x3];\
+[0]atrim=0:6.15,afade=t=out:st=5.65:d=0.5,volume=0.6[m];\
+[1]asplit=3[b1][b2][b3];[b1]adelay=550|550[x1];[b2]adelay=2200|2200[x2];[b3]adelay=4250|4250[x3];\
 [m][x1][x2][x3]amix=inputs=4:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11[out]" \
   -map "[out]" -ar 44100 -c:a aac -b:a 192k $T/audio.m4a
 ffmpeg -nostdin -v error -y -i $T/video.mp4 -i $T/audio.m4a -c copy -shortest -movflags +faststart final.mp4

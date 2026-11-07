@@ -36,13 +36,20 @@ What must look **clearly different** from the original:
 In the review table (step 2), every shot lists the original outfit/prop next to ours, so
 the difference is easy to check.
 
+### Length rule (user priority)
+**The remake's total length must match the original's (within ±0.2 s), and every shot keeps the
+original's start and end times.** Don't trim for pace. If an AI clip has a bad stretch, fix it
+(redo the clip or choose a different usable segment of the same length), never shorten the video.
+Only change the length when the user asks for it (e.g. the longer Yuki routine in the skincare remake).
+Always measure the original (`ffprobe`) and write its timeline into the plan before generating.
+
 ## 2. Make it more viral than the original
 - **Frame 1 = a face mid-reaction** plus the hook text. No slow start.
 - **Exaggerate the cartoon acting:** bigger eyes, longer deadpan stare, sharper side-eye,
   dramatic freezes. That's the advantage of cartoon characters.
 - **Punch-in zoom** on the punchline reaction, plus a sound effect (record scratch, "bruh",
   dramatic sting) if the trend allows.
-- **Keep it tight:** cut any dead frames; if the original is 15 s, aim for 12–15 s.
+- **Same length as the original** (see the length rule above); make it feel tighter with sharper acting and sound, not by cutting.
 - **Loop the ending** back into frame 1 when the format allows it.
 - **Captions** big, centred and high-contrast, synced to the beat.
 - Before posting: run Higgsfield's virality predictor on the final edit and fix any weak
