@@ -1,6 +1,6 @@
 {
-  "videos_per_day": 1,
-  "daily_credit_cap": 25,
+  "videos_per_day": 2,
+  "daily_credit_cap": 60,
   "min_credit_reserve": 5,
   "video": {
     "model": "seedance_2_0",
@@ -20,16 +20,37 @@
     "cost_per_8s_clip_credits": 56
   },
   "trend_sources": [
+    "daily/inbox.md",
     "https://virlo.ai/trends",
     "WebSearch",
-    "tiktok_music_trending (needs TikTok connected)"
+    "Creative Center top hashtags (logged out)"
   ],
   "schedule": {
     "timezone": "America/New_York",
     "run_starts": "08:17",
     "review_window": "09:00-12:00",
-    "post_instagram_reels": "12:00",
-    "post_tiktok": "19:00",
+    "post_instagram_reels": [
+      "12:00",
+      "19:00"
+    ],
+    "post_tiktok": [
+      "13:00",
+      "19:30"
+    ],
     "note": "Benchmarks only. After 14 days, replace with your own peak hours from TikTok Analytics > Followers and Instagram Insights > Most active times."
+  },
+  "approval_gate": true,
+  "trend_filters": {
+    "max_age_days": 7,
+    "min_views": 1000000,
+    "or_min_views_with_share_rate": {
+      "views": 300000,
+      "share_rate_pct": 1.0
+    },
+    "min_creators_copying": 20
+  },
+  "episodes": {
+    "note": "Once Creator Rewards eligible: stitch 5-7 shorts into a 60-75 s TikTok episode every 1-2 days.",
+    "new_intro_outro_seconds": 15
   }
 }

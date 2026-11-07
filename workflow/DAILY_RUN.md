@@ -17,20 +17,12 @@ Repo layout used by the run:
 2. Read `workflow/config.json`, `characters/kenji-yuki.json`, the last 14 days of `daily/trends-log.md`, and `daily/performance.md`.
 3. Higgsfield `balance`. If credits < `min_credit_reserve` + one clip, skip generation, write briefs only, and say "top up needed" at the top of the review file.
 
-## 1. Trend scan (free)
-Sources, in order:
-1. `https://virlo.ai/trends` (via the web-fetch agent): list of trending formats with stage (Fresh/Rising/Peaking/Fading), creator counts and example TikTok links.
-2. One `WebSearch` (standard) for "viral TikTok trend this week" + today's month/year, for anything Virlo misses.
-3. If a TikTok account is connected in Higgsfield: `tiktok_music_trending` (US, 7DAY) for sound suggestions.
-
-Pick **`videos_per_day`** formats. Score each 1–5 on:
-- **Stage**: Fresh/Rising = best, Peaking = ok, Fading = skip.
-- **Animal-remake fit**: physical comedy, reactions, a couple dynamic, or a relatable work/love/everyday situation, readable *without* dialogue.
-- **Producible in one 8–10 s clip** (one location, 2–4 beats).
-- **Not used in the last 14 days** (`trends-log.md`).
-- **Money angle**: shareable (people tag a partner/coworker) > merely funny.
-
-Skip anything sexual, dangerous, mocking a real private person, or built on a copyrighted clip that only works with the original footage.
+## 1. Trend search (free)
+Follow `workflow/TREND_SEARCH.md`: collect candidates (inbox, Virlo, WebSearch, Creative Center) → verify each with
+`node workflow/scripts/tiktok_stats.js <urls>` → apply `trend_filters` from config → score → write the top 3 to
+`daily/YYYY-MM-DD/shortlist.md` (numbers + remake idea each).
+If `approval_gate` is true: send the shortlist to the human (SendUserFile, proactive) and STOP. Generation resumes when
+the human replies with picks. Otherwise continue with the top `videos_per_day`.
 
 ## 2. Remake brief (free)
 For each pick, write in the review file:
