@@ -99,5 +99,5 @@ Pin on both profiles: **intro + best 2 performers** (update the pins weekly).
 - [ ] Trending sound added **in-app**
 - [ ] AI label turned on
 - [ ] Caption + 3–8 hashtags + pinned comment
-- [ ] Cover frame chosen (a face mid-reaction, with the hook text visible)
+- [ ] Cover frame chosen (a face mid-reaction, with the hook text visible). **Instagram covers: keep all text and faces inside the centre square (y 420–1500 of 1920)** so they survive the 9:16, 3:4, 4:5 and 1:1 crops
 - [ ] Reply to the first comments within the first hour

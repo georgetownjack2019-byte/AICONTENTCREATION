@@ -12,7 +12,7 @@
 **Settings:** AI-generated content label ON · post 12:30 pm or 7:30 pm (audience time zone)
 
 ## Instagram Reels
-**Cover:** `covers/cover_A_duo.png` (Reel) · check the grid preview with `covers/cover_A_duo_ig_grid_3x4.png`
+**Cover:** `covers/cover_A_ig_safe.png` (title in the centre, so it survives the 9:16, 3:4, 4:5 and 1:1 crops). If Instagram forces a crop, use the matching `_3x4`, `_4x5` or `_1x1` file.
 **Caption:**
 ```
 5 steps of skincare vs 1 splash of water… and somehow HE'S the one glowing 😑✨
