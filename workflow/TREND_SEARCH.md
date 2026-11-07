@@ -27,7 +27,7 @@ and pattern analysis. Until the Virlo connector is set up, the human exports it 
 `vidiq_instagram_tiktok_outlier_search`, last 7 days, `viewsMin` 500K, 8 results per platform. Run one search per theme
 (couple, work, everyday/Pilates) plus one `format` search to confirm the top Virlo trend on Instagram. Each result gives
 views ÷ creator median (outlier score), 0–3 s hook, and format template. Treat ≥ 2 outliers of the same format as a pattern.
-Free plan: 150 credits/month ≈ 1 search/day. Daily use (4 searches) needs a paid plan.
+Plan: **vidIQ Boost, 2,000 credits/month** (renews on the 7th). Daily budget ≈ 30 credits: ~4 outlier searches (5 each) + 1 `vidiq_watch_shortform_content` breakdown (10) for dialogue/sound-driven originals. Don't use vidIQ for music (Higgsfield ElevenLabs Music ≈ 2–4.4 credits per track).
 
 ## Step 2: Verify with real numbers (free)
 `node workflow/scripts/tiktok_stats.js <url> ...` reads the public video page and returns
