@@ -51,7 +51,7 @@ Job IDs: `v4-jobs.md` · storyboards: `bowl-v4-storyboard.md`, `arm-steal-v4-sto
 - Video: `final_dont-touch-the-bowl_v2.mp4` (36.0 s, voiced with lip-sync) · base: @the_tolers (6.1M, 36 s)
 - Clips: A `4fb60050` (retry; take 1 left a duplicate check on the counter), B `05182e0f` (retry from A's last frame; take 1 showed the old macaron), C `c89b081a` cut at 8.35 s + 3.4 s hold on Yuki's baffled face. Opening still `b9512360`.
 - Look: bright static phone-cam kitchen (sage cabinets, oak island), terracotta bowl, Yuki in a sage sweatshirt, Kenji in a navy hoodie.
-- Hook (whole video): "When your girl tries to prank you back..."
+- Hook (whole video, clean white label via caption.py): "When your girl tries to prank you back..."
 - Sound: native voices + quiet sneaky music (cut at the reveal) + magic sparkle, whoosh + sting on the empty bowl. -13.7 LUFS.
 - Caption: "She really thought she had me 😌🪄 Did you catch it?" · #KenjiAndYuki #couplepranks #donttouchthebowl #magictrick #shiba
 
