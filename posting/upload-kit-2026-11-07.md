@@ -38,12 +38,12 @@ Tag them 👇
 ---
 
 ## 3. PRANK: "When your girl tries to prank you back..." (Don't touch the bowl v2)
-- **File:** `daily/2026-11-07/final_dont-touch-the-bowl_v2.mp4` (36.3 s, voices + sound, caption burned in)
+- **File:** `daily/2026-11-07/final_dont-touch-the-bowl_v2.mp4` (36.0 s, voices + sound, caption burned in; fixed version: check as prize, Kenji pockets it)
 - **Cover:** `posting/cover_dont-touch-the-bowl_v2.jpg` ("SHE TRIED TO PRANK HIM")
 
 **TikTok caption:**
 ```
-she really thought she had me 😌🪄 how did he do it?? #KenjiAndYuki #couplepranks #donttouchthebowl #shiba #fyp
+she really thought she had me 😌🪄 did you catch it?? #KenjiAndYuki #couplepranks #donttouchthebowl #shiba #fyp
 ```
 **Instagram caption:**
 ```
