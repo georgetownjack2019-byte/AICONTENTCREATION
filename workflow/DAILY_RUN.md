@@ -83,3 +83,13 @@ Credits: start X → end Y (spent Z)
 ## Known generation pitfalls
 - **Banknotes/currency trigger Higgsfield's IP filter** (status `ip_detected`, credits refunded). Replace money with a treat, a ticket or a gift card shape.
 - `ip_detected` and other failures are refunded. Check `transactions` before retrying, and retry at most once with the trigger removed.
+
+## Creative bar (from user feedback, 2026-11-07)
+Every video must be **very funny, cute and dramatic**. Before generating, check the shot list against the original:
+- Copy the **setup that makes the payoff hurt** (e.g. she starts hugging his arm, so losing it matters).
+- Keep characters **in the original's state** (asleep stays asleep; half-asleep actions are funnier).
+- **Exaggerate** expressions and motion: huge pouts, saucer eyes, pancake flips. Ask for "extra cute, plush, big sparkly eyes".
+- **Sound design is mandatory:** a music bed (vidIQ `vidiq_generate_music`, 25 vidIQ credits, reusable) plus timed SFX
+  (Higgsfield `mirelo_text_to_audio`, 0.5 credits per 2 s): snores, huffs, a dramatic sting on the reveal, whooshes, hums, sighs.
+  Silence just before the reveal makes the sting land. Mix with `workflow/scripts/sound_mix.py` (normalises to -14 LUFS).
+- Default to **approval mode**: stop after the shot list and after the stills, and before spending on animation.

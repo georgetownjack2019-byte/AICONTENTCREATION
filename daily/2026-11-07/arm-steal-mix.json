@@ -1,0 +1,11 @@
+{"original_volume": 0.25,
+ "music": {"src": "./lullaby.wav", "volume": 0.35, "segments": [[0, 4.0], [7.6, 15.65]], "fade": 0.3},
+ "sfx": [
+  {"src": "sfx/1.mp3", "at": 0.3, "volume": 1.8},
+  {"src": "sfx/1.mp3", "at": 1.9, "volume": 1.5},
+  {"src": "sfx/2.mp3", "at": 4.4, "volume": 0.9},
+  {"src": "sfx/3.mp3", "at": 6.04, "volume": 0.9},
+  {"src": "sfx/4.mp3", "at": 8.1, "volume": 2.6},
+  {"src": "sfx/5.mp3", "at": 10.0, "volume": 1.0},
+  {"src": "sfx/6.mp3", "at": 13.1, "volume": 0.85}
+ ]}
