@@ -11,3 +11,4 @@ Generated for Kenji & Yuki; reuse freely.
 | sfx/happy-hum.mp3 | Mirelo | smug or happy ending |
 | sfx/defeated-sigh.mp3 | Mirelo | Kenji deadpan give-up |
 | music/cute-lullaby.mp3 | vidIQ music (royalty-free, 71 s) | cozy, cute, bedtime, romantic |
+| music/sneaky-prank.mp3 | vidIQ music (royalty-free, 80 s) | pranks, schemes, sneaky moments |
