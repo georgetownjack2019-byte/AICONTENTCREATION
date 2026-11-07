@@ -15,3 +15,5 @@ characters, outfits, props and set are our own.
 
 Rejected first tries: shot 1 (3-panel grid, fox-like Kenji, yellow Yuki), shot 2 (extra character at the edge).
 Status: stills awaiting user review → then animate (5 × 5 s clips, ~7.5 credits each).
+
+User review: Kenji's face drifted (longer snout, narrower head) in shots 1, 3 and 5. Added face close-up references; redo those shots. On hold until the user brings a Virlo original that may replace this storyboard.

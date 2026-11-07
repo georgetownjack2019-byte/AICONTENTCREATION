@@ -9,8 +9,11 @@ dating, whatever the joke needs).
 - Kenji: `refs/kenji_v3.png`, Higgsfield job `77791ae9-984c-479d-bba1-7395d3da963e`
 - Yuki: `refs/yuki_v4.png`, Higgsfield job `15415dfd-6ca1-47c3-9669-0600172b81ae`
 
-Attach the sheet of every character who appears in a shot as an image reference (pass the
-job ID with type `image_job`). Duo shots get both sheets.
+Face close-ups (cropped from the sheets, for face accuracy):
+- Kenji: `refs/kenji_face_ref.png`, media `aac7c468-7ad5-42c2-b51f-489b11ca3d22`
+- Yuki: `refs/yuki_face_ref.png`, media `7fd54802-d02e-453d-b4b7-fb05bae11aec`
+
+Attach the sheet **and** the face close-up of every character in a shot (see `PROMPTS.md`).
 
 ## Visual style
 Stylized **3D cartoon**, animated-feature-film look (the "orange cat video" style):

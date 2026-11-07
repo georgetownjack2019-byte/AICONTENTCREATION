@@ -1,14 +1,27 @@
 # Prompt templates
 
-Attach the official sheet of each character in the shot as an image reference:
-- Kenji: job `77791ae9-984c-479d-bba1-7395d3da963e`
-- Yuki: job `15415dfd-6ca1-47c3-9669-0600172b81ae`
+For each character in the shot, attach **two** image references: the full sheet (body,
+height, outfit) and the face close-up (face shape). Face drift is the most common failure;
+the face close-up is what prevents it.
+
+| Character | Full sheet (job) | Face close-up (media) |
+|---|---|---|
+| Kenji | `77791ae9-984c-479d-bba1-7395d3da963e` | `aac7c468-7ad5-42c2-b51f-489b11ca3d22` (`refs/kenji_face_ref.png`) |
+| Yuki | `15415dfd-6ca1-47c3-9669-0600172b81ae` | `7fd54802-d02e-453d-b4b7-fb05bae11aec` (`refs/yuki_face_ref.png`) |
+
+Duo shots: Kenji sheet, Kenji face, Yuki sheet, Yuki face (in that order), and say so in the prompt.
+
+**Face-check before showing any still:** crop the character's face and compare it side by side
+with the face close-up. Kenji must have a very round, chubby, plush-toy head, a SHORT small
+muzzle, a tiny mouth, big round eyes, wide cream cheek fluff, and large cream eyebrow dots.
+Reject any long or realistic dog snout, narrow head, fox or wolf look, or long neck.
 
 Keep the **LOCK** sentences word-for-word. Only edit the `[...]` parts.
 
 ## LOCK sentences (paste unchanged)
-**Kenji:** Kenji is the same character as the Kenji reference sheet: identical face,
-bright red-orange Shiba Inu coat, cream cheeks/muzzle/chest, cream eyebrow dots, pointed
+**Kenji:** Kenji is the same character as the Kenji reference sheet and face close-up:
+identical face, very round chubby plush-toy head, short small muzzle, tiny mouth, wide cream
+cheek fluff, large cream eyebrow dots, bright red-orange Shiba Inu coat, cream cheeks/muzzle/chest, cream eyebrow dots, pointed
 upright ears, fluffy curled tail, big round brown eyes, tall lean broad-shouldered body,
 clearly taller than Yuki. His coat is a deeper red-orange than Yuki's.
 
