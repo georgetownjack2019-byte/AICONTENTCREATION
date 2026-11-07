@@ -40,3 +40,8 @@ Look (changed so it does not copy the original): bright kitchen with pale sage c
 Approved-style stills: A `ceaa7380-94ca-4196-ab48-71767f8336b4`, B `bf9afb9a-c93c-4ebb-b441-5fe2418d341f`, C `639d6dbe-4a8b-4675-b130-2c97b08f984a`.
 Sound: native voices + our sneaky music bed + sting on the reveal (sound_mix.py).
 Cost: 3 stills (6) + 3 × 12 s Seedance Fast with audio (90) = **~96 credits**.
+
+## Revision after user feedback (final)
+- Prize: a **check** (not a macaron, not cash). Line: "If you can get this check from under this bowl..."
+- 0-3 s, like the original: while Yuki talks to the camera and flips the bowl, **Kenji picks up the check and pockets it**; she sets the bowl over the bare counter.
+- Ending: original ending (Yuki alone, baffled: "How did that even happen?!"); Kenji's chewing twist removed.

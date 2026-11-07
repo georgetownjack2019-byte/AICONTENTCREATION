@@ -1,9 +1,8 @@
 {"original_volume": 1.0,
- "music": {"src": "/home/user/AICONTENTCREATION/assets/music/sneaky-prank.mp3", "volume": 0.13, "segments": [[0, 19.6], [24.8, 36.3]], "fade": 0.4},
+ "music": {"src": "/home/user/AICONTENTCREATION/assets/music/sneaky-prank.mp3", "volume": 0.13, "segments": [[0, 19.2], [24.0, 36.0]], "fade": 0.4},
  "sfx": [
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/magic-sparkle.mp3", "at": 12.2, "volume": 0.7},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/magic-sparkle.mp3", "at": 13.6, "volume": 0.6},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/whoosh-grunt.mp3", "at": 20.6, "volume": 0.6},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/dramatic-sting.mp3", "at": 20.9, "volume": 0.55},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/crunch-chew.mp3", "at": 34.3, "volume": 0.9}
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/magic-sparkle.mp3", "at": 12.3, "volume": 0.7},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/magic-sparkle.mp3", "at": 13.7, "volume": 0.6},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/whoosh-grunt.mp3", "at": 19.5, "volume": 0.6},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/dramatic-sting.mp3", "at": 19.8, "volume": 0.55}
  ]}
