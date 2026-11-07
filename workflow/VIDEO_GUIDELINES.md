@@ -34,7 +34,7 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
 ## 4. Cute, always
 - Extra cute, plush, **big sparkly eyes**, round cheeks, small paws, soft lighting.
 - Faces locked to the reference sheets (`characters/kenji-yuki.json`); outfits change every video.
-- Old-money styling: cashmere, silk, linen, pearls, tailored pieces, elegant interiors.
+- **Normal, everyday styling**: casual, relatable outfits and settings that fit the scene (hoodies, pajamas, gym wear, work clothes; regular apartments, offices, kitchens, gyms). No special aesthetic required.
 
 ## 5. Never
 - Real money or banknotes on screen (trips Higgsfield's copyright filter).

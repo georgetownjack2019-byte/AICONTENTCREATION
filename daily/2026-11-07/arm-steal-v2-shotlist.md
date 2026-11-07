@@ -9,6 +9,10 @@ Feedback on v1: not as funny or cute as the original; Kenji's arm wasn't in Yuki
 - **Exaggerated, dramatic acting:** big grumpy pout, eyes popping to huge saucers, an aggressive yank that *flips Kenji like a pancake*.
 - **Sound design carries the jokes** (see the timing table).
 
+## Style (normal, everyday)
+Regular cozy bedroom (simple bed, fluffy duvet, plushies, a small bedside lamp, phone charging on the nightstand).
+Kenji in a grey oversized t-shirt and plaid pajama pants; Yuki in a pastel pink pajama set with a scrunchie on her ear.
+
 ## Shots (~15 s)
 | # | Time | Shot | Action | Sound | Type |
 |---|---|---|---|---|---|
