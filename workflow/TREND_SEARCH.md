@@ -32,6 +32,14 @@ toxic vs normal  2026-11-01  262K views  554 shares  0.21%  168 s
 - The format is being copied (Virlo shows ≥ 20 creators), so it's a trend and not a one-off.
 - Not dangerous to imitate, not sexual, not mocking a real private person, and the joke doesn't depend on the original person's face or voice.
 
+## Step 2b: Copy check: does this format still work for *other* creators? (free)
+One viral video can be luck, a celebrity, or one person's charisma. Before spending credits, check the
+**copies**: 5–10 videos from different creators using the same format/sound, posted in the last 7 days
+(from Virlo examples, the sound page, the hashtag page, or inbox links). Run `tiktok_stats.js` on them.
+- **Pass:** at least half the copies have ≥ 100K views, and the newest copies (last 3 days) still get views.
+- **Fail:** only the original is big, or the newest copies are flat (the trend is saturated).
+Write the copy stats into the shortlist so the human can see the evidence.
+
 ## Step 3: Score the survivors (0–100)
 | Factor | Weight | Why it matters for money |
 |---|---|---|
