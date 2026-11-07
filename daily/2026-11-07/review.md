@@ -49,7 +49,7 @@ Job IDs: `v4-jobs.md` · storyboards: `bowl-v4-storyboard.md`, `arm-steal-v4-sto
 ## A. "Don't touch the bowl" v2 (fixed after feedback)  QC: PASS
 - Feedback fixed: prize is now a **check** (no macaron), and the storyline follows the original: **Kenji pockets the check while Yuki flips the bowl**, she puts the bowl over an empty spot, ending = Yuki alone and baffled (no chewing twist).
 - Video: `final_dont-touch-the-bowl_v2.mp4` (36.0 s, voiced with lip-sync) · base: @the_tolers (6.1M, 36 s)
-- Clips: A `4fb60050` (retry; take 1 left a duplicate check on the counter), B `05182e0f` (retry from A's last frame; take 1 showed the old macaron), C `c89b081a` cut at 8.35 s + 3.4 s hold on Yuki's baffled face. Opening still `b9512360`.
+- Clips: A `46b832a1` (final: Yuki holds the bowl low over the small folded check while talking to camera; Kenji sneaks it out from under the rim; earlier takes 4fb60050/167dc715/5fe164a8 rejected: check too big / not sneaky / no swipe), B `05182e0f`, C `c89b081a` cut at 8.35 s + 3.4 s hold on Yuki's baffled face. Opening still `65284ebc`, steal reference `1dcbe3a8`.
 - Look: bright static phone-cam kitchen (sage cabinets, oak island), terracotta bowl, Yuki in a sage sweatshirt, Kenji in a navy hoodie.
 - Hook (whole video, clean white label via caption.py): "When your girl tries to prank you back..."
 - Sound: native voices + quiet sneaky music (cut at the reveal) + magic sparkle, whoosh + sting on the empty bowl. -13.7 LUFS.

@@ -15,3 +15,4 @@ Wan 2.7 4 s from the pout close-up (media 7fc33327): de270d1f-3e36-4314-a2f1-f20
 Clip A attempt (original choreography, start 6a1454e7): 167dc715-88b7-4549-821c-62d3a9fb8ea9 (submitted before user's correction; likely unused)
 Sneaky-swipe stills (user feedback: check too big, swipe not sneaky): back-turned options 1eb04772 / 62daaaab; original-staging 6a1454e7; bowl hovering over check 5a53cffb, 39ef3795 (outfits wrong), 00ca7e0e (proposed, awaiting user OK)
 Attempt 167dc715 reviewed: no swipe (check stays on counter) -> unused. Fixed clip A from 00ca7e0e: 5fe164a8-cd26-4ba2-9f70-0474897be245
+Low-bowl start 65284ebc + steal ref 1dcbe3a8 (bafc2ded had a duplicate check): clip A 46b832a1-1538-4e78-b35a-758fdf6c8cfc. 5fe164a8 (bowl held high) still to review.
