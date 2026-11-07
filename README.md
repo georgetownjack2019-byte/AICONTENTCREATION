@@ -1,14 +1,8 @@
-# AI Content Creation
+# AI Content Creation — Kenji & Yuki
 
-A workspace for experimenting with AI-assisted content creation.
+A viral Instagram/TikTok animal-character account starring two sassy Shibas.
 
-## Status
+- [Character bible](characters/BIBLE.md): who Kenji and Yuki are and what must stay consistent
+- [Content strategy](content/STRATEGY.md): format, pillars, production pipeline, monetisation
 
-Initial setup. This commit checks that the development workflow works from end to end
-(branch, commit, push).
-
-## Ideas for next steps
-
-- Content generation scripts (blog posts, social captions, newsletters)
-- Prompt templates for different content types and tones
-- A simple review/editing workflow for generated drafts
+Videos are generated with Higgsfield.
