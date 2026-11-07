@@ -79,3 +79,7 @@ Credits: start X → end Y (spent Z)
 - Sound: ...  Original format: <link>  Post at: <time>
 - Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
 ```
+
+## Known generation pitfalls
+- **Banknotes/currency trigger Higgsfield's IP filter** (status `ip_detected`, credits refunded). Replace money with a treat, a ticket or a gift card shape.
+- `ip_detected` and other failures are refunded. Check `transactions` before retrying, and retry at most once with the trigger removed.

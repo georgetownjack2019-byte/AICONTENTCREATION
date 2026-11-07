@@ -15,9 +15,11 @@ MAXLEN=$(( ${#L1} > ${#L2} ? ${#L1} : ${#L2} ))
 # Fit the longest line into ~90% of the width (bold sans averages ~0.55 em per char), cap at H/26.
 FS=$(awk -v w="$W" -v h="$H" -v n="$MAXLEN" 'BEGIN{a=int(0.9*w/(0.55*n)); b=int(h/26); print (a<b?a:b)}')
 esc() { printf '%s' "$1" | sed -e "s/\\\\/\\\\\\\\/g" -e "s/:/\\\\:/g" -e "s/'/\\\\'/g" -e "s/%/\\\\%/g"; }
-F="drawtext=fontfile=$FONT:text='$(esc "$L1")':fontsize=$FS:fontcolor=white:borderw=5:bordercolor=black:x=(w-text_w)/2:y=h*0.12:enable='lt(t,3.5)'"
+printf '%s' "$L1" > "$TMP/l1.txt"; printf '%s' "$L2" > "$TMP/l2.txt"
+# Text is read from files so apostrophes/colons need no escaping.
+F="drawtext=fontfile=$FONT:textfile=$TMP/l1.txt:fontsize=$FS:fontcolor=white:borderw=5:bordercolor=black:x=(w-text_w)/2:y=h*0.12:enable='lt(t,3.5)'"
 if [[ -n "$L2" ]]; then
-  F="$F,drawtext=fontfile=$FONT:text='$(esc "$L2")':fontsize=$FS:fontcolor=white:borderw=5:bordercolor=black:x=(w-text_w)/2:y=h*0.12+$FS*1.3:enable='lt(t,3.5)'"
+  F="$F,drawtext=fontfile=$FONT:textfile=$TMP/l2.txt:fontsize=$FS:fontcolor=white:borderw=5:bordercolor=black:x=(w-text_w)/2:y=h*0.12+$FS*1.3:enable='lt(t,3.5)'"
 fi
 ffmpeg -v error -y -i "$TMP/raw.mp4" -vf "$F" -c:v libx264 -crf 20 -preset medium -c:a copy -movflags +faststart "$OUT"
 ffmpeg -v error -y -i "$OUT" -vf "fps=1,scale=270:-1,tile=4x2" -frames:v 1 "${OUT%.mp4}_qc.png"
