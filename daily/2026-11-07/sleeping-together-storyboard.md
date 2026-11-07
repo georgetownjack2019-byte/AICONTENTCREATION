@@ -13,15 +13,19 @@ Core joke: she's a clingy sleeper → he escapes → pure bliss → she finds hi
 ## Outfit line (paste word for word into every prompt)
 "Kenji: plain heather-grey crewneck t-shirt. Yuki: pastel pink button-up pajama set, pink scrunchie on her left ear. Do not use the outfits from the reference sheets; faces and fur only."
 
-## Shots (30 s, matched to the original's timing)
-| # | Time | Camera | Action | Sound | Type |
-|---|---|---|---|---|---|
-| 1 | 0–5 s | Wide top-down, static | Both tucked in UNDER the duvet up to their chests in the middle of the bed; Yuki asleep, cuddled tight around Kenji | lullaby | Wan 5 s |
-| 2 | 5–12 s | Close-up of both faces | Yuki's paw squashed on Kenji's cheek; **Kenji wide awake, overheated, miserable**; he lifts her paw off, it flops right back; side-eye to camera | lullaby, defeated sigh | Wan 7 s |
-| 3 | 12–16 s | Wide top-down | Kenji carefully wiggles free and scoots to the far right edge; Yuki stays asleep in the middle | sheet rustle | Wan 4 s |
-| 4 | 16–21 s | Close-up of Kenji alone | Starfished, eyes closed, **huge blissful smile**, deep happy sigh | happy hum | Wan 5 s |
-| 5 | 21–24 s | Wide top-down | Music cuts. Yuki, still asleep, **slides across the bed like a homing missile** and latches onto him | silence → whoosh + sting | Wan 4 s |
-| 6 | 24–30 s | Close-up of both | Yuki wrapped around him again, paw on his cheek, blissful; **Kenji opens one eye, defeated deadpan to camera** | lullaby back, defeated sigh | Wan 6 s |
+## Shots v2 (30 s, from vidIQ's audio-aware breakdown)
+Original sound = **no music**, only SFX: soft snoring, sleepy grunt, sighs, cartoon scooting rustles, a soft "plop".
+Ours: same SFX-led design (soft, non-squeaky snore), plus an optional very quiet lullaby bed (0.12 volume).
+Covers: original lies on top of the sheets; **ours stay tucked under the duvet** (user choice).
+
+| # | Time | Camera | Action | Sound | Start still | Wan |
+|---|---|---|---|---|---|---|
+| 1 | 0–4.5 s | Wide top-down | Both asleep, cuddled; at 2.5 s Yuki lazily **flops her arm across Kenji's face** | soft snoring, plop at 2.5 s | 6cc10315 | 5 s |
+| 2 | 4.5–11.5 s | Close-up both | Kenji's eyes pop open under her paw (sweat drop); he **lifts her arm off**, sets it down, tired sigh, closes his eyes again | sleepy grunt 4.5–6, sigh 7.5 | 52ec82e7 | 7 s |
+| 3 | 11.5–16.5 s | Wide top-down | Kenji **inchworm-scoots** under the covers to the far right edge in little wiggles | rustle on every scoot | bf14e20b | 5 s |
+| 4 | 16.5–19.5 s | Tight close-up Kenji | Huge blissful smile, eyes closed, arms spread | happy sleepy sigh 17.5 | 5fc505ac | 3 s |
+| 5 | 19.5–24.5 s | Wide top-down | Kenji at peace; Yuki senses the empty space and **furiously scoots** across until she's pressed against him | fast scooting friction 20.5–23.5 | d3d64768 | 5 s |
+| 6 | 24.5–30 s | Close-up both | **25.5 s: her paw plops right back on his face**; **27 s: one eye opens, pure defeat** | plop 26.0, fade on breathing | new raised-paw still | 6 s |
 
 On-screen caption (whole video, clean label): "Sleeping next to her be like"
 Post caption adds something new: "send this to the one who steals your side of the bed 😌"
