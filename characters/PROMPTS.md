@@ -19,8 +19,7 @@ petite slim body, about a head shorter than Kenji. No ribbon, bow or hair access
 unless the scene asks for one.
 
 **Style:** Stylized 3D animated-feature-film cartoon render, soft stylized fur,
-expressive faces, soft cinematic lighting, vertical 9:16. Quiet-luxury old-money
-wardrobe. Muted desaturated palette only (ivory, cream, oatmeal, camel, taupe, soft grey,
+expressive faces, soft cinematic lighting, vertical 9:16. Muted desaturated palette only (ivory, cream, oatmeal, camel, taupe, soft grey,
 muted navy, soft sage, chocolate brown); no saturated or bright colours. Not photoreal, no human hair
 unless stated, no text, no watermark, no brand logos on props or clothing.
 
@@ -37,7 +36,17 @@ unless stated, no text, no watermark, no brand logos on props or clothing.
 > [Name LOCK] [Name] dressed as [costume], full body, standing pose, pure white
 > background, centered, [expression]. [Style]
 
-## Outfit ideas (old money, muted)
+## Outfit ideas: everyday (trend shorts)
+| Scene | Kenji | Yuki |
+|---|---|---|
+| Home / lazy day | Grey hoodie, sweatpants, socks | Oversized tee, bike shorts, claw clip |
+| Bedtime | Plain tee, plaid PJ pants | Matching soft PJ set |
+| Work (hybrid) | Navy quarter-zip, chinos | Beige knit sweater, straight jeans |
+| Gym / Pilates | Black tee, shorts, trainers | Ribbed workout set, grip socks |
+| Errands / weekend | Denim jacket, white tee, jeans | Cardigan, tank top, jeans, tote bag |
+| Going out | Black overshirt, dark jeans | Simple slip dress, cropped jacket |
+
+## Outfit ideas: old money (drama series)
 | Theme | Kenji | Yuki |
 |---|---|---|
 | Office | Charcoal flannel suit, ivory shirt, taupe knit tie | Oatmeal tweed blazer, cream silk blouse, camel trousers, pearls |

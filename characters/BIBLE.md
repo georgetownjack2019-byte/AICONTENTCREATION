@@ -18,7 +18,13 @@ slightly oversized heads, big glossy expressive eyes, very readable cream eyebro
 "brows", soft stylized fur, soft studio or warm cinematic lighting. Never photoreal.
 Vertical 9:16 framing.
 
-## Wardrobe direction: quiet luxury / old money
+## Wardrobe direction
+- **Trend shorts (default):** normal everyday clothes that fit the scene: hoodies, tees,
+  jeans, sweats, pyjamas, work-casual, gym wear. Relatable, not styled.
+- **Drama series / special posts:** quiet luxury / old money (below).
+- **Both:** keep colours soft and muted, no neon or saturated colours, no visible brand logos.
+
+### Old money (drama series)
 Tailored, understated, expensive-looking: cashmere, cable knits, oxford shirts, wool
 overcoats, pleated trousers and skirts, loafers, ballet flats, pearls, slim gold watch,
 structured leather bags. **Muted, desaturated palette only:** ivory, cream, oatmeal,
