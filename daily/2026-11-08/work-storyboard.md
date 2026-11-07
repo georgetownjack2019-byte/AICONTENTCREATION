@@ -15,3 +15,5 @@ faces and fur only. (Original: denim jacket over blue scrubs.)
 
 Production: 1 still → 1 Seedance 2.0 Fast 11 s clip with native audio (off-screen voices, no lip-sync needed), clean caption label.
 Cost ≈ 2 + 27.5 = **~30 credits**.
+
+Still: 56501565-a248-4f05-88c9-6d17a2d232d5 (first try 2b6205f8 had a phone in the foreground and Kenji looked at the camera)

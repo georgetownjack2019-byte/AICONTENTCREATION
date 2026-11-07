@@ -15,10 +15,12 @@ Length: **17.4 s**. Caption (whole video): "When you grab weights that are too h
 | 6 | 11-17.4 | Stands right over him, staring at the dumbbells; he freezes | Yuki stands right next to him, staring at the dumbbells, slow sip; Kenji frozen, sweating, side-eye to camera |
 
 ## Look (differs from the original)
-Bright small modern gym with mirrors, black rubber floor, plants, no arched windows (original: big gym with arched windows).
+Setting SIMILAR to the original (user request): big busy commercial gym, tall arched windows with fan-shaped panes high on the back wall, warm beige walls, rows of weight machines and cable stations, a long dumbbell rack along a mirror wall, dark rubber floor, a few blurry gym-goers in the background. Outfits stay our own.
 Outfit line (paste into every prompt): Kenji: plain black sleeveless gym tank, dark grey shorts, white sneakers. Yuki: lilac zip-up
 gym jacket over a black top, black leggings, white scrunchie on one ear, holding an iced matcha. Do not use the outfits from the
 reference sheets; faces and fur only. (Original: blue tee + light sweatpants; black tee.)
 
 Production: 3 stills (rack, bench struggle, Yuki standing over him) → 2 Wan 2.7 clips (0-8 s, 8-17.4 s), music bed + SFX
 (dumbbell clank, strain grunt, slurp, tense sting), clean caption label. Cost ≈ 6 + 27 = **~33 credits**.
+
+Stills: Gym 1 c4e6826d-4c39-4cee-a13a-16e6ebee6a6a · Gym 2 07ee3c5b-6a6f-4792-87ca-83a671cc5a38 · Gym 3 71a62307-676a-4c85-b0e7-04fb7c801ad5
