@@ -36,6 +36,7 @@ Production: 3 voiced clips of 12 s each (Seedance 2.0 Fast, native audio = cute 
 | C3 | 31-33 | Yuki | Shouting after him |
 | C4 | 33-36 | Yuki alone | Spins with the bowl, baffled; Kenji leans back in, chewing, deadpan to camera |
 
-Kitchen: white cabinets, stone island, metal mixing bowl. Yuki in a lilac oversized tee; Kenji in a grey tee and a cap.
+Look (changed so it does not copy the original): bright kitchen with pale sage cabinets, white subway tiles and a light-oak island (original: white kitchen, granite); a terracotta ceramic bowl (original: steel); Yuki in a sage-green sweatshirt with a tortoiseshell clip, Kenji in a navy hoodie, no cap (original: lilac tee; grey tee + white cap).
+Approved-style stills: A `ceaa7380-94ca-4196-ab48-71767f8336b4`, B `bf9afb9a-c93c-4ebb-b441-5fe2418d341f`, C `639d6dbe-4a8b-4675-b130-2c97b08f984a`.
 Sound: native voices + our sneaky music bed + sting on the reveal (sound_mix.py).
 Cost: 3 stills (6) + 3 × 12 s Seedance Fast with audio (90) = **~96 credits**.

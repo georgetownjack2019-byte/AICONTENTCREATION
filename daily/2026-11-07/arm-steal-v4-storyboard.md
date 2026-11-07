@@ -15,5 +15,6 @@ Changes: Kenji & Yuki (Shibas) instead of otters; our own pajamas (no beanie/flo
 | 7 | 15-19 | Closer two-shot | Hugging his arm, content smile; peeks one smug eye open, closes it | happy "mmm" | Wan 4 s |
 | 8 | 19-26.5 | Same closer two-shot | Kenji half-opens groggy eyes, side-eye (to camera), then a soft smile and back to sleep; fade to black | sigh, lullaby ends | Wan 7 s |
 
-Pajamas: Kenji in a grey tee; Yuki in pastel pink pajamas with a scrunchie on her ear. Plaid patchwork quilt, round moonlit window.
+Look (changed so it does not copy the original): plain dusty-blue duvet + chunky cream knit throw (original: patchwork quilt), rectangular window with sheer curtains and fairy lights (original: round porthole), upholstered headboard (original: round wooden bed). Kenji in a grey tee; Yuki in pastel pink pajamas with a scrunchie on her ear.
+Stills: 1 `d00e95f4-7b0a-49d9-b999-0c4d6d08e7cd`, 3 `54d216d0-7f2b-4d1e-8793-5b7eccd597a3`, 4 `404ce5c6-1017-47c8-8d31-349dcb3569de`, 5 `37bc1671-f5c2-4663-a354-228b18843d19`, 7 `ff00e231-a956-436a-924c-d82f9856fc4b`.
 Cost: 8 stills (16) + 26 s of Wan 2.7 at 1.5 credits/s (39) = **~55 credits**.
