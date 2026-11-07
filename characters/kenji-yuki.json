@@ -2,8 +2,10 @@
   "style": "stylized 3D animated feature-film style, anthropomorphic Shiba Inus who walk upright",
   "characters": {
     "kenji": {
-      "reference_job_id": "8e1ef7db-1e25-4976-b982-704130ad76d8",
-      "reference_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_142058_8e1ef7db-1e25-4976-b982-704130ad76d8.png",
+      "reference_media_id": "700a6a0d-cf0b-4fe3-89b5-9e749e497a2b",
+      "reference_media_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/700a6a0d-cf0b-4fe3-89b5-9e749e497a2b.png",
+      "legacy_reference_job_id": "8e1ef7db-1e25-4976-b982-704130ad76d8",
+      "legacy_reference_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_142058_8e1ef7db-1e25-4976-b982-704130ad76d8.png",
       "look": "red-orange fox-like coat, cream-white urajiro on cheeks/muzzle/chest, cream eyebrow dots, upright triangular ears, curled tail, dark brown eyes, stocky build",
       "personality": "confident, stylish, cocky; sharp deadpan reactions",
       "signature_moves": [
@@ -13,8 +15,10 @@
       ]
     },
     "yuki": {
-      "reference_job_id": "e9bee548-3ce6-46ba-8933-5dd244ebab3f",
-      "reference_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_142058_e9bee548-3ce6-46ba-8933-5dd244ebab3f.png",
+      "reference_media_id": "39b36152-4510-4fac-8230-b500193b39b0",
+      "reference_media_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/39b36152-4510-4fac-8230-b500193b39b0.png",
+      "legacy_reference_job_id": "e9bee548-3ce6-46ba-8933-5dd244ebab3f",
+      "legacy_reference_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_142058_e9bee548-3ce6-46ba-8933-5dd244ebab3f.png",
       "look": "cream coat with pale honey-gold on head/ears/back, cream-white urajiro, upright triangular ears, curled tail, amber-brown almond eyes with long lashes, petite build",
       "personality": "fashionable, playful sass; Pilates and matcha lover",
       "signature_moves": [
@@ -26,6 +30,7 @@
   },
   "rules": [
     "Faces, eyes and fur markings never change; outfits, hair accessories and props change every scene.",
-    "Pass only the reference sheets of characters who appear: solo = that one sheet as @image1; duo = Kenji @image1, Yuki @image2."
+    "Pass only the reference sheets of characters who appear: solo = that one sheet as @image1; duo = Kenji @image1, Yuki @image2.",
+    "Reference sheets live in the main Higgsfield account as imported media (media_import_url, 2026-11-07, sha256-identical to the originals). Pass reference_media_id in medias with role image_references."
   ]
 }
