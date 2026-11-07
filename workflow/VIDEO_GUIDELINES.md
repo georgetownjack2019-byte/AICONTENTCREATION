@@ -1,7 +1,7 @@
 # Kenji & Yuki: video-making guidelines
 
 Owner: you. Edit this file anytime; every session reads it before planning a video.
-**Every video must be FUNNY, DRAMATIC and ATTENTION-CATCHING** (and always cute).
+**Every video must be FUNNY, DRAMATIC and ATTENTION-CATCHING**, in the **style of its base video**.
 
 ---
 
@@ -27,14 +27,19 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
 - **Camera punches in** on the reveal (fast zoom), slow push-ins on reactions.
 - **Silence before the reveal**: cut the music for 1–2 s, then hit it.
 - **Sound design is mandatory** on every video:
-  - a music bed that fits the mood (cute lullaby, sneaky pizzicato, epic orchestral for fake drama)
+  - a music bed that fits the base video's mood (cozy lullaby, sneaky pizzicato, epic orchestral for fake drama, tense, chaotic…)
   - timed SFX on every beat: snores, huffs, **dramatic sting on the reveal**, whooshes, boings, hums, sighs
   - reusable library: `assets/` · mixer: `workflow/scripts/sound_mix.py` (normalises to -14 LUFS)
 
-## 4. Cute, always
-- Extra cute, plush, **big sparkly eyes**, round cheeks, small paws, soft lighting.
-- Faces locked to the reference sheets (`characters/kenji-yuki.json`); outfits change every video.
-- **Normal, everyday styling**: casual, relatable outfits and settings that fit the scene (hoodies, pajamas, gym wear, work clothes; regular apartments, offices, kitchens, gyms). No special aesthetic required.
+## 4. Match the base video's style
+- **Adapt the look and tone to each original**: cute and cozy for a cute original, chaotic and loud for a prank,
+  cringe/awkward for an office skit, cinematic for fake drama, deadpan for dry humour. Not every video has to be cute.
+- Copy the original's **visual language**: camera style (static phone cam, handheld vlog, POV, close-up reactions),
+  pacing, lighting mood, text style, and energy.
+- Kenji and Yuki stay **recognisable** in every style: faces locked to the reference sheets (`characters/kenji-yuki.json`);
+  expressions, outfits and rendering mood change with the video.
+- **Normal, everyday styling**: casual, relatable outfits and settings that fit the scene (hoodies, pajamas, gym wear,
+  work clothes; regular apartments, offices, kitchens, gyms).
 
 ## 5. Never
 - Real money or banknotes on screen (trips Higgsfield's copyright filter).
@@ -50,7 +55,7 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
 | Hook | Would a stranger stop scrolling in the first 2 s? |
 | Funny | Does the punchline land without explanation, at the original's timing? |
 | Dramatic | Are expressions, motion and sound exaggerated enough? |
-| Cute | Would someone send it to their partner or best friend? |
+| Style match | Does it feel like the original (tone, camera, pacing, energy) while clearly being Kenji & Yuki? |
 | Characters | Do Kenji and Yuki look like their reference sheets in every shot? |
 | Sound | Are there music and SFX on every beat, at the right loudness? |
 

@@ -13,7 +13,7 @@ Repo layout used by the run:
 ---
 
 ## Before anything: read `workflow/VIDEO_GUIDELINES.md`
-Every shot list and every finished video is checked against it (funny, dramatic, attention-catching, cute).
+Every shot list and every finished video is checked against it (funny, dramatic, attention-catching, matching the base video's style).
 Score each video with its table and only show the user videos scoring ≥ 4 on every line.
 
 ## 0. Setup checks (stop early if any fail)
@@ -89,10 +89,10 @@ Credits: start X → end Y (spent Z)
 - `ip_detected` and other failures are refunded. Check `transactions` before retrying, and retry at most once with the trigger removed.
 
 ## Creative bar (from user feedback, 2026-11-07)
-Every video must be **very funny, cute and dramatic**. Before generating, check the shot list against the original:
+Every video must be **very funny, dramatic and attention-catching, in the style of its base video**. Before generating, check the shot list against the original:
 - Copy the **setup that makes the payoff hurt** (e.g. she starts hugging his arm, so losing it matters).
 - Keep characters **in the original's state** (asleep stays asleep; half-asleep actions are funnier).
-- **Exaggerate** expressions and motion: huge pouts, saucer eyes, pancake flips. Ask for "extra cute, plush, big sparkly eyes".
+- **Exaggerate** expressions and motion: huge pouts, saucer eyes, pancake flips. Match the original's tone (cute only when the original is cute).
 - **Sound design is mandatory:** a music bed (vidIQ `vidiq_generate_music`, 25 vidIQ credits, reusable) plus timed SFX
   (Higgsfield `mirelo_text_to_audio`, 0.5 credits per 2 s): snores, huffs, a dramatic sting on the reveal, whooshes, hums, sighs.
   Silence just before the reveal makes the sting land. Mix with `workflow/scripts/sound_mix.py` (normalises to -14 LUFS).
