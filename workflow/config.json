@@ -1,7 +1,7 @@
 {
-  "videos_per_day": 2,
-  "daily_credit_cap": 45,
-  "min_credit_reserve": 20,
+  "videos_per_day": 1,
+  "daily_credit_cap": 25,
+  "min_credit_reserve": 5,
   "video": {
     "model": "seedance_2_0",
     "mode": "fast",
@@ -19,6 +19,17 @@
     "resolution": "720p",
     "cost_per_8s_clip_credits": 56
   },
-  "post_times_local": ["12:00", "19:00"],
-  "trend_sources": ["https://virlo.ai/trends", "WebSearch", "tiktok_music_trending (needs TikTok connected)"]
+  "trend_sources": [
+    "https://virlo.ai/trends",
+    "WebSearch",
+    "tiktok_music_trending (needs TikTok connected)"
+  ],
+  "schedule": {
+    "timezone": "America/New_York",
+    "run_starts": "08:17",
+    "review_window": "09:00-12:00",
+    "post_instagram_reels": "12:00",
+    "post_tiktok": "19:00",
+    "note": "Benchmarks only. After 14 days, replace with your own peak hours from TikTok Analytics > Followers and Instagram Insights > Most active times."
+  }
 }
