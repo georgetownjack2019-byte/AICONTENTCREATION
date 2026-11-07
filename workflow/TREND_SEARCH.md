@@ -17,6 +17,12 @@ Tested 2026-11-07. ✅ = works from an automated session, ⚠️ = partial, ❌ 
 | TikTok hashtag & sound pages (`find_copies.js`) | All videos using a sound/hashtag | ❌ "Something went wrong" when logged out |
 | Reddit, YouTube trending, Instagram | n/a | ❌ blocked / needs login |
 
+## Step 1b: vidIQ outlier search (5 vidIQ credits each)
+`vidiq_instagram_tiktok_outlier_search`, last 7 days, `viewsMin` 500K, 8 results per platform. Run one search per theme
+(couple, work, everyday/Pilates) plus one `format` search to confirm the top Virlo trend on Instagram. Each result gives
+views ÷ creator median (outlier score), 0–3 s hook, and format template. Treat ≥ 2 outliers of the same format as a pattern.
+Free plan: 150 credits/month ≈ 1 search/day. Daily use (4 searches) needs a paid plan.
+
 ## Step 2: Verify with real numbers (free)
 `node workflow/scripts/tiktok_stats.js <url> ...` reads the public video page and returns
 views, likes, comments, shares, saves, posting date, age, duration, caption and sound.
