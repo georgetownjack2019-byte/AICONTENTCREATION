@@ -38,3 +38,46 @@ Credits: start 103.76 → end ~83.76 (spent 20, 1 clip)
 - Sound: add a soft trending romantic/lofi sound in-app (the clips have only light ambience)
 - Note: the original is itself an AI-animated animal couple account ("Ollie & Dolly"). We copied the beats, not their characters or look.
 - Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
+
+---
+
+# v2 remakes (2026-11-07, afternoon): same script, storyboard and length as the originals
+Credits: start 1,000 → end 816.5 (spent 183.5: 23 stills = 46, Seedance 90, Wan 46.5 incl. one corrective take, SFX 1).
+Rule applied (now in VIDEO_GUIDELINES.md): copy beats, lines, timing and camera; swap outfits, props and set details.
+Job IDs: `v4-jobs.md` · storyboards: `bowl-v4-storyboard.md`, `arm-steal-v4-storyboard.md` · edits/mixes: `*-v4-edit.json`, `*-v4-mix.json`
+
+## A. "Don't touch the bowl" v2  QC: PASS
+- Video: `final_dont-touch-the-bowl_v2.mp4` (36.3 s, voiced with lip-sync) · base: @the_tolers (6.1M, 36 s)
+- 3 × 12 s Seedance 2.0 Fast clips with native audio; dialogue transcribed and checked line by line against the script.
+- Look: bright static phone-cam kitchen (sage cabinets, oak island), terracotta bowl, Yuki in a sage sweatshirt, Kenji in a navy hoodie.
+- Hook (on screen the whole video, like the original): "When your girl tries to prank you back..."
+- Sound: native voices + quiet sneaky music (cut at the reveal) + magic sparkle, whoosh + sting on the empty bowl, crunch on Kenji's chew. -13.2 LUFS.
+- Caption: "She really thought she had me 😌🪄 How did he do it?" · #KenjiAndYuki #couplepranks #donttouchthebowl #magictrick #shiba
+
+| Check | Score | Why |
+|---|---|---|
+| Hook | 4 | Hook text + Yuki mid-smirk pitching the dare from frame 1 |
+| Funny | 4 | Same beats and timing as the original; chewing-Kenji twist pays off the mystery |
+| Dramatic | 4 | Jaw drop + sting on the empty bowl, goofy magic ritual |
+| Style match | 5 | Static phone cam, bright kitchen, natural playful reactions, 36 s like the original |
+| Characters | 4 | Faces consistent with the sheets in all 3 clips; Yuki reads slightly golden |
+| Sound | 4 | Clear voices with lip-sync, music bed under, SFX on the trick, reveal and chew |
+- Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
+
+## B. "POV: his arm is officially yours" v2  QC: PASS
+- Video: `final_his-arm-is-mine_v2.mp4` (26.5 s) · base: @couplelovedaily (1.5M, 26.5 s)
+- 5 Wan 2.7 clips + 1 still (eyes pop), shot lengths matched to the original. Shots 5-6 regenerated once (first take swapped sides of the bed).
+- Look: cozy warm animated night scene, dusty-blue duvet + cream knit throw, curtained window with fairy lights (no quilt/porthole copy).
+- Caption (whole video): "POV: his arm is officially yours"
+- Sound: lullaby (silent from the pout to the pull-back), snores, huffs, sting on the eyes, whoosh on the yank, happy hum, sigh; fade out. -13.4 LUFS.
+- Post caption: "Send this to the one whose arm you steal every night 😌❤️" · #KenjiAndYuki #couplehumor #sendthistoyourman #shiba
+
+| Check | Score | Why |
+|---|---|---|
+| Hook | 4 | Relatable POV text + cuddle with snoring from 0 s |
+| Funny | 4 | Roll-away → pout → eye-pop → yank lands at the original's timing; Kenji's groggy side-eye ending |
+| Dramatic | 4 | Huge eye-pop with sting, pout push-in, yank with whoosh |
+| Style match | 5 | Same top-down framing, warm cozy lighting, slow lullaby pacing, 26.5 s |
+| Characters | 4 | Consistent across shots; Kenji's t-shirt simplifies a little during the yank |
+| Sound | 4 | Music + SFX on every beat, silence before the eye-pop |
+- Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____

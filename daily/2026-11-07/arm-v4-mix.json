@@ -1,0 +1,12 @@
+{"original_volume": 0.0,
+ "music": {"src": "/home/user/AICONTENTCREATION/assets/music/cute-lullaby.mp3", "volume": 0.4, "segments": [[0, 6.4], [11.8, 26.53]], "fade": 0.4},
+ "sfx": [
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/cute-snore.mp3", "at": 0.3, "volume": 1.6},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/cute-snore.mp3", "at": 2.2, "volume": 1.4},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/grumpy-huff.mp3", "at": 7.3, "volume": 1.0},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/dramatic-sting.mp3", "at": 9.0, "volume": 0.9},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/grumpy-huff.mp3", "at": 10.6, "volume": 0.8},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/whoosh-grunt.mp3", "at": 12.3, "volume": 2.2},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/happy-hum.mp3", "at": 15.6, "volume": 1.0},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/defeated-sigh.mp3", "at": 21.6, "volume": 0.9}
+ ]}

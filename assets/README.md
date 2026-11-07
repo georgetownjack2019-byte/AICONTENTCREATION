@@ -12,3 +12,5 @@ Generated for Kenji & Yuki; reuse freely.
 | sfx/defeated-sigh.mp3 | Mirelo | Kenji deadpan give-up |
 | music/cute-lullaby.mp3 | vidIQ music (royalty-free, 71 s) | cozy, cute, bedtime, romantic |
 | music/sneaky-prank.mp3 | vidIQ music (royalty-free, 80 s) | pranks, schemes, sneaky moments |
+| sfx/magic-sparkle.mp3 | Mirelo | fake magic trick, sparkle, reveal |
+| sfx/crunch-chew.mp3 | Mirelo | biting/chewing a snack |
