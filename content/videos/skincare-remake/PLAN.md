@@ -41,3 +41,7 @@ Stills: 8 credits. Animating: 4 × 3 s Kling clips = 18 credits (awaiting approv
 v2 clips: cleanser `fe792b35-047c-40c2-bbf5-e2deba8ceb7e`, toner `25b73770-ae2a-42ff-b900-d99c62fc6898`, sheet mask `aba710db-1e6a-498f-86d3-893f21b9ff55`, cream `988ecd4a-aaee-4076-a8c1-3f63527aa2e4`; music 16 s `84128800-5ab7-4ad8-a6bf-3c229dda88a2`.
 **final.mp4 v2:** 15 s, 1080×1920, −14.5 LUFS. Yuki 0–6.5 s (5 steps × 1.3 s, step counter, pop per step) · Kenji splash 6.5–10.5 · glow 10.5–12.5 · punchline + zoom 12.5–15.
 v2 extra credits: stills 8 + clips 18 + music ~1.75. Video total ≈ 82.
+
+## Original-length version (user: match the original's length)
+`final_original_length.mp4`: 11.9 s vs original 11.87 s. Yuki 0–3 s (5 steps × 0.6 s) · Kenji splash 3–7 · glow 7–9 · punchline 9–11.87 (same as the original).
+Built with `build_final_original_length.sh` (re-edit only, 0 credits). `final.mp4` (15 s, long Yuki routine) kept as the alternative.
