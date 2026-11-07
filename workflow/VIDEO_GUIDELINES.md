@@ -40,6 +40,13 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
   expressions, outfits and rendering mood change with the video.
 - **Normal, everyday styling**: casual, relatable outfits and settings that fit the scene (hoodies, pajamas, gym wear,
   work clothes; regular apartments, offices, kitchens, gyms).
+- **Same script and storyboard, different look (user rule, 2026-11-07).** Copy the original's beats, timing, lines,
+  camera angles and lighting mood, but never its specific visual details. Before making stills, list the original's
+  outfits, props, set pieces and patterns and swap each one for a different everyday option in the same spirit:
+  - outfits: never the original's colours/garments (e.g. grey tee + white cap + lilac tee -> navy hoodie + sage sweatshirt)
+  - props and textiles: a patchwork quilt becomes a knit throw or a plain duvet; keep only props the joke needs (the bowl)
+  - set pieces: a round porthole window becomes a regular window with curtains; change counter/cabinet colours
+  - Check the contact sheet side by side with the original and redo any frame that looks like a copy.
 
 ## 5. Never
 - Real money or banknotes on screen (trips Higgsfield's copyright filter).
