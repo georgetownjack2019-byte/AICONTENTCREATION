@@ -4,6 +4,11 @@ Two expressive anthropomorphic Shiba Inus. **Not a couple account.** Each one ca
 videos solo, and they also team up as a duo (coworkers, roommates, friends, rivals,
 dating, whatever the joke needs).
 
+## Visual style
+Stylized **3D cartoon**, animated-feature-film look (the "orange cat video" style):
+chunky appealing proportions, slightly oversized heads, big expressive eyes, very
+readable eyebrows, soft stylized fur, soft studio lighting. Never photoreal.
+
 ## Rule of consistency
 - **Locked (never changes):** face shape, coat colour, markings, eye shape, ear shape,
   overall render style.
@@ -40,5 +45,7 @@ dating, whatever the joke needs).
 ## Higgsfield reference sheets
 | Character | Job ID | Status |
 |---|---|---|
+| Kenji v2 (3D cartoon) | `8e1ef7db-1e25-4976-b982-704130ad76d8` | **candidate**: `refs/kenji_v2.png` |
+| Yuki v2 (3D cartoon)  | `e9bee548-3ce6-46ba-8933-5dd244ebab3f` | **candidate**: `refs/yuki_v2.png` |
 | Kenji v1 | `a7870996-fdbb-4456-8cdb-bf7a85bf8a9e` | rejected: wrong breed (not a Shiba), outfit ignored |
 | Yuki v1  | `fc1373be-57fb-4b41-b733-b362f2075605` | rejected: wrong breed (not a Shiba), outfit ignored |
