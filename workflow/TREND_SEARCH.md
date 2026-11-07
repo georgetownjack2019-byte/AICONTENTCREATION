@@ -17,6 +17,12 @@ Tested 2026-11-07. ✅ = works from an automated session, ⚠️ = partial, ❌ 
 | TikTok hashtag & sound pages (`find_copies.js`) | All videos using a sound/hashtag | ❌ "Something went wrong" when logged out |
 | Reddit, YouTube trending, Instagram | n/a | ❌ blocked / needs login |
 
+## Step 1a: Virlo Content Research Agent export (weekly, Starter plan)
+Virlo's recurring agent ("Couples & Work Life Skits") collects ~900 videos with views, shares, AI hook/format summaries
+and pattern analysis. Until the Virlo connector is set up, the human exports it as Markdown and uploads it; then run
+`python3 -I workflow/scripts/parse_virlo_export.py <export.md> --days 14 --min-views 1000000 --out daily/<date>/virlo-export-recent.json`.
+**The export includes videos published years ago, so always filter by publish date.**
+
 ## Step 1b: vidIQ outlier search (5 vidIQ credits each)
 `vidiq_instagram_tiktok_outlier_search`, last 7 days, `viewsMin` 500K, 8 results per platform. Run one search per theme
 (couple, work, everyday/Pilates) plus one `format` search to confirm the top Virlo trend on Instagram. Each result gives
