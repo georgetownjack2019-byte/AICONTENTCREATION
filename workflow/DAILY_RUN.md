@@ -12,6 +12,10 @@ Repo layout used by the run:
 
 ---
 
+## Before anything: read `workflow/VIDEO_GUIDELINES.md`
+Every shot list and every finished video is checked against it (funny, dramatic, attention-catching, cute).
+Score each video with its table and only show the user videos scoring ≥ 4 on every line.
+
 ## 0. Setup checks (stop early if any fail)
 1. `git pull` the working branch.
 2. Read `workflow/config.json`, `characters/kenji-yuki.json`, the last 14 days of `daily/trends-log.md`, and `daily/performance.md`.
