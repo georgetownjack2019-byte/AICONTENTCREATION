@@ -17,16 +17,6 @@
  },
  "sfx": [
   {
-   "src": "/home/user/AICONTENTCREATION/assets/sfx/cute-snore.mp3",
-   "at": 0.3,
-   "volume": 1.6
-  },
-  {
-   "src": "/home/user/AICONTENTCREATION/assets/sfx/cute-snore.mp3",
-   "at": 2.2,
-   "volume": 1.4
-  },
-  {
    "src": "/home/user/AICONTENTCREATION/assets/sfx/grumpy-huff.mp3",
    "at": 7.3,
    "volume": 1.0
