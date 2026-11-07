@@ -16,3 +16,6 @@ Clip A attempt (original choreography, start 6a1454e7): 167dc715-88b7-4549-821c-
 Sneaky-swipe stills (user feedback: check too big, swipe not sneaky): back-turned options 1eb04772 / 62daaaab; original-staging 6a1454e7; bowl hovering over check 5a53cffb, 39ef3795 (outfits wrong), 00ca7e0e (proposed, awaiting user OK)
 Attempt 167dc715 reviewed: no swipe (check stays on counter) -> unused. Fixed clip A from 00ca7e0e: 5fe164a8-cd26-4ba2-9f70-0474897be245
 Low-bowl start 65284ebc + steal ref 1dcbe3a8 (bafc2ded had a duplicate check): clip A 46b832a1-1538-4e78-b35a-758fdf6c8cfc. 5fe164a8 (bowl held high) still to review.
+
+## Sleeping together (bedtime ep. 2), 2026-11-07
+Stills (Nano Banana Pro): key frame v1 0c761d0f (Yuki missing pajamas, rejected) → befb67c6-c459-49a8-8712-ebf7ea5107be · shot 2 9a99ccb7-ce36-4def-8d52-fd7a7fb65ed0 · 3 8fec8bc0-a27b-4312-a1a1-708428a1af93 · 4 d719bd4b-7551-4983-8150-a3ecbd2503e2 · 5 a3665bc7-054c-4603-aa0e-9f11d0584b01 · 6 10c7f5c9-59cb-4f8e-952a-f4bb32dcb5bc. 14 credits. Awaiting user approval before animation.
