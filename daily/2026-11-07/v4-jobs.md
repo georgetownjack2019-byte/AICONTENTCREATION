@@ -19,3 +19,4 @@ Low-bowl start 65284ebc + steal ref 1dcbe3a8 (bafc2ded had a duplicate check): c
 
 ## Sleeping together (bedtime ep. 2), 2026-11-07
 Stills (Nano Banana Pro): key frame v1 0c761d0f (Yuki missing pajamas, rejected) → befb67c6-c459-49a8-8712-ebf7ea5107be · shot 2 9a99ccb7-ce36-4def-8d52-fd7a7fb65ed0 · 3 8fec8bc0-a27b-4312-a1a1-708428a1af93 · 4 d719bd4b-7551-4983-8150-a3ecbd2503e2 · 5 a3665bc7-054c-4603-aa0e-9f11d0584b01 · 6 10c7f5c9-59cb-4f8e-952a-f4bb32dcb5bc. 14 credits. Awaiting user approval before animation.
+Under-covers redo (user: quilt must be over them): key frame 6cc10315-8565-475b-a0d6-206a2b166b40 · 2 52ec82e7-ce11-4545-8788-5cc1af512359 · 3 bf14e20b-f155-48e7-a127-a1c6d1571dad · 4 5fc505ac-9e21-40af-8f5c-8bd12dbd7aa0 (tight close-up) · 5 d3d64768-6aff-47f1-8bc5-6c54eecae971 · 6 5c55cf0d-adc2-44bd-aab4-06b63894e756. +12 credits.

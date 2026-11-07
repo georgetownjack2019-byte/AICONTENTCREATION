@@ -16,7 +16,7 @@ Core joke: she's a clingy sleeper → he escapes → pure bliss → she finds hi
 ## Shots (30 s, matched to the original's timing)
 | # | Time | Camera | Action | Sound | Type |
 |---|---|---|---|---|---|
-| 1 | 0–5 s | Wide top-down, static | Both in the middle of the bed; Yuki asleep, wrapped around Kenji like an octopus | lullaby | Wan 5 s |
+| 1 | 0–5 s | Wide top-down, static | Both tucked in UNDER the duvet up to their chests in the middle of the bed; Yuki asleep, cuddled tight around Kenji | lullaby | Wan 5 s |
 | 2 | 5–12 s | Close-up of both faces | Yuki's paw squashed on Kenji's cheek; **Kenji wide awake, overheated, miserable**; he lifts her paw off, it flops right back; side-eye to camera | lullaby, defeated sigh | Wan 7 s |
 | 3 | 12–16 s | Wide top-down | Kenji carefully wiggles free and scoots to the far right edge; Yuki stays asleep in the middle | sheet rustle | Wan 4 s |
 | 4 | 16–21 s | Close-up of Kenji alone | Starfished, eyes closed, **huge blissful smile**, deep happy sigh | happy hum | Wan 5 s |
