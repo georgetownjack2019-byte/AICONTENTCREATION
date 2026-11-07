@@ -82,3 +82,20 @@ Job IDs: `v4-jobs.md` · storyboards: `bowl-v4-storyboard.md`, `arm-steal-v4-sto
 | Characters | 4 | Consistent across shots; Kenji's t-shirt simplifies a little during the yank |
 | Sound | 4 | Music + SFX on every beat, silence before the eye-pop |
 - Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
+
+## "Sleeping next to her be like" (bedtime ep. 2)  QC: PASS
+- Video: `final_sleeping-next-to-her.mp4` (28 s) · base: @pippa_pogo (5.4M, 30 s, silent, SFX-only) · edit `sleeping-edit.json` · mix `sleeping-mix.json`
+- Breakdown: vidIQ watch (audio-aware). Copied beats/timing; swapped penguins → Shibas, bare beige bed → our ep. 1 bedroom, characters **under the covers** (user rule).
+- 6 Wan 2.7 shots; shot 3 retried once (first take climbed out of bed), second take trimmed to 3 s before he drifts out of frame.
+- Sound: SFX-led like the original (soft non-squeaky snore, two plops, grunt, tired sigh, scoot rustles, fast scoot, happy hum, defeated sigh) + lullaby at 12 %.
+- Caption (whole video): "Sleeping next to her be like" · Cover: punchline frame (paw on Kenji's face, deadpan) `posting/cover_sleeping-next-to-her.jpg`
+- Credits: stills 28 (incl. outfit fix + under-covers redo + new shot 6) · animation 54 · SFX 2.5 · vidIQ 10
+
+| Check | Score | Why |
+|---|---|---|
+| Hook | 4 | Cuddle + caption from 0 s, arm flops onto his face at 2.5 s |
+| Funny | 4 | Escape → bliss → she homes in → plop → defeated stare, at the original's timing |
+| Dramatic | 4 | Sweat drop, inchworm escape, homing-missile scoot, push-in on the deadpan |
+| Style match | 5 | Same top-down/close-up rhythm, warm cozy night look, SFX-led sound |
+| Characters | 4 | Faces and outfits consistent; Yuki slightly golden as usual |
+| Sound | 4 | SFX on every beat, soft snore (no squeak), -14 LUFS |

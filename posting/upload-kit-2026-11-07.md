@@ -60,6 +60,26 @@ Caption: `Kenji will never trust a door again 💀 would you fall for it? #Kenji
 
 ---
 
+## Sleeping next to her be like (bedtime ep. 2)
+- **File:** `daily/2026-11-07/final_sleeping-next-to-her.mp4` (28 s, sound + caption burned in)
+- **Cover:** `posting/cover_sleeping-next-to-her.jpg` (punchline frame). TikTok: pick the frame at ~27 s.
+
+**TikTok caption:**
+```
+send this to the one who steals your side of the bed 😌 #KenjiAndYuki #couplehumor #sleepingtogether #shiba #fyp
+```
+**Instagram caption:**
+```
+He tried. He really tried. 😌
+Send this to the one who always finds you in bed 👇
+
+#KenjiAndYuki #couplehumor #relationshiphumor #shibainu #sleepingtogether
+```
+- **Pinned comment (both):** `Are you the Kenji or the Yuki? 👀`
+- **Sound:** keep the original audio (sound effects carry the joke).
+
+---
+
 ## Upload checklist
 
 ### TikTok (phone app)
