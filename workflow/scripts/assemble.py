@@ -4,7 +4,7 @@
 Usage: python3 -I assemble.py <edit.json> <out.mp4>
 
 edit.json: {"shots": [
-  {"type": "video", "src": "<url or path>", "trim": 4.0},          # optional trim (seconds)
+  {"type": "video", "src": "<url or path>", "start": 0.5, "trim": 4.0},   # optional start offset + duration (seconds)
   {"type": "still", "src": "<url or path>", "duration": 2.0, "zoom": 1.12}  # slow push-in
 ]}
 Every shot is normalised to 720x1280, 30 fps, stereo 44.1 kHz (stills get silence), then concatenated.
@@ -37,7 +37,7 @@ with tempfile.TemporaryDirectory() as d:
                  '-vf', vf, '-t', str(dur), '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-shortest', part])
         else:
             vf = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS}"
-            cmd = ['ffmpeg', '-y', '-i', src]
+            cmd = ['ffmpeg', '-y'] + (['-ss', str(s['start'])] if s.get('start') else []) + ['-i', src]
             if not has_audio(src): cmd += ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=stereo', '-shortest']
             if s.get('trim'): cmd += ['-t', str(s['trim'])]
             run(cmd + ['-vf', vf, '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-ar', '44100', '-ac', '2', part])

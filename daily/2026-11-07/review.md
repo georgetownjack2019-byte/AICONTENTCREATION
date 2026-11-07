@@ -99,3 +99,18 @@ Job IDs: `v4-jobs.md` · storyboards: `bowl-v4-storyboard.md`, `arm-steal-v4-sto
 | Style match | 5 | Same top-down/close-up rhythm, warm cozy night look, SFX-led sound |
 | Characters | 4 | Faces and outfits consistent; Yuki slightly golden as usual |
 | Sound | 4 | SFX on every beat, soft snore (no squeak), -14 LUFS |
+
+## "He really thought he escaped" (bedtime ep. 2, v2; replaces the 28 s version)  QC: PASS
+- Video: `final_he-thought-he-escaped.mp4` (17.5 s) · edit `sleeping-v2-edit.json` · mix `sleeping-v2-mix.json` · cover `posting/cover_he-thought-he-escaped.jpg`
+- Why remade: user feedback "very bad, I don't get it" + Kenji's arm passed through Yuki. Root cause: start stills had Kenji's arm around Yuki; 14 s of wide shots with no visible change; escape and chase too small.
+- Fixes: new stills where Kenji's arms stay hidden on his own side; close-up hook; escape and chase animated with start AND end frames (full bed distance); 17.5 s instead of 28 s; clearer caption; louder SFX.
+- Glitch check: every contact clip inspected at 4–8 fps zoomed (flop, escape, chase, plop). Escape has a 0.5 s "lunge" where Kenji scales up slightly; no limb passes through a body.
+
+| Check | Score | Why |
+|---|---|---|
+| Hook | 4 | Caption + arm flops onto his face at 1.4 s |
+| Funny | 4 | Wake → escape → bliss → she homes in → plop → one-eye defeat; clear without explanation |
+| Dramatic | 4 | Sweat-drop close-up, full-bed escape and chase, push-in on the one-eye stare |
+| Style match | 4 | Same top-down/close-up rhythm and cozy night look as the original, tighter pacing |
+| Characters | 4 | Faces/outfits consistent; one rejected photoreal still was regenerated |
+| Sound | 4 | Plops, scoots, grunt, hum, sigh on every beat; lullaby at 12 % |

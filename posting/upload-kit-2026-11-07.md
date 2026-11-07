@@ -60,9 +60,9 @@ Caption: `Kenji will never trust a door again 💀 would you fall for it? #Kenji
 
 ---
 
-## Sleeping next to her be like (bedtime ep. 2)
-- **File:** `daily/2026-11-07/final_sleeping-next-to-her.mp4` (28 s, sound + caption burned in)
-- **Cover:** `posting/cover_sleeping-next-to-her.jpg` (punchline frame). TikTok: pick the frame at ~27 s.
+## He really thought he escaped (bedtime ep. 2, replaces "Sleeping next to her be like")
+- **File:** `daily/2026-11-07/final_he-thought-he-escaped.mp4` (17.5 s, sound + caption burned in)
+- **Cover:** `posting/cover_he-thought-he-escaped.jpg` (paw on his face, one eye open). TikTok: pick the frame at ~16 s.
 
 **TikTok caption:**
 ```
