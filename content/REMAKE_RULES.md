@@ -13,8 +13,28 @@ Before planning, break the original down shot by shot:
 - The sound: same trending sound or original audio, and where the beat or drop lands.
 
 Then remake it **1:1**: same number of shots, same order, same framing, same timing, same
-text (only names or pronouns adapted), same punchline beat. Change only the cast (Kenji/Yuki),
-outfits and setting details.
+text (only names or pronouns adapted), same punchline beat.
+
+> **Core guideline: keep the original's script and storyboard, but our characters, outfits
+> and props must look clearly different.**
+
+What stays the same: script, on-screen text, shot order, timing, framing, camera moves,
+gestures, reaction beats, punchline.
+
+What must look **clearly different** from the original:
+- **Characters:** always Kenji & Yuki from the official reference sheets, never styled to
+  resemble the original creators.
+- **Outfits:** a different garment type, colour *and* style from what the original people
+  wear (e.g. original wears a black hoodie → Kenji wears a cream knit polo). Pick from the
+  everyday outfit table in `characters/PROMPTS.md`.
+- **Props:** same *function*, different look (e.g. original's white coffee mug → a glass
+  of iced matcha; their phone case → a plain one; their car → a different model and colour).
+  Never copy branded or distinctive props.
+- **Setting:** same *type* of place (kitchen, office, car), but a different layout, décor
+  and colour scheme. Our look: soft, muted, cozy 3D cartoon.
+
+In the review table (step 2), every shot lists the original outfit/prop next to ours, so
+the difference is easy to check.
 
 ## 2. Make it more viral than the original
 - **Frame 1 = a face mid-reaction** plus the hook text. No slow start.
@@ -35,7 +55,7 @@ outfits and setting details.
 - Always turn on the AI label.
 
 ## Plan format Claude sends for review (step 2)
-| # | Time | Original shot | Remake shot (Kenji/Yuki) | Text / line | Framing |
-|---|---|---|---|---|---|
-| 1 | 0.0–1.5 s | … | … | … | … |
+| # | Time | Original shot | Remake shot (Kenji/Yuki) | Text / line | Framing | Original outfit/props → ours |
+|---|---|---|---|---|---|---|
+| 1 | 0.0–1.5 s | … | … | … | … | black hoodie, white mug → cream polo, iced matcha |
 Plus: the viral boosters added, total credit cost.

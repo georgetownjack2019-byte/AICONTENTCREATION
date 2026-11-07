@@ -4,7 +4,7 @@
 | Step | You | Claude |
 |---|---|---|
 | 1. Trends | Run the **Virlo** workflow and share the markdown (paste in chat or save to `content/trends/`). Optionally add any trend you saw yourself. | Searches **vidIQ** (TikTok + Instagram outliers), merges it with your Virlo report, and gives you a shortlist of 3–5 trends adapted for Kenji & Yuki. You pick. |
-| 2. Plan | Quick review: "go" or "change X" | Breaks the original down shot by shot (script, timestamps, framing, punchline beat) and maps it **1:1** to Kenji & Yuki, plus viral boosters. See `REMAKE_RULES.md` |
+| 2. Plan | Quick review: "go" or "change X" | Breaks the original down shot by shot (script, timestamps, framing, punchline beat) and maps it **1:1** to Kenji & Yuki (same script and storyboard; characters, outfits and props clearly different), plus viral boosters. See `REMAKE_RULES.md` |
 | 3. Stills | Quick review: "good" / "redo shot N" | Generates one image per shot matching the original's framing, from the official reference sheets, checks them against the original first (~2 credits each) |
 | 4. Animate | Approve the cost, then "good" / "redo" | Animates each still into a 5 s clip, checks them (~7.5 credits per clip) |
 | 5. Download | Download the clips | Saves copies in the repo |
