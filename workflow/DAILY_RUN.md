@@ -97,3 +97,7 @@ Every video must be **very funny, dramatic and attention-catching, in the style 
   (Higgsfield `mirelo_text_to_audio`, 0.5 credits per 2 s): snores, huffs, a dramatic sting on the reveal, whooshes, hums, sighs.
   Silence just before the reveal makes the sting land. Mix with `workflow/scripts/sound_mix.py` (normalises to -14 LUFS).
 - Default to **approval mode**: stop after the shot list and after the stills, and before spending on animation.
+
+## Captions and covers (user feedback)
+Use `workflow/scripts/caption.py` (clean white label, Inter SemiBold) for on-screen captions and covers instead of the
+outlined style in finish_clip.sh. One text per frame: never add a cover title on top of a frame that already shows the caption.

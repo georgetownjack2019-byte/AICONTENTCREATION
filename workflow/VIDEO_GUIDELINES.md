@@ -48,6 +48,12 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
   - set pieces: a round porthole window becomes a regular window with curtains; change counter/cabinet colours
   - Check the contact sheet side by side with the original and redo any frame that looks like a copy.
 
+## 4b. Text style
+- Captions use the **clean TikTok-native label**: black Inter SemiBold on a white rounded box
+  (`python3 -I workflow/scripts/caption.py video|image ...`). No thick black outlines, no Arial-style bold.
+- **Say it once**: one on-screen caption per video; the cover shows a clean frame + that same caption only
+  (no second title). The post caption adds something new (a question, "send this to…"), never repeats the on-screen text.
+
 ## 5. Never
 - Real money or banknotes on screen (trips Higgsfield's copyright filter).
 - Logos, brand names or real people's likeness. No copying another account's characters or look.

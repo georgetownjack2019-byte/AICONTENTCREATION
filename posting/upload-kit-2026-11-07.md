@@ -19,7 +19,7 @@ the caption, hashtags, cover and checklist here.
 
 ## 2. Arm steal: "POV: his arm is officially yours"
 - **File:** `daily/2026-11-07/final_his-arm-is-mine_v2.mp4` (26.5 s, 9:16, sound included, caption burned in)
-- **Cover:** `posting/cover_his-arm-is-mine_v2.jpg` ("HIS ARM IS MINE NOW")
+- **Cover:** `posting/cover_his-arm-is-mine_v2.jpg` (clean frame + the same caption label, one text only)
 
 **TikTok caption** (copy-paste):
 ```
