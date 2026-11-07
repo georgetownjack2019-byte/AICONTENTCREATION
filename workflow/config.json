@@ -1,0 +1,24 @@
+{
+  "videos_per_day": 2,
+  "daily_credit_cap": 45,
+  "min_credit_reserve": 20,
+  "video": {
+    "model": "seedance_2_0",
+    "mode": "fast",
+    "resolution": "720p",
+    "duration": 8,
+    "aspect_ratio": "9:16",
+    "genre": "comedy",
+    "generate_audio": true,
+    "cost_per_clip_credits": 20
+  },
+  "upgrade_for_hits": {
+    "note": "Use for a proven format's Part 2 or a brand deal, not for daily tests.",
+    "model": "seedance_2_5",
+    "mode": "omni_reference",
+    "resolution": "720p",
+    "cost_per_8s_clip_credits": 56
+  },
+  "post_times_local": ["12:00", "19:00"],
+  "trend_sources": ["https://virlo.ai/trends", "WebSearch", "tiktok_music_trending (needs TikTok connected)"]
+}
