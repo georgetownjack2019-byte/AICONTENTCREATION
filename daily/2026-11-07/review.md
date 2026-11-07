@@ -25,3 +25,16 @@ Credits: start 103.76 → end ~83.76 (spent 20, 1 clip)
 - Post at: Instagram Reels 12:00 ET, TikTok 19:00 ET (AI-generated label ON)
 - QC notes: both faces match the sheets; outfits and matcha correct; all beats land (bowl over macaron → chin-tap → duck/knock → Kenji lifts bowl → Yuki snatches and bites with side-eye → Kenji frozen with bowl, wide-eyed). Minor: Kenji's final turn to camera is subtle; Yuki reads golden rather than cream (consistent with earlier clips).
 - Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
+
+## 3. "POV: his arm is officially mine" (remake of @couplelovedaily, 1.5M views, 4.9% share rate)  QC: PASS
+- Video: `final_his-arm-is-mine.mp4` (15.6 s) · edit list: `arm-steal-edit.json`
+- Built image-first: 5 stills (Nano Banana Pro, 2 credits each) → 3 animated with Wan 2.7 (720p, 4 s, 6 credits each) + 2 close-ups as stills with slow zoom. **Total 28 credits.**
+- Jobs: stills `cb9ac27a` (shot 1), `76bdc668` (2), `1d800fd0` (3), `9c685dcc` (4), `3f360dd3` (5); animations `d618805f` (1), `15b3faaa` (4), `a5d368a8` (5)
+- Shots: (1) cuddling, Kenji rolls away → (2) Yuki's grumpy scowl → (3) eyes snap open, side-eye → (4) she drags his arm back over herself → (5) Kenji wakes, deadpan look to camera, gives in with a smile
+- Style: old-money bedroom (linen headboard, brass lamp, moonlight); Kenji in navy silk pajamas, Yuki in ivory silk pajamas + satin sleep mask + pearls
+- Caption (on screen whole video): "POV: his arm is officially mine"
+- Post caption: "Send this to your man whose arm you steal every night 😌❤️ #KenjiAndYuki"
+- Hashtags: #KenjiAndYuki #shiba #couplehumor #relationshiphumor #sendthistoyourman
+- Sound: add a soft trending romantic/lofi sound in-app (the clips have only light ambience)
+- Note: the original is itself an AI-animated animal couple account ("Ollie & Dolly"). We copied the beats, not their characters or look.
+- Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____

@@ -1,0 +1,7 @@
+{"shots": [
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/8573e1d3-3b37-5a22-91b2-cd6914a43d27/scratchpad/arm/v1.mp4"},
+ {"type": "still", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/8573e1d3-3b37-5a22-91b2-cd6914a43d27/scratchpad/arm/s2.png", "duration": 2.0, "zoom": 1.10},
+ {"type": "still", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/8573e1d3-3b37-5a22-91b2-cd6914a43d27/scratchpad/arm/s3.png", "duration": 1.5, "zoom": 1.18},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/8573e1d3-3b37-5a22-91b2-cd6914a43d27/scratchpad/arm/v4.mp4"},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/8573e1d3-3b37-5a22-91b2-cd6914a43d27/scratchpad/arm/v5.mp4"}
+]}
