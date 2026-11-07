@@ -18,3 +18,5 @@ Changes: Kenji & Yuki (Shibas) instead of otters; our own pajamas (no beanie/flo
 Look (changed so it does not copy the original): plain dusty-blue duvet + chunky cream knit throw (original: patchwork quilt), rectangular window with sheer curtains and fairy lights (original: round porthole), upholstered headboard (original: round wooden bed). Kenji in a grey tee; Yuki in pastel pink pajamas with a scrunchie on her ear.
 Stills: 1 `d00e95f4-7b0a-49d9-b999-0c4d6d08e7cd`, 3 `54d216d0-7f2b-4d1e-8793-5b7eccd597a3`, 4 `404ce5c6-1017-47c8-8d31-349dcb3569de`, 5 `37bc1671-f5c2-4663-a354-228b18843d19`, 7 `ff00e231-a956-436a-924c-d82f9856fc4b`.
 Cost: 8 stills (16) + 26 s of Wan 2.7 at 1.5 credits/s (39) = **~55 credits**.
+
+Outfit line (paste into every prompt): Kenji: plain heather-grey t-shirt. Yuki: pastel pink button-up pajama set, pink scrunchie on one ear. Do not use the outfits from the reference sheets; faces and fur only.

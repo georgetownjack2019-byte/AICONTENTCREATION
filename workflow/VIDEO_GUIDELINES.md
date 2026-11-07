@@ -47,6 +47,15 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
   - props and textiles: a patchwork quilt becomes a knit throw or a plain duvet; keep only props the joke needs (the bowl)
   - set pieces: a round porthole window becomes a regular window with curtains; change counter/cabinet colours
   - Check the contact sheet side by side with the original and redo any frame that looks like a copy.
+- **Lock each video's outfits in every prompt (user rule, 2026-11-07).** The reference sheets show default outfits
+  (Kenji: cream cable-knit sweater; Yuki: cream cardigan over a sage top), and generators drift back to them when a prompt
+  only says "same outfits". So:
+  - Write an **outfit line** in the storyboard for each video (e.g. "Kenji: plain navy pullover hoodie. Yuki: sage-green crewneck
+    sweatshirt, tortoiseshell clip") and paste it word for word into **every** still and video prompt.
+  - Pass the **approved scene frame first** in `medias`, then the reference sheets, and add "do not use the outfits from the
+    reference sheets; faces and fur only".
+  - Generate one variant at a time for scene stills (no `count: 2`), so a drifted variant is never offered.
+  - Before showing or animating any frame, compare outfits, props and set with the approved key frame; redo any mismatch.
 
 ## 4b. Text style
 - Captions use the **clean TikTok-native label**: black Inter SemiBold on a white rounded box

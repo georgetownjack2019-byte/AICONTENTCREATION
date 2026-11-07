@@ -45,3 +45,5 @@ Cost: 3 stills (6) + 3 × 12 s Seedance Fast with audio (90) = **~96 credits**.
 - Prize: a **check** (not a macaron, not cash). Line: "If you can get this check from under this bowl..."
 - 0-3 s, like the original: while Yuki talks to the camera and flips the bowl, **Kenji picks up the check and pockets it**; she sets the bowl over the bare counter.
 - Ending: original ending (Yuki alone, baffled: "How did that even happen?!"); Kenji's chewing twist removed.
+
+Outfit line (paste into every prompt): Kenji: plain navy pullover hoodie, no hat. Yuki: sage-green crewneck sweatshirt, small tortoiseshell hair clip on one ear. Do not use the outfits from the reference sheets; faces and fur only.
