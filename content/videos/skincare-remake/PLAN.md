@@ -17,3 +17,11 @@ Status: user asked to fix shots 2 and 4 (Kenji coat colour) → fixed → animat
 Clip jobs: 1 `1e445bf5-c4f1-4fff-a615-14809c1ece24` · 2 `2e4ccf3a-f8ed-4d9d-9fbb-15172315f227` · 3 `33b70b63-a047-470c-b000-f808464bebf1` · 4 `838eb411-53d3-4a6d-ab5a-3ff1b8f627b0`
 
 Lesson: AI image edits over- or under-shoot small colour changes; a local hue correction (ffmpeg `hue`) is exact and free.
+
+## Result
+- Clip 4 first try rejected (Kenji's bounce warped his face and shrank him) → redone with minimal motion: `d47fa1fe-29b5-4956-bd8b-aa703684391b`.
+- Clips: `clips/1_yuki_skincare.mp4`, `2_kenji_splash.mp4`, `3_kenji_glow.mp4`, `4_punchline.mp4` (716×1284, 5 s each).
+- **Rough cut:** `rough_cut_v1.mp4`, 11.5 s, 1080×1920, silent, text burned in. Built with `tools/rough_cut.sh shots.txt`.
+  Cuts: clip1 0–3 s · clip2 0–4 s · clip3 2.5–4.5 s · clip4 1.0–3.5 s.
+- To finish in CapCut: playful music + SFX (squish on her products, splash, "ding" on his sparkle, "pop" on the sweat drop).
+- Credits for this video: stills 6 + fixes 6 + clips 37.5 ≈ 49.5.

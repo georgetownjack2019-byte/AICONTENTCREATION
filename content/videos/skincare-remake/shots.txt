@@ -1,0 +1,5 @@
+# clip | start s | duration s | on-screen text
+content/videos/skincare-remake/clips/1_yuki_skincare.mp4 | 0   | 3   | Yuki's skincare :
+content/videos/skincare-remake/clips/2_kenji_splash.mp4  | 0   | 4   | Kenji's skincare :
+content/videos/skincare-remake/clips/3_kenji_glow.mp4    | 2.5 | 2   | Kenji's skincare :
+content/videos/skincare-remake/clips/4_punchline.mp4     | 1.0 | 2.5 | Kenji's skincare :
