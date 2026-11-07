@@ -38,3 +38,6 @@ User: Yuki's part is too short; show different skincare steps. New Yuki montage 
 1 cleanser `fcd3dc41-ac4a-4328-bca6-01709da3b5e8` · 2 toner `db530e63-9de2-41d2-82cd-7dac62743e8b` ·
 3 serum + gua sha (existing clip) · 4 sheet mask `64527c3e-85eb-4073-8dd0-7c176c2cd729` · 5 cream `00ea7959-2621-4596-bfe6-544abe6be3ee`
 Stills: 8 credits. Animating: 4 × 3 s Kling clips = 18 credits (awaiting approval).
+v2 clips: cleanser `fe792b35-047c-40c2-bbf5-e2deba8ceb7e`, toner `25b73770-ae2a-42ff-b900-d99c62fc6898`, sheet mask `aba710db-1e6a-498f-86d3-893f21b9ff55`, cream `988ecd4a-aaee-4076-a8c1-3f63527aa2e4`; music 16 s `84128800-5ab7-4ad8-a6bf-3c229dda88a2`.
+**final.mp4 v2:** 15 s, 1080×1920, −14.5 LUFS. Yuki 0–6.5 s (5 steps × 1.3 s, step counter, pop per step) · Kenji splash 6.5–10.5 · glow 10.5–12.5 · punchline + zoom 12.5–15.
+v2 extra credits: stills 8 + clips 18 + music ~1.75. Video total ≈ 82.
