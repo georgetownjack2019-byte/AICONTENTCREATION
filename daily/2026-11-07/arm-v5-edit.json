@@ -1,0 +1,8 @@
+{"note": "Arm steal v2 final: pout + eye-pop merged into one Wan 2.7 shot (de270d1f). Sources are Higgsfield URLs so this rebuilds anywhere.",
+ "shots": [
+ {"type": "video", "src": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_172558_4fbef8be-cc83-4eb1-b25a-ddd5a032b5f6.mp4", "trim": 6.0},
+ {"type": "video", "src": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_175636_de270d1f-3e36-4314-a2f1-f20e2dff04f5.mp4", "trim": 4.0},
+ {"type": "video", "src": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_172629_082a85b8-3f40-4fbe-acfd-8ab0f1529914.mp4", "trim": 5.0},
+ {"type": "video", "src": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_172447_25159a75-0b1b-42f1-b9b7-74b06fa782a9.mp4", "trim": 4.0},
+ {"type": "video", "src": "https://d8j0ntlcm91z4.cloudfront.net/user_3LmXzXN8wCrPMWMY6k8VGrr6wHn/hf_20261107_172447_6aa54b38-be12-42e6-bd7d-1867e179bfa9.mp4", "trim": 7.5}
+]}

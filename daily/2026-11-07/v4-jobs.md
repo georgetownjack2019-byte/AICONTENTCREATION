@@ -9,3 +9,6 @@ Still A (check): b9512360-5137-49ea-8e9c-bd536f28ef94 (euro-bill test still 57c3
 Clip A d977484e-abe8-47d0-8b74-01f93621042f · Clip B 8dc79b38-65d6-491c-8603-1c5f235e3b28 · Clip C reused c89b081a (cut before Kenji re-enters)
 Clip A take 1 d977484e: duplicate check left on counter -> corrective retry 4fb60050-ef5b-4cad-9511-d2a417d67632
 Clip B take 1 8dc79b38: macaron visible under bowl (old start frame) -> retry from clip A's last frame (media c7bd482d): 05182e0f-c3d4-4fe2-bb03-a940f1cc94e0
+
+## Arm v2 final edit (user: merge the pout and eye-pop into one shot)
+Wan 2.7 4 s from the pout close-up (media 7fc33327): de270d1f-3e36-4314-a2f1-f20e2dff04f5 (pout 0-2.2 s, eyes snap open ~2.4 s). Replaces shot 3 (8623122d) + eye-pop still (404ce5c6). Edit: arm-v5-edit.json · mix: arm-v5-mix.json (sting moved to 8.3 s). 6 credits.
