@@ -12,3 +12,5 @@ Clip B take 1 8dc79b38: macaron visible under bowl (old start frame) -> retry fr
 
 ## Arm v2 final edit (user: merge the pout and eye-pop into one shot)
 Wan 2.7 4 s from the pout close-up (media 7fc33327): de270d1f-3e36-4314-a2f1-f20e2dff04f5 (pout 0-2.2 s, eyes snap open ~2.4 s). Replaces shot 3 (8623122d) + eye-pop still (404ce5c6). Edit: arm-v5-edit.json · mix: arm-v5-mix.json (sting moved to 8.3 s). 6 credits.
+Clip A attempt (original choreography, start 6a1454e7): 167dc715-88b7-4549-821c-62d3a9fb8ea9 (submitted before user's correction; likely unused)
+Sneaky-swipe stills (user feedback: check too big, swipe not sneaky): back-turned options 1eb04772 / 62daaaab; original-staging 6a1454e7; bowl hovering over check 5a53cffb, 39ef3795 (outfits wrong), 00ca7e0e (proposed, awaiting user OK)
