@@ -19,7 +19,7 @@ taller slim body.
 
 **Style:** Stylized 3D animated-feature-film cartoon render, soft stylized fur,
 expressive faces, warm cinematic lighting, vertical 9:16. Not photoreal, no human hair
-unless stated, no text, no watermark.
+unless stated, no text, no watermark, no brand logos on props or clothing.
 
 ## Scene: duo
 > [Kenji LOCK] [Yuki LOCK] Scene: [setting]. Kenji wears [outfit]. Yuki wears [outfit].
