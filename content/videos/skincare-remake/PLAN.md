@@ -32,3 +32,9 @@ Lesson: AI image edits over- or under-shoot small colour changes; a local hue co
 - SFX: splash (`6e1377dd…`), sparkle (`3ba3b1ad…`), sweat drop (`f7cc9bc5…`); the squish came back silent twice, so a synthesised "bloop" pop is used instead
 - Zoom 1.0 → 1.55 on Yuki's side-eye at 9.6 s
 - Audio credits: ~4.25
+
+## v2: longer Yuki routine (user request)
+User: Yuki's part is too short; show different skincare steps. New Yuki montage (~1.3 s per step, step counter):
+1 cleanser `fcd3dc41-ac4a-4328-bca6-01709da3b5e8` · 2 toner `db530e63-9de2-41d2-82cd-7dac62743e8b` ·
+3 serum + gua sha (existing clip) · 4 sheet mask `64527c3e-85eb-4073-8dd0-7c176c2cd729` · 5 cream `00ea7959-2621-4596-bfe6-544abe6be3ee`
+Stills: 8 credits. Animating: 4 × 3 s Kling clips = 18 credits (awaiting approval).
