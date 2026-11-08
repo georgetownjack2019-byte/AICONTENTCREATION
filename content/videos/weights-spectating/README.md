@@ -14,3 +14,6 @@ Reference frames from the video with the caption blurred: media `66777342-…` (
 Clips (Wan 2.7, 3 s): notices `251b141f-7210-4ea9-ae64-c8d1e5e889ba` · fake-casual `ec6ab3b2-5bc9-48b6-97b6-8fae51904e08` · embarrassed `6379fdb7-de89-4371-ae18-5abd49cd4967`
 Timeline: walk 0–3 · Yuki looks 3–4 · NEW notices + chest puff 4–6.25 (sting) · sits 6.25–7.75 · NEW forced smile 7.75–9.75 (slurp) · strain + fall 9.75–13.3 · NEW hides face 13.3–15.1 (sigh, slurp).
 Same music (sneaky-prank) and SFX library as v3. Built with `build_v4.sh`. Credits for v4: stills 14 + clips ~13.5.
+
+## v5: `final_weights-spectating_v5.mp4` (user: Kenji standing mid-floor was inconsistent; he should walk to the bench after grabbing the dumbbells)
+Reordered, 0 credits: grab at rack 0–1.5 · Yuki looks 1.5–2.5 · he notices her while still at the rack 2.5–4.75 · walks to the bench 4.75–6.25 · rest unchanged. `build_v5.sh`.
