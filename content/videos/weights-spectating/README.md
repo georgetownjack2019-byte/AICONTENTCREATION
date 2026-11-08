@@ -17,3 +17,9 @@ Same music (sneaky-prank) and SFX library as v3. Built with `build_v4.sh`. Credi
 
 ## v5: `final_weights-spectating_v5.mp4` (user: Kenji standing mid-floor was inconsistent; he should walk to the bench after grabbing the dumbbells)
 Reordered, 0 credits: grab at rack 0–1.5 · Yuki looks 1.5–2.5 · he notices her while still at the rack 2.5–4.75 · walks to the bench 4.75–6.25 · rest unchanged. `build_v5.sh`.
+
+## v6 in progress (user: Yuki must not be there at the start; he grabs the dumbbells, goes to the bench, THEN she comes over to watch)
+New stills: 0 alone at rack `13b8a137-a1d5-4a99-b75c-0df1c047d696` · 1 alone on bench straining `3bb9bfb2-dec1-4652-af48-e54509a1838d` ·
+2 she walks over, he freezes `6c100af1-f1ba-4710-8624-143f01835574` · 3 she stands, forced smile `6951aeab-80e8-4ff5-aa89-309c98012b6f`
+Rejected: first bench set (Gym 3 ref 71a62307 is the rack area, so no bench under Kenji); shot 3 v2 (Yuki sitting).
+Plan: rack(new) → walk (v3 1.8–3.4, no Yuki) → alone on bench (new) → she comes over (new) → forced smile (new) → v3 strain + fall → hides face (r3).
