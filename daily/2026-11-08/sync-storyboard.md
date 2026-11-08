@@ -20,3 +20,8 @@ Sound: near-silent like the original, car room tone + their laugh at the end (na
 Production: 1 still → 1 Seedance 2.0 Fast 6 s clip with audio, clean caption label. Cost ≈ 2 + 15 = **~17 credits**.
 
 Still 9f02eabf-4585-4b6d-8297-d15c782da212 · clip (Seedance 6 s) 6149c4e8-f799-4422-891c-b13f360c4e0a
+
+## v2 plan (user: too short, more synced moves) — ~12 s
+Keep 0-4.5 s of the current clip, then a new continuous clip from that frame (~7 s): both scratch their heads at the same time,
+both yawn and stretch identically, both grab their water bottles and take a sip together, both flip the sun visor down at the
+same moment, then they notice and burst out laughing hiding their faces. Cost: Seedance 7 s ≈ 17.5 credits (Wan 7 s ≈ 10.5).

@@ -27,3 +27,19 @@ Production: 3 stills → 3 Wan 2.7 clips (0-10, 10-19, 19-28 s), clean caption l
 Still P1 7118e396-f63b-4269-b74e-0758034a0df0 · clip 1 (0-10 s, Wan) 30fe3359-41fb-4a38-9ad9-08e3aae0a03f
 clip 2 (10-19 s, Wan, from clip 1 last frame 0868ec19): 0d39ca0e-3760-4035-ac76-8a07d5f99659
 clip 3 (19-28 s, Wan, from clip 2 last frame 67e7c628): 8af05516-219a-4d24-b80c-30994dacf4c7
+
+## v2 plan (user feedback: missed details, Yuki too artificially happy) — beats re-read frame by frame
+| Time | Original | v2 ours |
+|---|---|---|
+| 0-1 | She is eating a snack, crumbs on her cheeks, slightly guilty look | Yuki nibbling a small cookie, crumbs on her cheeks, a little guilty glance |
+| 1-3 | He hands her a napkin; she wipes the crumbs | Kenji hands a napkin without looking; she wipes the crumbs |
+| 3-8 | Sips her drink calmly, eyes closed | Sips her iced matcha calmly, eyes closed |
+| 8-10 | Looks around, content | Small content look around |
+| 10-11 | Leans to the door side, reaches down for the seat lever | Leans to her door side, reaches down to the seat lever |
+| 11-15 | Calm, small smile, little looks | Calm, small smile (NO dancing, no big grin) |
+| 15-17 | Pulls the lever again: the seat reclines back | Pulls the lever: her seat reclines back |
+| 17-19 | He places a pillow behind her head | Kenji places a cream pillow behind her head |
+| 19-23 | Lies reclined, blanket over her lap, sleepy and content | Reclined, sage knit blanket over her lap, drowsy content |
+| 23-25 | Puts on sunglasses | Puts on sunglasses |
+| 25-28 | Fully reclined, neck pillow on, paws behind her head | Grey neck pillow on, paws behind her head, chilling |
+Energy: calm, slow, subtle, natural movement; soft content expressions. Cost ≈ 2 stills + 28 s Wan ≈ 46 credits.
