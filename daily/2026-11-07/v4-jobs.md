@@ -26,3 +26,4 @@ v2 remake (glitch-safe): stills A 7cebda4f (A v1 ab3d4748 rejected: possible arm
 
 ## Face-mask prank (2026-11-08)
 vidIQ watch 10 credits. Key still 283e2f04-c671-44be-b50e-dfe93966440c (2 credits). Awaiting approval before animation.
+Face-mask clips: 2765a781-7fa9-4fc0-8a75-fdf4b3344f7b (0-10 s), ccde8f98-c88b-432f-8049-63b78a34bb37 (10-20 s). +50 credits.

@@ -5,6 +5,7 @@ Usage:
   python3 -I caption.py video <in.mp4> <out.mp4> "<caption text>" [--until 3.5] [--y 0.11]
   python3 -I caption.py image <in.png|jpg> <out.jpg> "<caption text>" [--y 0.11]   # covers
 --until: seconds the caption stays on screen (omit = whole video). --y: top of the label as a fraction of height.
+--lines lines.json: extra timed captions, e.g. [{"start": 2.0, "end": 3.0, "text": "Why"}, ...] shown at --lines-y (default 0.72).
 Emojis are dropped (the font has none); put them in the post caption instead.
 """
 import argparse, os, subprocess, tempfile, textwrap
@@ -55,7 +56,7 @@ def probe_wh(p):
 
 ap = argparse.ArgumentParser()
 ap.add_argument('mode', choices=['video', 'image']); ap.add_argument('src'); ap.add_argument('out'); ap.add_argument('text')
-ap.add_argument('--until', type=float); ap.add_argument('--y', type=float, default=0.11); ap.add_argument('--scale', type=float, default=1.0)
+ap.add_argument('--until', type=float); ap.add_argument('--lines'); ap.add_argument('--lines-y', type=float, default=0.72); ap.add_argument('--y', type=float, default=0.11); ap.add_argument('--scale', type=float, default=1.0)
 a = ap.parse_args()
 if a.mode == 'image':
     base = Image.open(a.src).convert('RGB'); lab = label(a.text, base.width, a.scale)
@@ -64,8 +65,15 @@ else:
     W, H = probe_wh(a.src)
     with tempfile.TemporaryDirectory() as d:
         png = os.path.join(d, 'cap.png'); label(a.text, W, a.scale).save(png)
+        inputs, filt, last = ['-i', a.src, '-i', png], [], '0:v'
         en = f":enable='lt(t,{a.until})'" if a.until else ''
-        subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', a.src, '-i', png, '-filter_complex',
-                        f"[0:v][1:v]overlay=(W-w)/2:H*{a.y}{en}[v]", '-map', '[v]', '-map', '0:a?',
+        filt.append(f"[{last}][1:v]overlay=(W-w)/2:H*{a.y}{en}[v0]"); last = 'v0'
+        if a.lines:
+            import json
+            for k, ln in enumerate(json.load(open(a.lines))):
+                lp = os.path.join(d, f'l{k}.png'); label(ln['text'], W, a.scale * 0.95).save(lp); inputs += ['-i', lp]
+                filt.append(f"[{last}][{k + 2}:v]overlay=(W-w)/2:H*{a.lines_y}:enable='between(t,{ln['start']},{ln['end']})'[v{k + 1}]")
+                last = f'v{k + 1}'
+        subprocess.run(['ffmpeg', '-v', 'error', '-y', *inputs, '-filter_complex', ';'.join(filt), '-map', f'[{last}]', '-map', '0:a?',
                         '-c:v', 'libx264', '-crf', '19', '-preset', 'medium', '-c:a', 'copy', '-movflags', '+faststart', a.out], check=True)
 print('wrote', a.out)

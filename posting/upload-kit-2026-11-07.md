@@ -80,6 +80,26 @@ Send this to the one who always finds you in bed 👇
 
 ---
 
+## Face-mask prank: "his is the wrapper (don't tell him)"
+- **File:** `daily/2026-11-08/final_face-mask-prank.mp4` (20 s, voices + captions burned in)
+- **Cover:** `posting/cover_face-mask-prank.jpg` (Kenji in the wrapper). TikTok: pick the frame at ~2.5 s.
+
+**TikTok caption:**
+```
+he still doesn't know 😭 should I tell him? #KenjiAndYuki #couplepranks #facemask #selfcarenight #shiba
+```
+**Instagram caption:**
+```
+Self-care night 🧖‍♀️ (he still doesn't know)
+Should I tell him? 👇
+
+#KenjiAndYuki #couplepranks #couplecomedy #selfcare #shibainu
+```
+- **Pinned comment (both):** `Tell him or let him keep the "overnight" glow? 😌`
+- **Sound:** keep the original audio (voices carry the joke).
+
+---
+
 ## Upload checklist
 
 ### TikTok (phone app)

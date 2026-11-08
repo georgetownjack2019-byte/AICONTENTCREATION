@@ -114,3 +114,15 @@ Job IDs: `v4-jobs.md` · storyboards: `bowl-v4-storyboard.md`, `arm-steal-v4-sto
 | Style match | 4 | Same top-down/close-up rhythm and cozy night look as the original, tighter pacing |
 | Characters | 4 | Faces/outfits consistent; one rejected photoreal still was regenerated |
 | Sound | 4 | Plops, scoots, grunt, hum, sigh on every beat; lullaby at 12 % |
+
+## Face-mask prank: "his is the wrapper (don't tell him)" (2026-11-08)  QC: PASS
+- Video: `daily/2026-11-08/final_face-mask-prank.mp4` (20 s) · base: @maiazakay IG reel (1.4M, 20 s) · script via vidIQ watch
+- Line-by-line remake; user change: 6–10 s is Yuki laughing hysterically (no "I'm gonna pee").
+- 2 × 10 s Seedance 2.0 Fast with native voices + lip-sync (2765a781, ccde8f98); key still 283e2f04. No character contact.
+- Captions: original top text (whole video) + timed line captions. Sound: voices only like the original, -14 LUFS.
+- Cover: Kenji's wrapper close-up + the top text once (`posting/cover_face-mask-prank.jpg`)
+- Credits: Higgsfield 52 (still 2 + clips 50) · vidIQ 10
+
+| Hook | Funny | Dramatic | Style match | Characters | Sound |
+|---|---|---|---|---|---|
+| 4 | 4 | 4 | 5 | 4 | 4 |
