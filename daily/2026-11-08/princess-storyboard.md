@@ -43,3 +43,6 @@ clip 3 (19-28 s, Wan, from clip 2 last frame 67e7c628): 8af05516-219a-4d24-b80c-
 | 23-25 | Puts on sunglasses | Puts on sunglasses |
 | 25-28 | Fully reclined, neck pillow on, paws behind her head | Grey neck pillow on, paws behind her head, chilling |
 Energy: calm, slow, subtle, natural movement; soft content expressions. Cost ≈ 2 stills + 28 s Wan ≈ 46 credits.
+
+v2 jobs: still 1996b450-bfcf-4ef7-a467-1f1c131c87e5 · clip1 (9 s) 33e02175-8637-44e8-aa2d-5094530f8310
+Princess v2 status: clip1 done (33e02175, cookie/napkin/sip, calm). Clip 2 submission failed: out of credits (balance 9.75). Remaining: clip 2 (9 s, lever/recline/pillow) + clip 3 (8 s, blanket/sunglasses/neck pillow/paws behind head) ≈ 25.5 credits; start clip 2 from media a7db7623 (clip 1 last frame).

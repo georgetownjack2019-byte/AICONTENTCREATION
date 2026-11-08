@@ -56,7 +56,7 @@ were spent on this account by other work (not this session) in the same window.
 - Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
 
 ## 4. "When you and your girl are with each other too much, now everything you do is in sync"  QC: PASS
-- Video: `final_in-sync.mp4` (6.1 s) · cover: `posting/cover_in-sync.jpg` · base: @chefsasha1 (3.1M, 7.6% shares, 6.2 s)
+- Video: `final_in-sync.mp4` (10.1 s, v2: knee slap removed; 3 bigger synced moves with a pause + suspicious side-glance between each: visor flip + identical ear-fur swipe, huge yawn-stretch with paws on the roof, simultaneous water sip; ends with both laughing. Wan 4779124a + 95785da7, 15 credits)
 - Same beats: identical thumb-over-shoulder, lean + hand flick, same stare, then both burst out laughing hiding their faces.
   Static dashboard phone, parked car at night. Own outfits (Kenji olive hoodie; Yuki cream sweatshirt, white scrunchie).
 - Sound: native car room tone + laughter (near-silent like the original), loudness-normalised.

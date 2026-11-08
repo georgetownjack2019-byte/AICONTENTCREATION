@@ -25,3 +25,5 @@ Still 9f02eabf-4585-4b6d-8297-d15c782da212 · clip (Seedance 6 s) 6149c4e8-f799-
 Keep 0-4.5 s of the current clip, then a new continuous clip from that frame (~7 s): both scratch their heads at the same time,
 both yawn and stretch identically, both grab their water bottles and take a sip together, both flip the sun visor down at the
 same moment, then they notice and burst out laughing hiding their faces. Cost: Seedance 7 s ≈ 17.5 credits (Wan 7 s ≈ 10.5).
+v2 jobs: clip1 (5 s, from 9f02eabf) 4779124a-a570-417d-9faf-04933422e395
+v2 clip2 (5 s, from clip1 last 1cc61969): 95785da7-856a-46f6-bcad-e9395c0355b7
