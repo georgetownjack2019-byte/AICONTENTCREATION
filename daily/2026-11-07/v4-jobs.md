@@ -23,3 +23,6 @@ Under-covers redo (user: quilt must be over them): key frame 6cc10315-8565-475b-
 vidIQ breakdown (10 vidIQ credits): no music, SFX only; arm flop at 2.5 s and 25.5 s, eye opens 27 s. New shot-6 start still (paw raised): b51e828d-4a13-4e9d-85e6-e26a8f8ff2c2 (+2 credits).
 Glitch fix (user: his arm went through Yuki in shot 2): shot 2 regenerated without hand contact (he slides his face out from under her paw): 0f98caf6-02be-49e0-a3a0-37fcb1530335 (+10.5 credits). Shot 3 retry: 404ce98b (trimmed to 3 s).
 v2 remake (glitch-safe): stills A 7cebda4f (A v1 ab3d4748 rejected: possible arm behind Yuki) · B 69425048 · C 8cb6244c · D 78b80684 · E 3f4f61ec (E v1 a58bf1ef rejected: arm around Yuki) · F 700fb474 (F v1 c274200a rejected: photoreal). Animations: flop 06e61533 · escape (start C→end D) 0ebd13fe · chase (start D→end E) a99f840f · punchline fd4929d9 · bliss reused 6c20ed8d.
+
+## Face-mask prank (2026-11-08)
+vidIQ watch 10 credits. Key still 283e2f04-c671-44be-b50e-dfe93966440c (2 credits). Awaiting approval before animation.
