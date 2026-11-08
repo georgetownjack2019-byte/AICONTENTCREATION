@@ -7,3 +7,5 @@
 | 2026-11-07 | Send to your man (arm steal) | share-bait, 2+ creators | duo | stills+wan2.7 x3 | PASS (28 credits) |
 | 2026-11-08 | Weights too heavy, she starts spectating | ⚠️ single 4.7M | duo | wan 8cffa278 + ac1cc844 | PASS (~25 credits) |
 | 2026-11-08 | Not fake enough at work | ⚠️ single 4.5M | Kenji | seedance 96ad5d71 | PASS (~30 credits) |
+| 2026-11-08 | Passenger princess (send this to your princess) | ✅ pippa_pogo series | duo | wan 30fe3359/0d39ca0e/8af05516 | PASS (~46 credits) |
+| 2026-11-08 | Everything's in sync | ⚠️ single 3.1M, 7.6% shares | duo | seedance 6149c4e8 | PASS (~17 credits) |

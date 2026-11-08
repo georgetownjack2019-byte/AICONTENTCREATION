@@ -17,3 +17,5 @@ Generated for Kenji & Yuki; reuse freely.
 | sfx/dumbbell-clank.mp3 | Mirelo | gym, weights, heavy objects |
 | sfx/strain-grunt.mp3 | Mirelo | effort, struggling, lifting |
 | sfx/straw-slurp.mp3 | Mirelo | sipping a drink, awkward stare |
+| sfx/napkin-rustle.mp3 | Mirelo | paper, napkin, small handoff |
+| sfx/cute-giggle.mp3 | Mirelo | happy, cute reaction |

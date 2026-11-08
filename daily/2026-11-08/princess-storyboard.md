@@ -23,3 +23,7 @@ one ear. Do not use the outfits from the reference sheets; faces and fur only. (
 Props: iced matcha (original: pink smoothie), napkin, small cushion, sunglasses.
 Sound: soft cute music bed (cute-lullaby), small SFX: napkin rustle, slurp, giggle, cushion puff.
 Production: 3 stills → 3 Wan 2.7 clips (0-10, 10-19, 19-28 s), clean caption label. Cost ≈ 6 + 42 = **~48 credits**.
+
+Still P1 7118e396-f63b-4269-b74e-0758034a0df0 · clip 1 (0-10 s, Wan) 30fe3359-41fb-4a38-9ad9-08e3aae0a03f
+clip 2 (10-19 s, Wan, from clip 1 last frame 0868ec19): 0d39ca0e-3760-4035-ac76-8a07d5f99659
+clip 3 (19-28 s, Wan, from clip 2 last frame 67e7c628): 8af05516-219a-4d24-b80c-30994dacf4c7

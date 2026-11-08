@@ -36,3 +36,41 @@ were spent on this account by other work (not this session) in the same window.
 | Characters | 4 | Kenji matches his sheet; outfit locked |
 | Sound | 4 | Clear voices, sigh on the punchline (no music, like the original) |
 - Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
+
+## 3. "POV: your passenger princess is chilling while you drive"  QC: PASS
+- Video: `final_passenger-princess.mp4` (28.1 s) · cover: `posting/cover_passenger-princess.jpg` · base: @pippa_pogo (782.7K, 4.2% shares, 28 s)
+- Same beats and timing: napkin handoff → blissful matcha sip → seat dance + giggles, Kenji's soft glance → cushion tucked behind her head
+  → snuggle → sunglasses, lounging like royalty. One continuous dashboard shot (each clip starts from the previous clip's last frame).
+- Look: cozy warm animated night drive like the original; own outfits (Kenji navy bomber; Yuki cream knit sweater, white scrunchie), iced matcha.
+- Sound: cute lullaby bed + napkin rustle, slurp, giggles, happy hum. -12.9 LUFS.
+- Post caption: "Send this to your princess 👑 #KenjiAndYuki #passengerprincess #couplegoals #couplehumor #shiba"
+
+| Check | Score | Why |
+|---|---|---|
+| Hook | 4 | Relatable POV caption + happy wiggle from frame 1 |
+| Funny | 4 | Escalating pampering, sunglasses payoff (wholesome, like the original) |
+| Dramatic | 4 | Soft by design; clear beat changes every few seconds |
+| Style match | 5 | Same dashboard framing, night lights, cozy animated look, 28 s |
+| Characters | 4 | Consistent across the three chained clips; outfits locked |
+| Sound | 4 | Music bed + SFX on each beat |
+- Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
+
+## 4. "When you and your girl are with each other too much, now everything you do is in sync"  QC: PASS
+- Video: `final_in-sync.mp4` (6.1 s) · cover: `posting/cover_in-sync.jpg` · base: @chefsasha1 (3.1M, 7.6% shares, 6.2 s)
+- Same beats: identical thumb-over-shoulder, lean + hand flick, same stare, then both burst out laughing hiding their faces.
+  Static dashboard phone, parked car at night. Own outfits (Kenji olive hoodie; Yuki cream sweatshirt, white scrunchie).
+- Sound: native car room tone + laughter (near-silent like the original), loudness-normalised.
+- Post caption: "we've officially become one person 😭 #KenjiAndYuki #couplegoals #insync #couplehumor #shiba"
+
+| Check | Score | Why |
+|---|---|---|
+| Hook | 4 | Long relatable caption + instant mirrored moves |
+| Funny | 4 | The sync and the shared laugh land at the original's timing |
+| Dramatic | 4 | Short and punchy by design |
+| Style match | 5 | Same camera, setting, length and near-silent audio |
+| Characters | 4 | Faces match the sheets; outfits locked |
+| Sound | 4 | Room tone + laughter like the original (no music, by design) |
+- Your verdict: [ ] ✅ post  [ ] ❌ skip  [ ] ✏️ redo: ____
+
+Credits for videos 3-4: this session spent 62 (2 stills 4, Wan 42, Seedance 15, 2 SFX 1). Balance now 56.75; about 120 more
+were spent on this account by other work in the same window.

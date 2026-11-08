@@ -18,3 +18,5 @@ Outfit line: Kenji: olive-green hoodie. Yuki: oversized cream sweatshirt, white 
 reference sheets; faces and fur only. (Original: blue sports hoodie; black hoodie.)
 Sound: near-silent like the original, car room tone + their laugh at the end (native audio).
 Production: 1 still → 1 Seedance 2.0 Fast 6 s clip with audio, clean caption label. Cost ≈ 2 + 15 = **~17 credits**.
+
+Still 9f02eabf-4585-4b6d-8297-d15c782da212 · clip (Seedance 6 s) 6149c4e8-f799-4422-891c-b13f360c4e0a
