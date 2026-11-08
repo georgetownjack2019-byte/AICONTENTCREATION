@@ -23,3 +23,8 @@ New stills: 0 alone at rack `13b8a137-a1d5-4a99-b75c-0df1c047d696` · 1 alone on
 2 she walks over, he freezes `6c100af1-f1ba-4710-8624-143f01835574` · 3 she stands, forced smile `6951aeab-80e8-4ff5-aa89-309c98012b6f`
 Rejected: first bench set (Gym 3 ref 71a62307 is the rack area, so no bench under Kenji); shot 3 v2 (Yuki sitting).
 Plan: rack(new) → walk (v3 1.8–3.4, no Yuki) → alone on bench (new) → she comes over (new) → forced smile (new) → v3 strain + fall → hides face (r3).
+
+## v6 result: `final_weights-spectating_v6.mp4` (15.1 s, 720×1280, −13.2 LUFS)
+Clips (Wan 2.7): rack alone `cbee5e93-604a-4f5e-9375-d07ed7c23d0a` · bench alone `1c01392f-6960-4200-928a-cca8c135f94c` · she comes `9b5aef38-43b9-4fbf-85c3-96a1c329797c` · forced smile `e2a6217b-6dc0-472d-9683-c34c201f5102`
+Timeline: rack alone 0–1.8 · walk 1.8–3.4 · alone on bench 3.4–5.5 · Yuki walks over, he freezes (sting) 5.5–7.5 · forced smile 7.5–9.8 · strain + fall 9.8–13.3 · hides face 13.3–15.1. `build_v6.sh`.
+Credits for v6: stills 16 + clips ~16.5.
