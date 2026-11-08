@@ -20,7 +20,7 @@ Rule: same script, beats, timing, camera moves and lines; only the look changes.
 | 0–1 s | Selfie medium close-up, static | Yuki smooths her real sheet mask, looks into the lens; Kenji at the right edge | — | Top text (whole video): "face masks with my boyfriend except his is the wrapper (don't tell him)" |
 | 1–2 s | Close-up on Kenji, slight low angle | Kenji in the stiff wrapper + spa headband, deadpan, confused stare into the lens | — | |
 | 2–6 s | Two-shot, handheld, slight shake | Yuki covers her mouth, stifled giggles; Kenji turns to camera | KENJI: "Why… why is mine look like that?" (breathy laugh) | "Why" → "Why is mine look like that?" |
-| 6–10 s | Camera drops, points at the ceiling | Yuki doubled over off-frame, wheezing | YUKI: "I'm gonna… I'm gonna pee." | "I'm gonna. I'm gonna pee." |
+| 6–10 s | Handheld selfie, shaking with her laughter | **Yuki laughing hysterically**: doubled over, tears, wheezing, mask crinkling; Kenji deadpan in the background (user change: no line here) | — (laughter only) | — |
 | 10–12.5 s | Quick tilt up, wobble, two-shot | Yuki tries to look serious, breaks into a high laugh | YUKI: "Okay, um… because…" | "Okay, um… because" |
 | 12.5–14.5 s | Low-angle close-up on Kenji | Kenji presses the stiff wrapper flat against his nose, irritated | KENJI: "This suck… this one sucks, dude." | "This one sucks, dude." |
 | 14.5–20 s | Steady two-shot | Yuki pats her cheek, explains with a straight deadpan face; Kenji nods, accepts it | YUKI: "Mine is the overnight one, which is why yours is, like, more dry." KENJI: "Oh." | "Mine is the overnight one," → "which is why yours is, like, more dry." |
