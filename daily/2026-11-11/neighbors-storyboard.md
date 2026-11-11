@@ -23,3 +23,5 @@ Caption (whole video): "the only two situations my neighbors see me in"
 Sound: upbeat music bed + footsteps, trash bag rustle, heel clicks.
 Production: 2 stills (messy on the landing, glam on the landing) + 2 Wan clips (5 s + 6 s) + optional punch-in done in edit (free).
 Cost ≈ 4 + 16.5 = ~20 credits.
+
+Stills: messy ccc7b846-0d29-4454-962b-b65e52f00b46 · glam 52a6f822-4a25-47cd-b4fb-009c5b2a98e2 (first glam 2068967a had a different stairwell). Next: 2 Wan clips (5 s from messy, 6 s from glam) ≈ 16.5 credits, waiting for refill.
