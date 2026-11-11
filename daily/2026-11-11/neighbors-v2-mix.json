@@ -1,0 +1,9 @@
+{"original_volume": 0.0,
+ "music": {"src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/nmusic.wav", "volume": 0.6, "segments": [[0, 10.54]], "fade": 0.02},
+ "sfx": [
+  {"src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/shuffle.wav", "at": 0.1, "volume": 0.8},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/whoosh-bass-hit.mp3", "at": 3.26, "volume": 0.9},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/heel-clicks.mp3", "at": 4.7, "volume": 0.6},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/paparazzi-flashes.mp3", "at": 6.0, "volume": 0.6},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/paparazzi-flashes.mp3", "at": 8.3, "volume": 0.5}
+ ]}

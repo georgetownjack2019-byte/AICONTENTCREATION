@@ -1,5 +1,5 @@
 {"original_volume": 0.0,
- "music": {"src": "/home/user/AICONTENTCREATION/assets/music/cute-lullaby.mp3", "volume": 0.4, "segments": [[0, 28.1]], "fade": 1.0},
+ "music": {"src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/music_pp.wav", "volume": 0.6, "segments": [[0, 28.1]], "fade": 0.02},
  "sfx": [
   {"src": "/home/user/AICONTENTCREATION/assets/sfx/crunch-chew.mp3", "at": 0.3, "volume": 0.5},
   {"src": "/home/user/AICONTENTCREATION/assets/sfx/napkin-rustle.mp3", "at": 1.3, "volume": 0.7},

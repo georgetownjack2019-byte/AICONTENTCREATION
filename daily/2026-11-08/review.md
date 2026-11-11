@@ -78,3 +78,4 @@ were spent on this account by other work in the same window.
 ## Passenger Princess v2 (replaces v1)
 - Final: final_passenger-princess.mp4 (28.1 s): pv1 cookie/napkin/sip (33e02175) + pv2 seat lever/recline/pillow (4fe722ae) + pv3 blanket/sunglasses/neck pillow/paws behind head (eb7eeffd). Calm lullaby, SFX chew, napkin, slurp, seat-recline, rustle, hum. -13 LUFS.
 - Fixes v1 notes: she eats a snack, adjusts the seat, calmer, not over-happy expressions.
+- v2.1: music swapped to catchy-roadtrip (ElevenLabs Music v2.5, 29dc8d8f), hook from frame 1, no fade-in, volume 0.6. -13.7 LUFS approx.
