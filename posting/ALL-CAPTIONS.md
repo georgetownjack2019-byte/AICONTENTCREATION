@@ -134,3 +134,11 @@ Tag the coworker who gets it 👇
 ## Suggested posting order
 1. Face masks · 2. His arm is officially mine · 3. He really thought he escaped (next day) · 4. Don't touch the bowl ·
 5. Weights spectating · 6. Not fake enough · 7. Door prank (oldest test video)
+
+## the only two situations my neighbors see me in (2026-11-11)
+On-screen: "the only two situations my neighbors see me in"
+Caption: no in-between. it's either trash day or main character day 🗑️💅 #shiba #shibainu #doublelife #relatable #girlythings #cuteanimals #fyp
+
+## Passenger Princess v2 (2026-11-08, re-cut)
+On-screen: "POV: your passenger princess is chilling while you drive"
+Caption: snacks ✔️ seat reclined ✔️ blanket ✔️ he's just the driver 😌🚗 #passengerprincess #shiba #shibainu #couplegoals #roadtrip #cuteanimals #fyp

@@ -74,3 +74,7 @@ were spent on this account by other work (not this session) in the same window.
 
 Credits for videos 3-4: this session spent 62 (2 stills 4, Wan 42, Seedance 15, 2 SFX 1). Balance now 56.75; about 120 more
 were spent on this account by other work in the same window.
+
+## Passenger Princess v2 (replaces v1)
+- Final: final_passenger-princess.mp4 (28.1 s): pv1 cookie/napkin/sip (33e02175) + pv2 seat lever/recline/pillow (4fe722ae) + pv3 blanket/sunglasses/neck pillow/paws behind head (eb7eeffd). Calm lullaby, SFX chew, napkin, slurp, seat-recline, rustle, hum. -13 LUFS.
+- Fixes v1 notes: she eats a snack, adjusts the seat, calmer, not over-happy expressions.
