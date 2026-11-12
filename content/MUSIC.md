@@ -17,3 +17,24 @@ CML = licensed tracks safe for any account type (incl. Business / brand deals). 
 Trends noticed: vacuum-cleaner sounds (#6, #13, #17, #44): idea "Kenji inhales Yuki's snacks like a vacuum" · Christmas tracks rising: plan a holiday video.
 How to post: TikTok → Add sound → search title → original sound ~100%, track 10–20% (louder if it's the main track). Instagram → Audio search; else use a ↗ trending track in the same style.
 Refresh weekly (US or FR).
+
+---
+
+## Instagram Reels audio (pulled 2026-11-12)
+Sources: weekly third-party trackers (SocialBee, CreatorDB, SoundMatcha, Later, SocialPilot; no official Instagram chart) + vidIQ outlier search of top couple-comedy and AI-animal Reels (Oct 29 – Nov 12).
+
+Trending this week: All I Want For Christmas Is You (Mariah Carey, #1 on several trackers) · Housewife (Tate McRae, duo choreography trend) ·
+Angel of My Dreams (JADE, beauty creators) · November Rain (Guns N' Roses) · Blue Moon (Zara Larsson) · Nicole Kidman (ADÉLA) · APT. (ROSÉ & Bruno Mars).
+What top AI-animal / couple Reels use: upbeat playful instrumental + SFX (pop, thud, jump-scare hook) or a recognisable classic
+(I Want You Back, I Just Called To Say I Love You cover, It's the Most Wonderful Time of the Year, Milkshake remix).
+
+| Video | Instagram sound | Why |
+|---|---|---|
+| Escaped / arm thief | All I Want For Christmas Is You | Ironic (she won't let him go); #1 this week |
+| Everything in sync | Housewife (Tate McRae) | Duo trend + synced duo joke |
+| Work: not fake enough | It's the Most Wonderful Time of the Year | Sarcastic cheer vs deadpan Kenji |
+| Skincare | Angel of My Dreams (JADE) | Glam/beauty sound of the moment |
+| Gym | November Rain (guitar solo on the fall) | Mock-epic drama |
+| Bowl prank | I Want You Back (Jackson 5) | Fun, proven on a 3D couple skit |
+| Passenger princess | APT. | Car singalong |
+Use: original sound 100%, song 10–25% (louder for music-driven edits). Creator accounts have the full library; Business accounts are limited.
