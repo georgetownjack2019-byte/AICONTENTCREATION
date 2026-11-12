@@ -139,4 +139,5 @@ Glitches the user caught that QC missed: matcha set down twice across a clip sea
 
 ## 8. Generation hygiene (2026-11-12)
 - **Submit with `generate_image_batch` / `generate_video_batch`, not `generate_image`/`generate_video`.** The widget tools time out after 60 s but the job may still be created later (two identical stills were charged twice). Batch tools return the job id immediately.
+- **Key-frame stills must keep the characters' anatomy identical** (upright pointed Shiba ears, same tail): an emotion still with floppy ears made the start→end clip morph the ears mid-shot. Show emotion with eyes, brows and mouth only. In video prompts keep faces visible ("heads only tilt, never turn away from the camera") — a side-eye made Kenji's head twist 180°.
 - **Describe Yuki by her reference sheet, never as "cream"**: slim honey-orange Shiba Inu, cream cheeks and chest, white eyebrow markings, brown eyes, short fur on the head. "Cream Shiba" made her pale and off-model. Avoid hair accessories unless the beat sheet needs one; a scrunchie made the model invent a ponytail.
