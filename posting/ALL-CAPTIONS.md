@@ -135,9 +135,18 @@ Tag the coworker who gets it 👇
 1. Face masks · 2. His arm is officially mine · 3. He really thought he escaped (next day) · 4. Don't touch the bowl ·
 5. Weights spectating · 6. Not fake enough · 7. Door prank (oldest test video)
 
-## the only two situations my neighbors see me in (2026-11-11)
+## the only two situations my neighbors see me in (2026-11-11) — FINAL v4, posting first
+File `daily/2026-11-11/final_neighbors-two-situations.mp4` (13.4 s)
+Covers: TikTok `posting/cover_neighbors-split.jpg` · Instagram `posting/cover_neighbors-split-ig.jpg` (label inside the 3:4 grid crop)
 On-screen: "the only two situations my neighbors see me in"
-Caption: no in-between. it's either trash day or main character day 🗑️💅 #shiba #shibainu #doublelife #relatable #girlythings #cuteanimals #fyp
+
+**TikTok caption:** no in-between. it's trash day or it's runway day 🗑️➡️💅 #shiba #shibainu #doublelife #relatable #girlythings #glowup #fyp
+Pinned comment: `which one are you today? 🗑️ or 💅`
+
+**Instagram caption:** My neighbors have never seen a version of me in between 🗑️💅
+Which one are you today? Comment 🗑️ or 💅 👇
+.
+#shibainu #shiba #doublelife #relatable #glowup #girlythings #cuteanimals #reels
 
 ## Passenger Princess v2 (2026-11-08, re-cut)
 On-screen: "POV: your passenger princess is chilling while you drive"
