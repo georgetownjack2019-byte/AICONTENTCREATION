@@ -30,3 +30,8 @@ Face-mask clips: 2765a781-7fa9-4fc0-8a75-fdf4b3344f7b (0-10 s), ccde8f98-c88b-43
 
 ## Dream job (2026-11-12)
 vidIQ watch 10 credits. Stills: wide 39f7ea78-0dc8-4e59-8411-814d4f23483d, close-up box edbceef5-c108-4c95-8ca7-67f66024f962 (4 credits). Cartoon play money passed the IP filter for stills. Awaiting approval before animation.
+
+### Dream job animation + sound (2026-11-12)
+- Wan 2.7 wide 5 s: 455bdc3a-5c53-44da-b2b4-5602f1ab1e28 · close-up 3 s: ae791ef8-c359-47c2-9bf6-42f00b2ee948
+- SFX money counter: 20af4035-f740-4da2-9c8d-615956d1230b · ka-ching: 4f917b60-c1a7-4072-9ed4-ab41afcceafc
+- Final: daily/2026-11-12/final_dream-job.mp4 (edit dream-job-edit.json, mix dream-job-mix.json)

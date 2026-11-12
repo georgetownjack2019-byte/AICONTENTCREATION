@@ -122,3 +122,11 @@ Should I tell him? 👇
 ### After posting
 - Don't delete or repost a slow video in the first 24 h.
 - Next day, log views, average watch %, shares and follows in `daily/performance.md`.
+
+---
+
+## Dream job: "When they ask me what is my "Dream Job"" (2026-11-12)
+- **File:** `daily/2026-11-12/final_dream-job.mp4` (7.5 s, sound + caption burned in)
+- **Cover:** `posting/cover_dream-job.jpg` (Yuki hugging the cash). TikTok: pick the frame at ~2.5 s.
+- **Captions:** see `posting/ALL-CAPTIONS.md` → Dream job.
+- **Sound:** keep the original audio (money counter, snores, ka-ching). Short loop video: great for rewatches.

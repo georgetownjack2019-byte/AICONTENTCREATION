@@ -168,3 +168,15 @@ Pinned comment: `which one is your routine? 🧴 or 💦`
 Tag the Kenji in your life 👇
 .
 #himvsher #skincareroutine #couplehumor #relationshiphumor #shibainu #shiba #cuteanimals #reels
+
+## When they ask me what is my "Dream Job" (2026-11-12)
+File `daily/2026-11-12/final_dream-job.mp4` (7.5 s) · Cover `posting/cover_dream-job.jpg` · TikTok cover frame ~2.5 s
+On-screen: "When they ask me what is my "Dream Job""
+
+**TikTok caption:** 9 to 5? no. 9 hours of sleep while the money counts itself 😴💸 #dreamjob #shiba #shibainu #worklife #relatable #richgirl #fyp
+Pinned comment: `drop a 💸 if this is your career goal`
+
+**Instagram caption:** Career goals: sleep in, let the machine do the counting 😴💸
+Tag the friend who'd apply 👇
+.
+#dreamjob #shibainu #shiba #worklife #relatable #cuteanimals #reels

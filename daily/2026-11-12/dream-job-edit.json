@@ -1,0 +1,6 @@
+{"note": "Dream job remake (twists 5+6). Wide Wan 455bdc3a used 0-3 s and 3-5 s, close-up Wan ae791ef8.",
+ "shots": [
+ {"type": "video", "src": "wide.mp4", "start": 0, "trim": 3.0},
+ {"type": "video", "src": "close.mp4", "start": 0, "trim": 2.5},
+ {"type": "video", "src": "wide.mp4", "start": 3.0, "trim": 2.0}
+]}

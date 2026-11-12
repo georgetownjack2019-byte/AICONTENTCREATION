@@ -1,0 +1,7 @@
+{"original_volume": 0,
+ "music": {"src": "../../assets/sfx/money-counter.mp3", "volume": 0.55, "segments": [[0, 7.55]], "fade": 0.2},
+ "sfx": [
+  {"src": "../../assets/sfx/bed-snore.mp3", "at": 0.0, "volume": 0.9},
+  {"src": "../../assets/sfx/bed-snore.mp3", "at": 4.2, "volume": 0.9},
+  {"src": "../../assets/sfx/ka-ching.mp3", "at": 6.6, "volume": 1.0}
+ ]}
