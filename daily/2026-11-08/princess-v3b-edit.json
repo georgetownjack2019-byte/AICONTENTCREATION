@@ -1,0 +1,7 @@
+{"shots": [
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/q1b.mp4", "trim": 3.6},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/eA.mp4"},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/eB.mp4"},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/eC2.mp4"},
+ {"type": "still", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/eC2_hold.png", "duration": 1.4, "zoom": 1.08}
+]}

@@ -57,3 +57,4 @@ Still v3: 7b3f1aea-457e-410f-8d0e-89c57334d51b · clip 1 (9 s): 217d4833-10b1-40
 clip 1 retry (passed QC): 326830da-dc78-4373-a20b-d4447aae3796 (first try 217d4833 rejected: Kenji stared at her, napkin dropped, no reaction) · last frame aa8fd144 · clip 2 (9 s): 02ce0264-f4b6-48fc-bd99-dfa721560157
 clip 2 passed QC (Kenji looks ~1.5 s while tucking pillow, accepted). Last frame ce11a1a0. clip 3 try 1 2a827fb0: blanket + sunglasses good; neck pillow ended low on her chest (bad shape), Kenji stared ~2 s → rejected after 4.1 s. clip 3 retry f7c4d1c4: all-black output (failed generation).
 v3 final (23.6 s): q1b + q2 + q3[0-4.1] + 1.4 s hold on sunglasses. Neck-pillow beat dropped pending user decision.
+v3b (user: crumbs don't disappear): FLUX 3 Video Edit on q1b 3.6 s→end (637fbae0), q2 (ea4f7b80), q3 0-4.1 (290828c5; first test 3a18e3de turned the scrunchie pink and removed eyebrow markings, rejected). Crumbs vanish after the napkin wipe. 23.5 s. ~24 credits.
