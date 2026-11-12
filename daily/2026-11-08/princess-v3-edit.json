@@ -1,0 +1,6 @@
+{"shots": [
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/q1b.mp4"},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/q2.mp4"},
+ {"type": "video", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/q3.mp4", "trim": 4.1},
+ {"type": "still", "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/q3_hold.png", "duration": 1.4, "zoom": 1.08}
+]}

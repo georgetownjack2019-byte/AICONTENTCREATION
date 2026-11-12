@@ -48,3 +48,12 @@ v2 jobs: still 1996b450-bfcf-4ef7-a467-1f1c131c87e5 · clip1 (9 s) 33e02175-8637
 Princess v2 status: clip1 done (33e02175, cookie/napkin/sip, calm). Clip 2 submission failed: out of credits (balance 9.75). Remaining: clip 2 (9 s, lever/recline/pillow) + clip 3 (8 s, blanket/sunglasses/neck pillow/paws behind head) ≈ 25.5 credits; start clip 2 from media a7db7623 (clip 1 last frame).
 v2 clip2 (9 s, from a7db7623): 4fe722ae-60ea-4f04-b59c-0c1464b87b51
 v2 clip3 (10 s, from a7ddfc5c): eb7eeffd-c444-4d07-aa8f-267874351392
+
+## v3 (approved 2026-11-12): continuity + reactions fix
+Defects in v2: cookie vanishes; Kenji stares at her while driving; flat reaction to napkin; sweater changes mid-clip (dots → plain turtleneck); matcha vanishes; seat never visibly reclines; flat pillow reaction; blanket and sunglasses pop in.
+Beats: 0-1 last cookie bite · 1-3 napkin (Kenji eyes on road; Yuki eyebrows up, approving nod) · 3-7 matcha from cup holder, sip, shoulder wiggle · 7-8 matcha back in same holder · 8-12 lever, seat clearly tilts back, "ooh" face · 12-16 Kenji tucks pillow, one glance; Yuki melts in · 16-20 blanket from lap, snuggles · 20-23 sunglasses from lap, head tilt · 23-28 Kenji hands grey neck pillow from his door pocket (eyes on road), she puts it on, paws behind head, queen mode; Kenji proud glance.
+Props start visible: cookie in paw, matcha in centre holder, folded blanket + sunglasses on her lap. Outfit: plain cream knit sweater (no dots), white scrunchie.
+Still v3: 7b3f1aea-457e-410f-8d0e-89c57334d51b · clip 1 (9 s): 217d4833-10b1-408d-88cc-85953db6f003
+clip 1 retry (passed QC): 326830da-dc78-4373-a20b-d4447aae3796 (first try 217d4833 rejected: Kenji stared at her, napkin dropped, no reaction) · last frame aa8fd144 · clip 2 (9 s): 02ce0264-f4b6-48fc-bd99-dfa721560157
+clip 2 passed QC (Kenji looks ~1.5 s while tucking pillow, accepted). Last frame ce11a1a0. clip 3 try 1 2a827fb0: blanket + sunglasses good; neck pillow ended low on her chest (bad shape), Kenji stared ~2 s → rejected after 4.1 s. clip 3 retry f7c4d1c4: all-black output (failed generation).
+v3 final (23.6 s): q1b + q2 + q3[0-4.1] + 1.4 s hold on sunglasses. Neck-pillow beat dropped pending user decision.
