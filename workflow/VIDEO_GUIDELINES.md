@@ -21,9 +21,12 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
 - **Contrast is comedy**: calm → chaos, cute → savage, smug → defeated.
 - Works **with the sound off** (expressions + text tell the joke) and **better with the sound on**.
 
-## 3. Expressive but natural (updated 2026-11-12 from user feedback)
-- **Match the base video's energy, not 200%.** The user rejected over-dramatic and "artificially happy" acting (gym v2, princess v1). Default: calm, natural, believable movement; one clear emotion per beat.
-- Big expressions only where the base video has them (the reveal/punchline), and only as big as the base.
+## 3. Dramatic: tension between the characters + dramatic reactions (user rule, updated 2026-11-12)
+The user wants every video dramatic: **tension between Kenji and Yuki** and **dramatic reactions**. Earlier rejections (gym v2, princess v1) were about *fast, jittery, artificially happy* movement, not about drama. So: big, but slow and held, like a soap opera / K-drama.
+- **Build tension before the payoff:** long stares, side-eyes, a standoff pause (1–2 s of silence), one character slowly noticing, the other trying not to laugh. Every video has a clear "who wins" conflict.
+- **Dramatic reactions = slow and held, never jittery:** slow head turn, eyes widening, jaw drop held for a beat, a gasp with a paw on the chest, a deadly glare, a betrayed look straight into the camera. One reaction per beat, held ≥ 1 s so it reads at phone size.
+- **Each beat in the beat sheet gets a tension level (low / rising / peak) and the reaction it triggers.** The peak gets the biggest reaction + camera punch-in + sound hit.
+- **Every action by one character gets a visible reaction from the other** (already a QC rule).
 - **Camera punches in** on the reveal (fast zoom), slow push-ins on reactions.
 - **Silence before the reveal**: cut the music for 1–2 s, then hit it.
 - **Sound design is mandatory** on every video:
