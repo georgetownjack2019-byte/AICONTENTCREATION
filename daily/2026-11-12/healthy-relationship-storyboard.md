@@ -29,3 +29,9 @@ Sound: two-voice cartoon gibberish argument 0-3 s (SFX), "hmph" at 3 s, soft ten
 
 ## Production
 1 still (2 cr) → 4 Wan clips × 5 s (30 cr) → SFX + music (~3 cr). Total ≈ 35 credits.
+
+## Gate 2 stills (key frames; each is the end of one clip and the start of the next)
+K1 argue e78d0ac0-ec5f-4efd-82b4-be0e391ab08f · K2 standoff bd64d499-79fd-4a4b-b798-b1b436158e02 · K3 tears bcefc4ed-4c35-4d70-a1c5-1e66edf7e55d · K4 hug f3d02e68-e2bb-4848-a96e-a2708414ace9
+Rejected: d6ee9da3 / 4e4b1d1b / d3b80d0c (Yuki pale "cream" + invented ponytail; two were double-charged by widget timeouts).
+Change from Gate 1: no scrunchie (it made the model invent a ponytail); Yuki wears light grey leggings.
+Clips: C1 K1→K2 (yell, spin away, cross arms) 5 s · C2 K2→K3 (side-eye peeks, then tears/guilt) 5 s · C3 K3→K4 (turn, step in, hug) 5 s = 15 s, Wan 2.7 start+end frames ≈ 22.5 credits.
