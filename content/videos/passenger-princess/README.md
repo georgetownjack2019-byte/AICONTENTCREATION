@@ -4,7 +4,8 @@ Latest from the other session: **v3c** (commit 96ec7df: no double matcha set-dow
 **`passenger-princess_v3c_SFX-ONLY.mp4`**: music removed for **APT.** (user's pick), SFX kept: crunch, napkin rustles, slurp, seat recline, hum, sparkle. Built with tools/sfx_only.py.
 
 ## Covers
-- `cover_passenger-princess.jpg`: from the other session (still matches v3c: ending shot + same caption). Use on TikTok and Instagram.
+- `cover_passenger-princess.jpg`: **v2**, the other session's cover with the cracked-looking matcha cup repainted as an intact cup (Higgsfield `97691286-36c2-49f6-a57a-49d0760e2a6f`), caption re-added with tools/caption.py. Use on TikTok and Instagram.
+- `cover_passenger-princess_OLD_broken-cup.jpg`: the original, kept for reference.
 - `cover_ig_grid_3x4.jpg` / `cover_ig_4x5.jpg`: crop backups if Instagram forces a crop (caption + both faces stay visible).
 
 ## Captions (weekend theme, user's hook "Weekend driver or weekend princess")
