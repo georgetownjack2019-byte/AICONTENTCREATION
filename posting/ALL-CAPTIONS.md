@@ -148,6 +148,14 @@ Which one are you today? Comment 🗑️ or 💅 👇
 .
 #shibainu #shiba #doublelife #relatable #glowup #girlythings #cuteanimals #reels
 
-## Passenger Princess v2 (2026-11-08, re-cut)
+## Passenger Princess v3 (2026-11-12) — FINAL
+File `daily/2026-11-08/final_passenger-princess.mp4` (23.6 s) · Cover `posting/cover_passenger-princess.jpg`
 On-screen: "POV: your passenger princess is chilling while you drive"
-Caption: snacks ✔️ seat reclined ✔️ blanket ✔️ he's just the driver 😌🚗 #passengerprincess #shiba #shibainu #couplegoals #roadtrip #cuteanimals #fyp
+
+**TikTok caption:** snacks ✔️ napkin service ✔️ seat reclined ✔️ he's just the driver 😌👑 #passengerprincess #shiba #shibainu #couplegoals #roadtrip #boyfriendgoals #fyp
+Pinned comment: `tag the driver who does this for you 👇`
+
+**Instagram caption:** He drives. I recline. That's the deal 😌👑
+Send this to your driver 🚗💨
+.
+#passengerprincess #shibainu #shiba #couplegoals #roadtrip #boyfriendgoals #cuteanimals #reels
