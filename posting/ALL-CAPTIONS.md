@@ -180,3 +180,15 @@ Pinned comment: `drop a 💸 if this is your career goal`
 Tag the friend who'd apply 👇
 .
 #dreamjob #shibainu #shiba #worklife #relatable #cuteanimals #reels
+
+## What a healthy relationship looks like (2026-11-12) — Fights ep. 1
+File `daily/2026-11-12/final_healthy-relationship.mp4` (15.1 s) · Cover `posting/cover_healthy-relationship.jpg`
+On-screen: "what a healthy relationship looks like"
+
+**TikTok caption:** send this to the one you can't stay mad at 🥺 #couplegoals #relationship #healthyrelationship #shiba #shibainu #couplehumor #fyp
+Pinned comment: `who apologizes first in your relationship? 👀`
+
+**Instagram caption:** Choosing love over being right, every single time 🥺🐾
+Tag your person 👇
+.
+#healthyrelationship #couplegoals #relationshipgoals #shibainu #shiba #cuteanimals #reels

@@ -1,0 +1,8 @@
+{"original_volume": 0.0,
+ "music": {"src": "/home/user/AICONTENTCREATION/assets/music/tender-piano.mp3", "volume": 0.7, "segments": [[7.6, 15.139501]], "fade": 0.8},
+ "sfx": [
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/cartoon-argue-gibberish.mp3", "at": 0.0, "volume": 0.9},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/double-hmph.mp3", "at": 3.05, "volume": 0.9},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/cute-sniffle.mp3", "at": 8.6, "volume": 0.8},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/happy-hum.mp3", "at": 13.4, "volume": 0.4}
+ ]}

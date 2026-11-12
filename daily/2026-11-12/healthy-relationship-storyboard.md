@@ -37,3 +37,5 @@ Change from Gate 1: no scrunchie (it made the model invent a ponytail); Yuki wea
 Clips: C1 K1→K2 (yell, spin away, cross arms) 5 s · C2 K2→K3 (side-eye peeks, then tears/guilt) 5 s · C3 K3→K4 (turn, step in, hug) 5 s = 15 s, Wan 2.7 start+end frames ≈ 22.5 credits.
 Clips: C1 21465a97-0e0b-4555-8e5b-989a5a3f9288 · C2 8785d1d5-c1f9-4350-8084-4ebe74f6acbb · C3 863645a1-341a-442d-8f19-7a41a250ed35 · audio: gibberish 0914399c, hmph 2f8f1a51, sniffle 0455c830, piano bd51a670
 QC: C1 21465a97 PASS. C2 8785d1d5 FAIL (Kenji 180° head twist 1.5-2.7 s; ears pointed→floppy morph). C3 863645a1 FAIL (floppy ears snap upright mid-hug). Cause: K3 still had floppy ears → new K3 f2f78a6a-c3fa-4632-8bef-2c1f361b86ee (upright ears). Redo: C2 6a3fe7b1-8362-4a45-b2ee-6f3feffdcaf1, C3 033236d3-1531-453c-967c-585835072b47.
+Final: final_healthy-relationship.mp4 (15.1 s) = C1 21465a97 + C2 6a3fe7b1 + C3 033236d3 (zoom-in from 2 s). Sound: gibberish 0.0, hmph 3.05, sniffle 8.6, piano 7.6→end, hum 13.4. -15.7 LUFS. Dense QC at seams 5.0 / 10.0: clean.
+Credits: stills ~16 (incl. 4 wasted on timeouts/off-model), clips 5 × 7.5 = 37.5, audio ~2 → ~56.
