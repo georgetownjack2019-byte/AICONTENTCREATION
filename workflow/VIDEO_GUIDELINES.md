@@ -136,3 +136,7 @@ Glitches the user caught that QC missed: matcha set down twice across a clip sea
 
 **Fix (cheapest first):**
 7. A glitch ≤ 0.6 s that a cut can hide → cut it out in the edit (free), add a sound on the cut. Otherwise regenerate only that segment, or use a video-edit model (FLUX 3 Video Edit, 1 credit/s) for small touch-ups such as removing crumbs; always re-check that it did not change markings, colours or accessories.
+
+## 8. Generation hygiene (2026-11-12)
+- **Submit with `generate_image_batch` / `generate_video_batch`, not `generate_image`/`generate_video`.** The widget tools time out after 60 s but the job may still be created later (two identical stills were charged twice). Batch tools return the job id immediately.
+- **Describe Yuki by her reference sheet, never as "cream"**: slim honey-orange Shiba Inu, cream cheeks and chest, white eyebrow markings, brown eyes, short fur on the head. "Cream Shiba" made her pale and off-model. Avoid hair accessories unless the beat sheet needs one; a scrunchie made the model invent a ponytail.
