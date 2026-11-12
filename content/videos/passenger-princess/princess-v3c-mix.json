@@ -1,0 +1,56 @@
+{
+ "original_volume": 0.0,
+ "music": {
+  "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/princess/music_p3.wav",
+  "volume": 0.6,
+  "segments": [
+   [
+    0,
+    21.989637
+   ]
+  ],
+  "fade": 0.02
+ },
+ "sfx": [
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/crunch-chew.mp3",
+   "at": 0.1,
+   "volume": 0.5
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/napkin-rustle.mp3",
+   "at": 2.2,
+   "volume": 0.6
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/straw-slurp.mp3",
+   "at": 5.2,
+   "volume": 0.5
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/seat-recline.mp3",
+   "at": 9.05,
+   "volume": 0.7
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/napkin-rustle.mp3",
+   "at": 13.35,
+   "volume": 0.45
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/happy-hum.mp3",
+   "at": 14.55,
+   "volume": 0.5
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/napkin-rustle.mp3",
+   "at": 18.25,
+   "volume": 0.55
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/magic-sparkle.mp3",
+   "at": 19.85,
+   "volume": 0.55
+  }
+ ]
+}
