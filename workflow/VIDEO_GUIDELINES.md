@@ -106,6 +106,14 @@ The user approves or edits; nothing is generated until then.
 
 **Gate 3 — Animation.** Prompts copy the approved beat-sheet actions word for word, plus "natural, calm movement" unless the beat says otherwise. QC every clip (contact sheet) against the beat sheet before editing; a glitched clip is retried once silently, then reported.
 
+**Frame-by-frame QC checklist (Gate 3, before showing anything; user rule 2026-11-12):**
+- Prop continuity: every prop picked up is put back where it came from (or visibly kept); nothing vanishes or pops in from nowhere (blanket, sunglasses, cookie, drink).
+- Outfit stays identical for the whole clip and across clips (no sweater/texture change mid-clip).
+- Every action by one character gets a visible reaction from the other (napkin, pillow, help): the reaction must read clearly at phone size, matched to the base video's energy.
+- Each action promised in the beat sheet is actually visible (e.g. the seat really reclines).
+- Driver keeps eyes mostly on the road; no long stares away while driving.
+- Edit: footsteps / dance moves land on the music beat (measure step rhythm and music BPM; retime the clip or the music so they match).
+
 **Gate 4 — Edit (free).** Timing, cuts, transitions, music and captions are all free to change; fix there instead of regenerating.
 
 Lessons that caused past remakes: storyline differed from the original (bowl) · prop changed after animating (macaron → bill → check) · outfit drift from reference sheets · too fast / too dramatic acting (gym, princess) · missed small actions from the original (princess) · too short (sync) · effect glitches (wind wisps, neighbors).

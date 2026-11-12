@@ -1,0 +1,96 @@
+{
+ "original_volume": 0.0,
+ "music": {
+  "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/nmusic3.wav",
+  "volume": 0.6,
+  "segments": [
+   [
+    0,
+    11.2667
+   ]
+  ],
+  "fade": 0.02
+ },
+ "sfx": [
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/shuffle.wav",
+   "at": 0.1,
+   "volume": 0.8
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/whoosh-bass-hit.mp3",
+   "at": 3.26,
+   "volume": 0.9
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/paparazzi-flashes.mp3",
+   "at": 6.0,
+   "volume": 0.5
+  },
+  {
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/paparazzi-flashes.mp3",
+   "at": 8.6,
+   "volume": 0.45
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 5.36,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 5.829,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 6.297,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 6.766,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 7.704,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 8.172,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 8.641,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 9.11,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 9.579,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 10.047,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 10.516,
+   "volume": 0.7
+  },
+  {
+   "src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/neighbors/click.wav",
+   "at": 10.985,
+   "volume": 0.7
+  }
+ ]
+}
