@@ -159,3 +159,12 @@ Pinned comment: `tag the driver who does this for you 👇`
 Send this to your driver 🚗💨
 .
 #passengerprincess #shibainu #shiba #couplegoals #roadtrip #boyfriendgoals #cuteanimals #reels
+
+## Kenji's skincare vs Yuki's skincare (him vs her) — video not in this repo
+**TikTok caption:** her: 12 steps, 3 serums, 1 jade roller. him: water. 💀🧴 #himvsher #skincareroutine #couplehumor #shiba #shibainu #relatable #fyp
+Pinned comment: `which one is your routine? 🧴 or 💦`
+
+**Instagram caption:** Same bathroom. Very different routines 🧴💦
+Tag the Kenji in your life 👇
+.
+#himvsher #skincareroutine #couplehumor #relationshiphumor #shibainu #shiba #cuteanimals #reels
