@@ -117,3 +117,19 @@ The user approves or edits; nothing is generated until then.
 **Gate 4 — Edit (free).** Timing, cuts, transitions, music and captions are all free to change; fix there instead of regenerating.
 
 Lessons that caused past remakes: storyline differed from the original (bowl) · prop changed after animating (macaron → bill → check) · outfit drift from reference sheets · too fast / too dramatic acting (gym, princess) · missed small actions from the original (princess) · too short (sync) · effect glitches (wind wisps, neighbors).
+
+## 7. Automatic glitch prevention (user rule, 2026-11-12)
+Glitches the user caught that QC missed: matcha set down twice across a clip seam; sunglasses appeared as two separate halves that merged on her face. Both lasted < 0.6 s, so 2–3 fps contact sheets skipped them. From now on:
+
+**Prevent (in every prompt):**
+1. **Seam rule.** Chain the next clip from a frame where the previous action is finished and still (not mid-motion). The next prompt starts with the state as already done ("the matcha is already standing in the cup holder, her paws rest on the blanket") and its first action must be NEW. Never re-describe the previous clip's last action (that is what made her set the matcha down twice).
+2. **Prop count lock.** Name every prop with its count and state in every prompt: "exactly one pair of black sunglasses, always one solid piece".
+3. **No high-risk prop handling.** Avoid putting glasses on/off, opening/folding objects, passing objects hand to hand, objects coming out of pockets or from behind things. Use low-risk versions: sunglasses already pushed up on her head → she slides them down; blanket already draped on her lap → she pulls it up; objects already in hand at the start of the clip.
+4. **Fewer actions per clip.** At most 2 actions per 5 s; prefer several short clips (5 s) over one 9–10 s clip with 4 actions.
+
+**Detect (before showing anything):**
+5. Run `python3 -I workflow/scripts/qc_sheets.py VIDEO OUTDIR --seams <every clip seam> --windows <every prop action from the beat sheet> --crop x,y,w,h` and look at EVERY sheet: whole video at 6 fps, every seam and every prop action at 10 fps, zoomed on the characters.
+6. Fill a **prop ledger** (one row per prop: where it is at every beat, how many, solid/whole). Any prop that vanishes, pops in, duplicates, splits, or any action repeated across a seam = FAIL.
+
+**Fix (cheapest first):**
+7. A glitch ≤ 0.6 s that a cut can hide → cut it out in the edit (free), add a sound on the cut. Otherwise regenerate only that segment, or use a video-edit model (FLUX 3 Video Edit, 1 credit/s) for small touch-ups such as removing crumbs; always re-check that it did not change markings, colours or accessories.
