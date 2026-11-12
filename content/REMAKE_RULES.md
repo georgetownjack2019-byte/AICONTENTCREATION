@@ -44,6 +44,8 @@ Only change the length when the user asks for it (e.g. the longer Yuki routine i
 Always measure the original (`ffprobe`) and write its timeline into the plan before generating.
 
 ## 2. Make it more viral than the original
+**Apply the three pillars from `COMEDY_PLAYBOOK.md` (tension, pace, exaggeration) on top of the original's script and storyboard: same beats and timing, but every beat played bigger.**
+
 - **Frame 1 = a face mid-reaction** plus the hook text. No slow start.
 - **Exaggerate the cartoon acting:** bigger eyes, longer deadpan stare, sharper side-eye,
   dramatic freezes. That's the advantage of cartoon characters.
