@@ -41,7 +41,10 @@ Use: original sound 100%, song 10–25% (louder for music-driven edits). Creator
 
 ---
 
-## Effects-only versions (music removed so the song is added in the app), user request 2026-11-12
+## Effects-only versions: ON HOLD (user cancelled on 2026-11-12; video content will be edited first)
+The song suggestions above stay valid. These files are drafts only; rebuild them with `tools/sfx_only.py` after the content edits.
+
+### Draft list (music removed so the song is added in the app)
 | # | Video | File | In-app song (TikTok / Instagram) |
 |---|---|---|---|
 | 1 | Everything in sync | `content/videos/in-sync-remake/in-sync_FINAL_v4_SFX-ONLY.mp4` | Ok I Like It / APT. |
