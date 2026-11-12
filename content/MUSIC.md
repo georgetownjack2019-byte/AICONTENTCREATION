@@ -38,3 +38,16 @@ What top AI-animal / couple Reels use: upbeat playful instrumental + SFX (pop, t
 | Bowl prank | I Want You Back (Jackson 5) | Fun, proven on a 3D couple skit |
 | Passenger princess | APT. | Car singalong |
 Use: original sound 100%, song 10–25% (louder for music-driven edits). Creator accounts have the full library; Business accounts are limited.
+
+---
+
+## Effects-only versions (music removed so the song is added in the app), user request 2026-11-12
+| # | Video | File | In-app song (TikTok / Instagram) |
+|---|---|---|---|
+| 1 | Everything in sync | `content/videos/in-sync-remake/in-sync_FINAL_v4_SFX-ONLY.mp4` | Ok I Like It / APT. |
+| 2 | Bowl / money prank | `content/videos/bowl/bowl_SFX-ONLY.mp4` (voices kept) | Housewife / Housewife |
+| 3 | He thought he escaped | `content/videos/escaped/escaped_SFX-ONLY.mp4` | Stay Close to Me / All I Want For Christmas Is You |
+| 4 | Gym v6 | `content/videos/weights-spectating/final_weights-spectating_v6_SFX-ONLY.mp4` | Invictus / November Rain |
+| 6 | Passenger princess | `content/videos/passenger-princess/passenger-princess_SFX-ONLY.mp4` | Ok I Like It / APT. |
+Unchanged (keep their own music): 5 work, 7 skincare, 8 door prank.
+Tool: `tools/sfx_only.py` (rebuilds a soundtrack from a mix JSON with SFX only, optional `--voice` track).
