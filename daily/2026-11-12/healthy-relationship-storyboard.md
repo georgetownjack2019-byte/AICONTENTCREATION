@@ -44,3 +44,5 @@ Cute style test still: 54538354-5540-4223-ae58-f3b1afbeb712 (chibi: big round he
 v2 sound: cute squeaky bicker (6c43b69b, pitched +4 st) + cute hmph (fa3138c9); argument visuals still too aggressive (user) — options: redo clip 1 pouty (~9.5 cr) or full cute-style redo (~31 cr).
 New pouty K1: 6019c46e-4466-4199-9fdb-51001f88bca6 (waiting for user OK, then clip 1 K1→K2 ~7.5 cr)
 Heated-cute K1: 92defc1e-331e-4906-804f-8227bbabf798 · sound options: A 5f64f497 (b-b-b/bla-bla babble), B 2916e994 (chipmunk babababa/nyeh nyeh). Waiting for user pick.
+Heated-cute clip 1 (K1h→K2): c99748eb-9531-4479-9e28-4b5169c3409e · Shiba SFX: yips 9de5eec8, huff 9c0efb1c, whimper 9845f42a, happy sigh 0345917d
+v3 final (22.2 s): heated-cute clip 1 c99748eb (QC pass) + C2 6a3fe7b1 + C3 033236d3; Shiba SFX (yips 0.0, huff 3.05, whimpers 11.1/12.9, happy sigh 18.9); piano from 9.25. -13.9 LUFS. New cover from the heated-cute argue frame.
