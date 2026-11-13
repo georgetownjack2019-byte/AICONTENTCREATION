@@ -41,3 +41,4 @@ Final: final_healthy-relationship.mp4 (15.1 s) = C1 21465a97 + C2 6a3fe7b1 + C3 
 Credits: stills ~16 (incl. 4 wasted on timeouts/off-model), clips 5 × 7.5 = 37.5, audio ~2 → ~56.
 v2 pacing (user: too quick, not cute): free re-edit to 22.2 s — turn-away slowed ×0.6, standoff ×0.75, 1.6 s push-in hold on Yuki's tears, hug ×0.8 + 1.8 s held ending; new 14 s piano (83cef52d) from 9.6 s. -13.4 LUFS.
 Cute style test still: 54538354-5540-4223-ae58-f3b1afbeb712 (chibi: big round heads, big sparkly eyes, blush, chubby bodies) → daily/2026-11-12/cute-style-test.jpg, waiting for user.
+v2 sound: cute squeaky bicker (6c43b69b, pitched +4 st) + cute hmph (fa3138c9); argument visuals still too aggressive (user) — options: redo clip 1 pouty (~9.5 cr) or full cute-style redo (~31 cr).

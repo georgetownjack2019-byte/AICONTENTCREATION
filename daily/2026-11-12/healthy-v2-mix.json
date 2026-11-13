@@ -13,14 +13,14 @@
  },
  "sfx": [
   {
-   "src": "/home/user/AICONTENTCREATION/assets/sfx/cartoon-argue-gibberish.mp3",
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/cute-bicker-squeaky-hi.mp3",
    "at": 0.0,
-   "volume": 0.9
+   "volume": 0.6
   },
   {
-   "src": "/home/user/AICONTENTCREATION/assets/sfx/double-hmph.mp3",
+   "src": "/home/user/AICONTENTCREATION/assets/sfx/cute-hmph-hi.mp3",
    "at": 3.05,
-   "volume": 0.9
+   "volume": 0.8
   },
   {
    "src": "/home/user/AICONTENTCREATION/assets/sfx/cute-sniffle.mp3",
