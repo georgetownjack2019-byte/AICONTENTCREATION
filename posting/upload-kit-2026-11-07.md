@@ -130,3 +130,13 @@ Should I tell him? 👇
 - **Cover:** `posting/cover_dream-job.jpg` (Yuki hugging the cash). TikTok: pick the frame at ~2.5 s.
 - **Captions:** see `posting/ALL-CAPTIONS.md` → Dream job.
 - **Sound:** keep the original audio (money counter, snores, ka-ching). Short loop video: great for rewatches.
+
+---
+
+## Weekend schedule (Paris time) · posted so far: face masks, his arm is mine, skincare
+| Day | Paris time | Video | Order |
+|---|---|---|---|
+| Fri Nov 13 | 18:00 | Dream job | Instagram 18:00, TikTok 18:45 |
+| Sat Nov 14 | 17:00 | He really thought he escaped (bedtime ep. 2, sequel to the arm video) | Instagram 17:00, TikTok 17:45 |
+| Sun Nov 15 | 18:00 | Passenger princess | Instagram 18:00, TikTok 18:45 |
+If the hook-revised versions are ready, post those instead of the originals.
