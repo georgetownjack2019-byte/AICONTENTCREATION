@@ -43,3 +43,4 @@ v2 pacing (user: too quick, not cute): free re-edit to 22.2 s — turn-away slow
 Cute style test still: 54538354-5540-4223-ae58-f3b1afbeb712 (chibi: big round heads, big sparkly eyes, blush, chubby bodies) → daily/2026-11-12/cute-style-test.jpg, waiting for user.
 v2 sound: cute squeaky bicker (6c43b69b, pitched +4 st) + cute hmph (fa3138c9); argument visuals still too aggressive (user) — options: redo clip 1 pouty (~9.5 cr) or full cute-style redo (~31 cr).
 New pouty K1: 6019c46e-4466-4199-9fdb-51001f88bca6 (waiting for user OK, then clip 1 K1→K2 ~7.5 cr)
+Heated-cute K1: 92defc1e-331e-4906-804f-8227bbabf798 · sound options: A 5f64f497 (b-b-b/bla-bla babble), B 2916e994 (chipmunk babababa/nyeh nyeh). Waiting for user pick.
