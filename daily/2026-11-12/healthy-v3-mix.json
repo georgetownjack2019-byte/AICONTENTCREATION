@@ -1,9 +1,8 @@
 {"original_volume": 0.0,
- "music": {"src": "/home/user/AICONTENTCREATION/assets/music/tender-piano-14s.mp3", "volume": 0.6, "segments": [[9.25, 22.233333]], "fade": 1.0},
+ "music": {"src": "/home/user/AICONTENTCREATION/assets/music/tender-piano-19s.mp3", "volume": 0.55, "segments": [[3.6, 22.233333]], "fade": 1.2},
  "sfx": [
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-yip-argue-n.mp3", "at": 0.0, "volume": 0.85},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-huff-n.mp3", "at": 3.05, "volume": 0.9},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-whimper-n.mp3", "at": 11.1, "volume": 0.8},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-whimper-n.mp3", "at": 12.9, "volume": 0.55},
-  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-happy-sigh.mp3", "at": 18.9, "volume": 0.55}
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-yip-clean-soft.mp3", "at": 0.0, "volume": 0.8},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-yip-clean-hi-soft.mp3", "at": 1.0, "volume": 0.6},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-whimper-clean.mp3", "at": 10.6, "volume": 0.7},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-sigh-clean.mp3", "at": 18.7, "volume": 0.6}
  ]}
