@@ -42,3 +42,5 @@ vidIQ watch 10 credits. Stills (8 credits): 1 key 6cf4aa6c-21bb-4ae1-8db1-3661be
 - Leg-pull mop stills (user: she pulls his legs): A side view f9311d49-1afe-4b7c-ba89-5cb3101b2ff0 (puddle under him, one leg held with both paws) · B top-down 7e938523-8461-4bd8-9f82-86e204d5ae36 (one foot held). First try 6fecc70c (puddle not under him). Model would not render both ankles held. Stills total 28 credits.
 - Mop still, tilted like a mop (user: side view, held by the legs, tilted): 07eaf4aa-f75c-40da-9574-dcea88e6cd69. Stills total 30 credits.
 - Still 3 panic version (user: Kenji panics, afraid Yuki will be angry): bb9cffce-28cc-46f9-b862-ab4a48aba865. Stills total 32 credits.
+- Animation (Wan 2.7): A c610ce61-8dec-4165-9478-fe40ecaadb9c (6 s) · B cc70b04c-94bd-499c-a26f-19e82611f565 (4 s) · C mop 1479682d-e10e-4847-a912-6732b6b3c3ac (4 s)
+- Audio: music happy d25d9267-4f41-458c-bbe8-ed013cae2f92 · chase d878b4d2-041f-4b57-8b3d-c6dbb6fba606 · scratch 91e89aff-9d0a-4882-819d-01ad32e88865 · splash de98a515-b585-4eba-8859-ca67b8017db0 · scrub 5acea03c-b526-4934-9830-e0d307bf77ec
