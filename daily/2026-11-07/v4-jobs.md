@@ -37,4 +37,4 @@ vidIQ watch 10 credits. Stills: wide 39f7ea78-0dc8-4e59-8411-814d4f23483d, close
 - Final: daily/2026-11-12/final_dream-job.mp4 (edit dream-job-edit.json, mix dream-job-mix.json)
 
 ## Human mop (2026-11-14)
-vidIQ watch 10 credits. Stills (8 credits): 1 key 6cf4aa6c-21bb-4ae1-8db1-3661be72c1f6 · 2 stumble 378bfa8b-7bc7-4864-b6d1-db779b7c72d6 · 3 aftermath 941c1049-172c-40dd-b12d-5dc798a68bb8 · 4 mop ee966c3e-b32f-4ce9-8dd0-976d576ede02. Awaiting approval.
+vidIQ watch 10 credits. Stills (8 credits): 1 key 6cf4aa6c-21bb-4ae1-8db1-3661be72c1f6 · 2 stumble 378bfa8b-7bc7-4864-b6d1-db779b7c72d6 · 3 aftermath 941c1049-172c-40dd-b12d-5dc798a68bb8 · 4 mop ee966c3e-b32f-4ce9-8dd0-976d576ede02. Superseded by mop version: 1 b511c266 · 2 da2e59ac · 3 08a9b757 · 4 ee966c3e (slip redo 298633e3 rejected, outfit lost). 14 credits on stills so far.

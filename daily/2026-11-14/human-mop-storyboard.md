@@ -9,7 +9,7 @@ Contact sheet of the original: `human-mop-original-sheet.jpg` (2 fps)
 | Ginger kitten, pink ruffled dress + pink bow | Yuki: short butter-yellow gingham sundress (user pick), no hair accessory |
 | Tabby kitten, no clothes | Kenji: charcoal hoodie, grey sweatpants |
 | Warm wood room: bookshelves, floor lamp, beige armchair, plants, sunlit wood floor | Bright modern apartment: white walls, sage-green sofa, sheer white curtains, round mirror, pale glossy oak floor |
-| Black stick vacuum with blue lights | White cordless stick vacuum |
+| Black stick vacuum with blue lights | **Yuki mops instead (user change)**: grey string mop + light-blue bucket, wet glossy floor (that is why he slips) |
 | White mug of coffee on the floor | Sage ceramic mug of matcha latte (green spill) |
 | White towel | Pale yellow terry towel |
 
@@ -43,3 +43,8 @@ Sound: playful acoustic music (one cue per beat), vacuum hum, stumble + splat on
 - Wan 2.7: A1 5 s (vacuum + pick up mug), A2 4 s (stands, walks, trips; chained from A1's last frame), B 3 s (glare), C 4 s (towel drag) = 24
 - Music + SFX ≈ 8
 - **Total ≈ 38 credits**
+
+## User change (2026-11-14): mopping, not vacuuming
+Yuki mops the floor; Kenji picks up his matcha, slips on the wet floor, spills it; Yuki gets angry and uses Kenji as a mop.
+Approved-for-review stills: 1 key b511c266-76ee-43f6-99a0-4c0c285c3d90 · 2 slip da2e59ac-5578-4499-8643-874154c5526c · 3 spill 08a9b757-5c5b-42f8-882a-c21a08bfc4bd · 4 mop ee966c3e-b32f-4ce9-8dd0-976d576ede02
+(Rejected: slip redo 298633e3, Kenji lost his hoodie and pants.)
