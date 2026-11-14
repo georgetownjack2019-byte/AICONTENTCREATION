@@ -50,3 +50,4 @@ Approved-for-review stills: 1 key b511c266-76ee-43f6-99a0-4c0c285c3d90 · 2 slip
 (Rejected: slip redo 298633e3, Kenji lost his hoodie and pants.)
 Update: still 4 replaced by 6750d72c-d6dc-4c21-b4d2-aab31a72ac9e (user: folded towel under Kenji's head; he lies in the puddle). Rejected: f8892809 and 609f8779 (Kenji had a third arm).
 Update: still 4 = 07eaf4aa-f75c-40da-9574-dcea88e6cd69 (side view; Yuki holds his ankle up like a mop handle, Kenji tilted, head on the folded towel as the mop pad).
+Update: still 3 = bb9cffce-28cc-46f9-b862-ab4a48aba865 (Kenji panics after the spill: wide eyes, sweat drop, gasp, staring at Yuki).
