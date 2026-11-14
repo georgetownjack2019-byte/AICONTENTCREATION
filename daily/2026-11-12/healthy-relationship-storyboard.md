@@ -50,3 +50,4 @@ v3 sound fix (user: sound weird): mirelo SFX were mostly hiss; boosted hiss = st
 v4 sound: Seedance 2.5 video_edit synced argument audio (29806f63, 21 cr) replaces argue SFX 0-5.7 s; piano rebuilt continuous 4.2 s→end (no loop gap); -14 LUFS.
 v5 catchy music options (~6.7 cr): ukulele 915170d5 → final_healthy-relationship_ukulele.mp4, glockenspiel 94ef65ee → final_healthy-relationship_glock.mp4 (music ducked to 45% under the argument, piano dropped). Waiting for user pick; final_healthy-relationship.mp4 = piano version.
 v6 scored music (~11 cr): 4 cues crossfaded on scene changes — squabble 1285b83e (0-5.9, ducked), sulky 24532e89 (5.9-9.9; first try 49eb91cd silent), sad 47c1e9a6 (9.9-14.1), happy 756d0e71 (14.1-22.2). Ukulele/glock versions removed.
+v7: hug music = tender piano swell (tender-piano-19s 8.5-17.08) instead of ukulele cue (user: too fake). Free.
