@@ -50,6 +50,10 @@ The user wants every video dramatic: **tension between Kenji and Yuki** and **dr
   - props and textiles: a patchwork quilt becomes a knit throw or a plain duvet; keep only props the joke needs (the bowl)
   - set pieces: a round porthole window becomes a regular window with curtains; change counter/cabinet colours
   - Check the contact sheet side by side with the original and redo any frame that looks like a copy.
+- **AI-animated originals are valid sources too (user rule, 2026-11-14).** Viral AI-animated couple/animal videos are
+  remade the same way as human videos: same script, beats, timing, lines and camera, with Kenji and Yuki and the swap list.
+  Extra care because they look closer to ours: their characters' species/designs, outfit colours, room layout and music
+  are never reused; the swap list must change the set and palette clearly, so a side-by-side never reads as a re-upload.
 - **Lock each video's outfits in every prompt (user rule, 2026-11-07).** The reference sheets show default outfits
   (Kenji: cream cable-knit sweater; Yuki: cream cardigan over a sage top), and generators drift back to them when a prompt
   only says "same outfits". So:
