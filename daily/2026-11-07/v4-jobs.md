@@ -48,3 +48,4 @@ vidIQ watch 10 credits. Stills (8 credits): 1 key 6cf4aa6c-21bb-4ae1-8db1-3661be
 - Final: daily/2026-11-14/final_human-mop.mp4 (14.1 s). Total spent: stills 32 + Wan 21 + fixes 12 + audio ~4 ≈ 69 credits (+10 vidIQ).
 - Fix round 2 (user: slip unnatural, floor not wiped): upload 9203a9de (A frame 4.0 s) · slip SL 5aa01972-70be-4cc5-b049-1295cb09a8e1 · clean end still f25ab965-70cf-4532-aff8-7340db21f112 · mop C3 f619e480-dcd4-4024-a3c7-28e782978449
 - v2 final (natural slip + floor wiped): final_human-mop.mp4 14.2 s. Fix round 2 cost: still 2 + slip 4.5 + mop 7.5 = 14 credits. Total ≈ 83 credits (+10 vidIQ).
+- v3: cold open removed (user: looked like a glitch). 13.5 s.
