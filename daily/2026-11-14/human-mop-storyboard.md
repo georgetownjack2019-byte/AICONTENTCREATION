@@ -6,7 +6,7 @@ Contact sheet of the original: `human-mop-original-sheet.jpg` (2 fps)
 ## Swap list (original → ours)
 | Original | Ours |
 |---|---|
-| Ginger kitten, pink ruffled dress + pink bow | Yuki: lilac ribbed lounge set (long-sleeve top + wide-leg pants), no hair accessory |
+| Ginger kitten, pink ruffled dress + pink bow | Yuki: short butter-yellow gingham sundress (user pick), no hair accessory |
 | Tabby kitten, no clothes | Kenji: charcoal hoodie, grey sweatpants |
 | Warm wood room: bookshelves, floor lamp, beige armchair, plants, sunlit wood floor | Bright modern apartment: white walls, sage-green sofa, sheer white curtains, round mirror, pale glossy oak floor |
 | Black stick vacuum with blue lights | White cordless stick vacuum |
@@ -14,7 +14,7 @@ Contact sheet of the original: `human-mop-original-sheet.jpg` (2 fps)
 | White towel | Pale yellow terry towel |
 
 ## Outfit line (word for word in every prompt)
-"Yuki: lilac ribbed lounge set, long-sleeve top and wide-leg pants, no hair accessories. Kenji: charcoal pullover hoodie, grey sweatpants. Do not use the outfits from the reference sheets; faces and fur only."
+"Yuki: short butter-yellow gingham sundress with thin straps, no hair accessories. Kenji: charcoal pullover hoodie, grey sweatpants. Do not use the outfits from the reference sheets; faces and fur only."
 
 ## User decisions (2026-11-14)
 - **Keep the original mop gag**: Yuki holds Kenji's front paws and swishes him through the puddle (user override of rule 4c).
@@ -22,7 +22,7 @@ Contact sheet of the original: `human-mop-original-sheet.jpg` (2 fps)
   short 4 s clip, Kenji's arms stay straight up in front of him, QC at 10 fps zoomed on the paws; retry once if anything merges.
 - **Show the spill**: mug tips out of his paws as he lands, the matcha splashes low and spreads across the floor
   (start still = mid-stumble with the mug, end still = on his back with the puddle). QC the spill at 10 fps.
-- **Yuki's outfit**: not the lilac lounge set; new outfit to pick.
+- **Yuki's outfit**: butter-yellow gingham sundress (user pick, lilac set rejected).
 
 ## Beats (13.4 s, same timing)
 | Time | Original | Ours | Energy |
