@@ -7,6 +7,7 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
 
 ## 1. Attention-catching: win the first 2 seconds
 - **Frame 1 is a face mid-emotion** (smirk, pout, side-eye, shock). Never an empty room or a slow establishing shot.
+- **No cold-open flash-forwards (user rule, 2026-11-14).** Showing the ending for 0.7 s before the story read as a glitch. Hook with the first real shot (strong action, text) instead.
 - **Text hook on screen from 0.0 s**: ≤ 8 words, a relatable "POV / when…" line that makes people want the ending.
 - **Something moves or changes within 1 second** (a roll, a grab, a zoom, a sound hit).
 - Bright, readable, vertical 9:16; characters fill at least a third of the frame.
