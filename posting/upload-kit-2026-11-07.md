@@ -144,6 +144,6 @@ If the hook-revised versions are ready, post those instead of the originals.
 ---
 
 ## Human mop: "Me: *just mopped the floor* Him:" (2026-11-14)
-- **File:** `daily/2026-11-14/final_human-mop.mp4` (14.1 s, music + SFX + caption burned in)
+- **File:** `daily/2026-11-14/final_human-mop.mp4` (14.2 s, music + SFX + caption burned in)
 - **Cover:** `posting/cover_human-mop.jpg` (Yuki mopping with Kenji). TikTok: pick the frame at ~10 s.
 - **Captions:** see `posting/ALL-CAPTIONS.md` → Human mop.

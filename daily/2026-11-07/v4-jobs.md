@@ -46,3 +46,5 @@ vidIQ watch 10 credits. Stills (8 credits): 1 key 6cf4aa6c-21bb-4ae1-8db1-3661be
 - Audio: music happy d25d9267-4f41-458c-bbe8-ed013cae2f92 · chase d878b4d2-041f-4b57-8b3d-c6dbb6fba606 · scratch 91e89aff-9d0a-4882-819d-01ad32e88865 · splash de98a515-b585-4eba-8859-ca67b8017db0 · scrub 5acea03c-b526-4934-9830-e0d307bf77ec
 - QC: B spill droplets on hoodie vanish + puddle disappears (use B 0-0.75 s only); C motion too small. Fixes: B2 panic/glare e6f196a6-b78d-4593-825e-eb4a2f372aeb (3 s from bb9cffce) · C2 big strokes 29ae2001-8856-45e5-b458-9cd2a51ad6bc (5 s)
 - Final: daily/2026-11-14/final_human-mop.mp4 (14.1 s). Total spent: stills 32 + Wan 21 + fixes 12 + audio ~4 ≈ 69 credits (+10 vidIQ).
+- Fix round 2 (user: slip unnatural, floor not wiped): upload 9203a9de (A frame 4.0 s) · slip SL 5aa01972-70be-4cc5-b049-1295cb09a8e1 · clean end still f25ab965-70cf-4532-aff8-7340db21f112 · mop C3 f619e480-dcd4-4024-a3c7-28e782978449
+- v2 final (natural slip + floor wiped): final_human-mop.mp4 14.2 s. Fix round 2 cost: still 2 + slip 4.5 + mop 7.5 = 14 credits. Total ≈ 83 credits (+10 vidIQ).

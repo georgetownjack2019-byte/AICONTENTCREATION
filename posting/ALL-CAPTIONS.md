@@ -194,7 +194,7 @@ Tag your person 👇
 #healthyrelationship #couplegoals #relationshipgoals #shibainu #shiba #cuteanimals #reels
 
 ## Me: *just mopped the floor* Him: (2026-11-14) — human mop
-File `daily/2026-11-14/final_human-mop.mp4` (14.1 s) · Cover `posting/cover_human-mop.jpg` · TikTok cover frame ~10 s
+File `daily/2026-11-14/final_human-mop.mp4` (14.2 s) · Cover `posting/cover_human-mop.jpg` · TikTok cover frame ~10 s
 On-screen: "Me: *just mopped the floor*  Him:"
 
 **TikTok caption:** he said he'd help with the cleaning 🧽😌 #couplehumor #cleaningtiktok #shiba #shibainu #relatable #boyfriend #fyp

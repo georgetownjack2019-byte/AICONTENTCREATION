@@ -1,9 +1,10 @@
 {"original_volume": 0,
- "music": {"src": "mop/music.wav", "volume": 0.6, "segments": [[0, 14.1]], "fade": 0.05},
+ "music": {"src": "mop/music.wav", "volume": 0.6, "segments": [[0, 14.2]], "fade": 0.05},
  "sfx": [
   {"src": "../../assets/sfx/whoosh-bass-hit.mp3", "at": 0.0, "volume": 0.8},
-  {"src": "mop/sfx-splash.mp3", "at": 6.65, "volume": 1.0},
-  {"src": "../../assets/sfx/dramatic-sting.mp3", "at": 7.0, "volume": 0.9},
-  {"src": "mop/scrub-clean.wav", "at": 9.55, "volume": 1.0},
-  {"src": "mop/scrub-clean.wav", "at": 11.8, "volume": 1.0}
+  {"src": "../../assets/sfx/whoosh-bass-hit.mp3", "at": 4.7, "volume": 0.7},
+  {"src": "mop/sfx-splash.mp3", "at": 5.3, "volume": 1.0},
+  {"src": "../../assets/sfx/dramatic-sting.mp3", "at": 6.0, "volume": 0.9},
+  {"src": "mop/scrub-clean.wav", "at": 9.25, "volume": 1.0},
+  {"src": "mop/scrub-clean.wav", "at": 11.5, "volume": 1.0}
  ]}
