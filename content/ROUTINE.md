@@ -12,6 +12,11 @@
 | 7. Post | Upload `final.mp4` to TikTok (optionally add the trending sound in-app at low volume, **AI label on**) → Instagram 1 h later (same file, **AI label on**) | Writes captions, hashtags, pinned comment per platform |
 | 8. Track | Next day: send views / watch time / shares | Logs results, says what to make more of |
 
+## Target audience
+**United States** (user confirmed 2026-11-14). All posting times are **US Eastern (ET)**; the user is in France (ET + 6 h), so evening slots can be scheduled in-app (TikTok "Schedule", Instagram Advanced settings → "Schedule this post").
+- Weekdays: 12:30 pm ET and 7:30 pm ET · Weekends: 12:00 pm ET and 7:30 pm ET
+- Trending-sound charts: pull **US**.
+
 ## Daily timing (2 shorts)
 - Morning (~15–20 min): Virlo trend → approve plan and stills → watch final.mp4
 - 12:30 pm TikTok / 1:30 pm IG: short 1
