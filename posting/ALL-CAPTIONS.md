@@ -192,3 +192,16 @@ Pinned comment: `who apologizes first in your relationship? 👀`
 Tag your person 👇
 .
 #healthyrelationship #couplegoals #relationshipgoals #shibainu #shiba #cuteanimals #reels
+
+## Me: *just mopped the floor* Him: (2026-11-14) — human mop
+File `daily/2026-11-14/final_human-mop.mp4` (14.1 s) · Cover `posting/cover_human-mop.jpg` · TikTok cover frame ~10 s
+On-screen: "Me: *just mopped the floor*  Him:"
+
+**TikTok caption:** he said he'd help with the cleaning 🧽😌 #couplehumor #cleaningtiktok #shiba #shibainu #relatable #boyfriend #fyp
+Pinned comment: `tag the one who always spills right after you clean 👇`
+Optional TikTok sound: "Pets, cooking, travel, cheerful and comical piano" (Noru) at 5–10% under the original audio
+
+**Instagram caption:** Finally found a use for him 🧽😌
+Send this to the one who always spills right after you clean 👇
+.
+#couplehumor #cleaningday #relationshiphumor #shibainu #shiba #cuteanimals #reels
