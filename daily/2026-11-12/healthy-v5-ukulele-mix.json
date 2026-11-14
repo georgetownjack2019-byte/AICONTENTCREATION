@@ -1,0 +1,7 @@
+{"original_volume": 0.0,
+ "music": {"src": "/tmp/claude-0/-home-user-AICONTENTCREATION/1a727842-3b61-5fe2-b9a1-584bde196e5b/scratchpad/healthy/m_ukulele.wav", "volume": 0.5, "segments": [[0, 22.233333]], "fade": 0.02},
+ "sfx": [
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/seedance-shiba-argue.wav", "at": 0.0, "volume": 1.0},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-whimper-clean.mp3", "at": 10.6, "volume": 0.8},
+  {"src": "/home/user/AICONTENTCREATION/assets/sfx/shiba-sigh-clean.mp3", "at": 18.7, "volume": 0.7}
+ ]}
