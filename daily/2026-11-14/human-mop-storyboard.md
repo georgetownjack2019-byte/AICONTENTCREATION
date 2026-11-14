@@ -16,9 +16,13 @@ Contact sheet of the original: `human-mop-original-sheet.jpg` (2 fps)
 ## Outfit line (word for word in every prompt)
 "Yuki: lilac ribbed lounge set, long-sleeve top and wide-leg pants, no hair accessories. Kenji: charcoal pullover hoodie, grey sweatpants. Do not use the outfits from the reference sheets; faces and fur only."
 
-## Glitch-safe change (rule 4c)
-In the original she grabs his paws and swishes him. Ours: Kenji lies on the towel, and Yuki pulls the towel by its corner, so he slides through the puddle. Same joke (he's the mop), no paw-to-paw contact.
-The spill itself is hidden in a cut (no flying liquid on screen): clip ends on the trip, next shot opens on the aftermath with a splat.
+## User decisions (2026-11-14)
+- **Keep the original mop gag**: Yuki holds Kenji's front paws and swishes him through the puddle (user override of rule 4c).
+  Mitigation: the paws are already held in the start AND end stills (no grabbing on camera), one simple back-and-forth motion,
+  short 4 s clip, Kenji's arms stay straight up in front of him, QC at 10 fps zoomed on the paws; retry once if anything merges.
+- **Show the spill**: mug tips out of his paws as he lands, the matcha splashes low and spreads across the floor
+  (start still = mid-stumble with the mug, end still = on his back with the puddle). QC the spill at 10 fps.
+- **Yuki's outfit**: not the lilac lounge set; new outfit to pick.
 
 ## Beats (13.4 s, same timing)
 | Time | Original | Ours | Energy |
@@ -27,8 +31,9 @@ The spill itself is hidden in a cut (no flying liquid on screen): clip ends on t
 | 0–3.5 | She vacuums; he leans from the armchair and grabs the mug off the floor | Yuki vacuums, focused; Kenji on the sofa leans down and picks up his matcha mug | medium |
 | 3.5–5.5 | She vacuums away; he holds the mug | Yuki vacuums on; Kenji stands up holding the mug | calm |
 | 5.5–7 | He walks and trips | Kenji walks two steps, trips. Cut on the stumble | big |
+| 5.5–7 (spill) | — | The mug flies out of his paws, matcha splashes and spreads across the floor as he lands on his back | big |
 | 7–9.5 | He's on his back, coffee puddle; she stares | Kenji flat on his back, mug on its side, green puddle; Yuki freezes, slow glare (punch-in + dramatic sting) | big |
-| 9.5–13.4 | Closer: she swishes him through the puddle | Kenji lies on the towel, arms crossed, deadpan; Yuki drags the towel back and forth, wiping the floor with him; ends with her dusting off her paws | comic |
+| 9.5–13.4 | Closer: she swishes him through the puddle | Closer: Kenji on his back on the towel, deadpan; Yuki holds his front paws and swishes him back and forth through the puddle like a mop | comic |
 
 On-screen text (whole video): **"Me: *just cleaned the floor*  Him:"**
 Sound: playful acoustic music (one cue per beat), vacuum hum, stumble + splat on the cut, dramatic sting on the glare, soft wet swishes on the drag (no squeaks).
