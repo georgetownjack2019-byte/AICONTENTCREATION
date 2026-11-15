@@ -54,3 +54,6 @@ Sound: kitchen ambience, water, pot clanks, plate clatter, wet spaghetti splat, 
 | 12.5–14.5 | Triple zoom on Yuki: smile freezes into a dead stare, eye twitch | dun-dun-DUN sting |
 | 14.5–17 | Yuki kicks Kenji; he flies out through the kitchen doorway | whoosh + crash |
 | 17–22 | Hallway: Kenji crashed on the floor, plate on his head | KENJI (deadpan): "Well... that worked." |
+
+## Stills (Gate 2, 18 credits): 1 key 304b2827-d129-424a-8a9d-e3e45c67db02 · 2 handoff 0c604048-328e-4453-b5b4-5f3efe9c8d9a · 3 plate 45e0c307-2b01-472c-b958-9c2359602009 · 4 fail 641fd106-9ef5-405c-927c-79a795788ca2 · 5 Yuki rage close-up 60c94d2f-83e9-4598-8438-a7b0652c4f6b · 6 kick 8b15f06f-4020-40f9-ad4c-ee34bc6dbdce · 7 hallway, pot on head 6cee8b2c-8e6f-4313-a4fd-4a2f7af1f04f
+Rejected: e71ff80c (second pot, spaghetti already falling) · e70a01a5 (Kenji lost his clothes)
