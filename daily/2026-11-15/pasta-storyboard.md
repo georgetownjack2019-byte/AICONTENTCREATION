@@ -76,3 +76,4 @@ The height fix had enlarged Kenji instead of shrinking Yuki. Fixed by keeping Ke
 Final stills: 1 b945d298-c096-496e-b815-337df2bd5d1a · 2 929ecdde-dd0c-472e-b7f9-55d529bc8b6f · 3 663de265-fd59-4a02-ae2f-664ab71f8cb5 · 4 6eccefe0-4cd1-4998-a557-2d869df086a5 · 5 1281c2f9-407b-4a2d-856a-72e74653d5f6 · 6 eb23630d-7448-434c-91b0-877c3925a796 · 7 9c11fd53-2177-4f3f-9060-8c24c9d7bd06
 Rejected: scale edits 3e1987d9/d4779c69/cc283683/bccf77c5/afa29b65 (Kenji unchanged), fresh key fe02bc46 (Yuki taller again).
 Stills spent so far: about 86 credits.
+- Proportion test (user: Kenji too tall vs counter): full-width island, counter at Kenji's waist/belly: b65d18f6 -> polished 12735e82-ce4b-4b8a-b275-b5ca355944e5 (spaghetti inside, Yuki shorter, no sofa). Awaiting user OK before redoing the other stills.
