@@ -64,3 +64,4 @@ Rejected: e71ff80c (second pot, spaghetti already falling) · e70a01a5 (Kenji lo
 - The pot's own red lid replaces the plate (he holds it slightly open to drain; it slips off).
 - New stills (12 credits): 1 402d95ab-659a-4610-8a85-a212bb0e32a0 · 2 6be08555-af71-42db-bea3-fff4efa15074 · 3 c79ef6fb-acb7-4a9b-963c-3d78df5b7798 · 4 68d7da64-a420-4010-b6e7-b563f66aab64 · 5 a292b34f-0ec9-43ca-9f01-6f0deeb825c5 · 6 7ad2d70b-566b-4f9f-b4b3-09c437523d94 · 7 (unchanged) 6cee8b2c-8e6f-4313-a4fd-4a2f7af1f04f
 - KENJI's line 2 becomes: "Put the lid right here..."
+- Angle options (user: open kitchen onto the salon, both at the sink): A ba97c2fb-2e96-447b-908f-4ce0a2ce3c2d · B 1d468b9d-fef2-43d7-ae07-7674ed8f5c55 (4 credits)
