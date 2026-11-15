@@ -70,3 +70,9 @@ Rejected: e71ff80c (second pot, spaghetti already falling) · e70a01a5 (Kenji lo
 1 35c5c78d-8c42-4a91-8d4c-713c69db8d40 · 2 2cde5a7c-279a-4d84-bb6b-3fd51c01c440 · 3 bd11243a-4b45-4d31-95fb-ab7671b1aca0 · 4 f50cda87-21ce-494b-961c-4c8d95ae7626 · 5 1281c2f9-407b-4a2d-856a-72e74653d5f6 · 6 f810d565-b816-4250-9a5f-bcd223925ed0 · 7 9c11fd53-2177-4f3f-9060-8c24c9d7bd06
 Last scene moves to the living room: Kenji lands on the floor there with the pot on his head.
 Stills spent so far: 64 credits (32 images incl. versions the user changed and rejected ones).
+
+## Scale fix (user: Kenji too tall vs the counter)
+The height fix had enlarged Kenji instead of shrinking Yuki. Fixed by keeping Kenji at his original size (counter at his waist) and making Yuki petite (head at his chin).
+Final stills: 1 b945d298-c096-496e-b815-337df2bd5d1a · 2 929ecdde-dd0c-472e-b7f9-55d529bc8b6f · 3 663de265-fd59-4a02-ae2f-664ab71f8cb5 · 4 6eccefe0-4cd1-4998-a557-2d869df086a5 · 5 1281c2f9-407b-4a2d-856a-72e74653d5f6 · 6 eb23630d-7448-434c-91b0-877c3925a796 · 7 9c11fd53-2177-4f3f-9060-8c24c9d7bd06
+Rejected: scale edits 3e1987d9/d4779c69/cc283683/bccf77c5/afa29b65 (Kenji unchanged), fresh key fe02bc46 (Yuki taller again).
+Stills spent so far: about 86 credits.
