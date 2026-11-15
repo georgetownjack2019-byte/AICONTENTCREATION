@@ -147,3 +147,10 @@ If the hook-revised versions are ready, post those instead of the originals.
 - **File:** `daily/2026-11-14/final_human-mop.mp4` (13.5 s, music + SFX + caption burned in)
 - **Cover:** `posting/cover_human-mop.jpg` (Yuki mopping with Kenji). TikTok: pick the frame at ~10 s.
 - **Captions:** see `posting/ALL-CAPTIONS.md` → Human mop.
+
+---
+
+## Pasta fail: "POV: when you have a husband" (2026-11-15)
+- **File:** `daily/2026-11-15/final_pasta-fail.mp4` (19.4 s, voices + music + SFX + captions burned in)
+- **Cover:** `posting/cover_pasta-fail.jpg` (the kick). TikTok: pick the frame at ~12.8 s.
+- **Captions:** see `posting/ALL-CAPTIONS.md` → Pasta fail.

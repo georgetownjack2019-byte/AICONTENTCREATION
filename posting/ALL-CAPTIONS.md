@@ -205,3 +205,15 @@ Optional TikTok sound: "Pets, cooking, travel, cheerful and comical piano" (Noru
 Send this to the one who always spills right after you clean 👇
 .
 #couplehumor #cleaningday #relationshiphumor #shibainu #shiba #cuteanimals #reels
+
+## POV: when you have a husband (2026-11-15) — pasta fail, "Kenji tried to help" ep. 1
+File `daily/2026-11-15/final_pasta-fail.mp4` (19.4 s) · Cover `posting/cover_pasta-fail.jpg` · TikTok cover frame ~12.8 s
+On-screen: "POV: when you have a husband"
+
+**TikTok caption:** he said "I got this" 🍝💀 send this to the one who "helps" #couplehumor #husbandfail #relatable #shiba #shibainu #marriedlife #fyp
+Pinned comment: `tag the one who always "helps" 👇`
+
+**Instagram caption:** He really said "I got this" 🍝💀
+Send this to the one who always "helps" 👇
+.
+#couplehumor #husbandfail #marriedlife #relatable #shibainu #shiba #reels

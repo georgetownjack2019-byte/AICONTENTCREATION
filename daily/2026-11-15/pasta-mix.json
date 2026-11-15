@@ -1,0 +1,14 @@
+{"original_volume": 0,
+ "music": {"src": "pasta/music_bed.wav", "volume": 0.45, "segments": [[0, 19.4]], "fade": 0.05},
+ "sfx": [
+  {"src": "pasta/vo-k1.mp3", "at": 0.8, "volume": 1.0},
+  {"src": "pasta/vo-y1.mp3", "at": 4.1, "volume": 1.0},
+  {"src": "pasta/vo-k2.mp3", "at": 7.75, "volume": 1.0},
+  {"src": "pasta/sfx-sink.mp3", "at": 8.75, "volume": 1.0},
+  {"src": "pasta/vo-k3.mp3", "at": 9.15, "volume": 1.0},
+  {"src": "../../assets/sfx/dramatic-sting.mp3", "at": 10.4, "volume": 0.9},
+  {"src": "../../assets/sfx/whoosh-grunt.mp3", "at": 12.4, "volume": 0.9},
+  {"src": "../../assets/sfx/dumbbell-clank.mp3", "at": 13.1, "volume": 0.6},
+  {"src": "../../assets/sfx/bed-plop.mp3", "at": 13.45, "volume": 1.0},
+  {"src": "pasta/vo-k4.mp3", "at": 16.0, "volume": 1.0}
+ ]}

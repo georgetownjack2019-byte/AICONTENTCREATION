@@ -54,3 +54,5 @@ vidIQ watch 10 credits. Stills (8 credits): 1 key 6cf4aa6c-21bb-4ae1-8db1-3661be
 vidIQ 10 + research 15. Stills ≈ 128 credits (see daily/2026-11-15/pasta-storyboard.md).
 Wan 2.7: A 1e086295-a26c-47de-b13b-85b8f73cfe18 (4 s) · B f3f8e0bd-13d0-4bd3-9372-fbbb5466eec3 (5 s) · C 8b9e2e85-beff-45b6-a71d-2cd3a439d66c (3 s) · D 05045b13-a34a-44c2-9938-fc9d79ef3a2a (2 s) · E 7a357dba-3b8e-42e5-bac4-4a96dda5068b (3 s) · F 596b7a68-ce1a-45d6-ad60-915efdc99646 (4 s)
 Voices: Kenji = Dylan (b847bc29), Yuki = Daisy (032386ec), text2speech_v2 elevenlabs.
+- QC: clip B lid pops in at 2.7 s → used B 0–2.5 s + Yuki dreamy cutaway still 0843e6a2-5568-4428-a8dd-f64b7057cf58 to hide it. Clip D triple zoom in the edit.
+- Final: daily/2026-11-15/final_pasta-fail.mp4 (19.4 s). Spent ≈ 130 stills + 31.5 Wan + ~6 audio ≈ 168 credits (+25 vidIQ).
