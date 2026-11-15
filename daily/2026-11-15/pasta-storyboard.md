@@ -36,3 +36,21 @@ Sound: kitchen ambience, water, pot clanks, plate clatter, wet spaghetti splat, 
 - 5 stills (10 credits): Yuki draining + Kenji arriving · pot on the sink edge · Kenji with pot + plate · spaghetti in the sink · Yuki close-up
 - Voiced clips with lip-sync (Seedance 2.0 Fast): 5 s + 5 s + 4 s + 5 s ≈ 48 credits; close-up (Wan 2 s) 3
 - **Total ≈ 60 credits**
+
+## User changes (2026-11-15): happy-to-furious contrast + real kick
+- Yuki is adoring when Kenji offers to help ("Aww, my hero"), romantic music under the setup.
+- Yuki HANDS the pot to Kenji (user override of the no-handoff rule): start/end stills lock the handoff, short clip, QC at 10 fps.
+- After the spill: record scratch, triple zoom on Yuki (smile freezes into a dead stare, eye twitch), dramatic sting.
+- Yuki physically KICKS Kenji out of the kitchen (user override of rule 4c): start still with her foot already on his backside, he flies out through the doorway cartoon-style (fast, whoosh), cut to the landing.
+- Last shot: Kenji crashed on the hallway floor outside the kitchen, plate on his head, deadpan: "Well... that worked."
+
+### New beats (~22 s)
+| Time | Ours | Line / sound |
+|---|---|---|
+| 0–2.5 | Yuki drains the pot; Kenji walks up, confident | KENJI: "Watch out, I got this." |
+| 2.5–5 | Yuki lights up, beaming, and hands him the pot | YUKI: "Aww, my hero!" (romantic music) |
+| 5–9.5 | Kenji presses a plate on the pot as a lid; Yuki watches dreamily, paws clasped under her chin | KENJI: "Put the plate right here..." |
+| 9.5–12.5 | He tilts; the plate slips; the spaghetti slides into the sink | YUKI: "Uh..." KENJI: "Ah!" (record scratch, music cuts) |
+| 12.5–14.5 | Triple zoom on Yuki: smile freezes into a dead stare, eye twitch | dun-dun-DUN sting |
+| 14.5–17 | Yuki kicks Kenji; he flies out through the kitchen doorway | whoosh + crash |
+| 17–22 | Hallway: Kenji crashed on the floor, plate on his head | KENJI (deadpan): "Well... that worked." |
