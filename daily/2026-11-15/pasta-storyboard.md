@@ -65,3 +65,8 @@ Rejected: e71ff80c (second pot, spaghetti already falling) · e70a01a5 (Kenji lo
 - New stills (12 credits): 1 402d95ab-659a-4610-8a85-a212bb0e32a0 · 2 6be08555-af71-42db-bea3-fff4efa15074 · 3 c79ef6fb-acb7-4a9b-963c-3d78df5b7798 · 4 68d7da64-a420-4010-b6e7-b563f66aab64 · 5 a292b34f-0ec9-43ca-9f01-6f0deeb825c5 · 6 7ad2d70b-566b-4f9f-b4b3-09c437523d94 · 7 (unchanged) 6cee8b2c-8e6f-4313-a4fd-4a2f7af1f04f
 - KENJI's line 2 becomes: "Put the lid right here..."
 - Angle options (user: open kitchen onto the salon, both at the sink): A ba97c2fb-2e96-447b-908f-4ce0a2ce3c2d · B 1d468b9d-fef2-43d7-ae07-7674ed8f5c55 (4 credits)
+
+## Final stills (open kitchen, island sink facing camera, living room far back, no sofa; Kenji a head taller)
+1 35c5c78d-8c42-4a91-8d4c-713c69db8d40 · 2 2cde5a7c-279a-4d84-bb6b-3fd51c01c440 · 3 bd11243a-4b45-4d31-95fb-ab7671b1aca0 · 4 f50cda87-21ce-494b-961c-4c8d95ae7626 · 5 1281c2f9-407b-4a2d-856a-72e74653d5f6 · 6 f810d565-b816-4250-9a5f-bcd223925ed0 · 7 9c11fd53-2177-4f3f-9060-8c24c9d7bd06
+Last scene moves to the living room: Kenji lands on the floor there with the pot on his head.
+Stills spent so far: 64 credits (32 images incl. versions the user changed and rejected ones).
