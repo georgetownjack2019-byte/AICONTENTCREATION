@@ -83,3 +83,4 @@ Stills spent so far: about 86 credits.
 Rejected: 2e8d53e1 + ab83f937 (outfits drifted to the reference-sheet sweater/cardigan; prompt said "same outfits" without the outfit line — always paste the outfit line).
 Stills spent so far: about 106 credits.
 Landing fix (user: he didn't land in a place that made sense): 7 wide landing, same camera as the kick, Kenji crashed far left by the lamp and plant, Yuki arms crossed behind the island: cbf51f72-706d-4d35-84bc-97c5d56cb2d5 · 8 close-up of Kenji with the lamp and plant behind him for "Well... that worked.": f40d8a51-b094-4516-abfe-0b6820c37f9d (replaces 8f2071be). Stills total ≈ 110 credits.
+Landing fix 2 (user: flight direction didn't match the landing): 7 = 75515716-a0b2-470e-8dda-e80b07191118 (lands left of the island at the same depth he flew) · 8 = cb648b1a-a462-4c10-96d7-a08311d7cc76 (close-up at that spot, island side + sideboard/lamp behind). Stills total ≈ 114 credits.
