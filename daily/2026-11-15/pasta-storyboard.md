@@ -87,3 +87,4 @@ Landing fix 2 (user: flight direction didn't match the landing): 7 = 75515716-a0
 Kick restaged (user: Yuki looked like she was standing in the sink): the kick now happens on the open floor LEFT of the island, clear of the sink.
 6 kick add5d6cd-c9ec-47b3-910d-e8e5387e7d95 · 7 landing (same camera, Yuki in the same spot, Kenji on his back on the floor at left, pot on head) 8a00ac5f-9684-48e7-b085-c2e0fda8fded · 8 close-up at that spot (sideboard/lamp/plant behind, no island) 425114a1-d22a-4f3c-9186-938b6a8292f9
 Rejected: 02e91cc9 (Yuki behind the counter, camera moved) · 9eaee2c1 (Kenji still mid-air) · cb648b1a/75515716 (old staging). Stills total ≈ 124 credits.
+Shadow fix (user: black bar on the floor): 7 = df9d4ced-e3b0-4c7f-a65d-c143490c2281 · 8 = f5524959-79ac-40e9-86f6-57abe189fe0a. Lesson: never prompt 'casts a shadow' (the model drew a hard black bar). Stills total ≈ 128 credits.
