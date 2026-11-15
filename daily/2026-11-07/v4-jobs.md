@@ -57,3 +57,4 @@ Voices: Kenji = Dylan (b847bc29), Yuki = Daisy (032386ec), text2speech_v2 eleven
 - QC: clip B lid pops in at 2.7 s → used B 0–2.5 s + Yuki dreamy cutaway still 0843e6a2-5568-4428-a8dd-f64b7057cf58 to hide it. Clip D triple zoom in the edit.
 - Final: daily/2026-11-15/final_pasta-fail.mp4 (19.4 s). Spent ≈ 130 stills + 31.5 Wan + ~6 audio ≈ 168 credits (+25 vidIQ).
 - Lip-sync redo (user: lips didn't match): Wan 2.7 + audio_references (voice placed at exact time). A2 ffbae8e7-4de8-42b3-900b-638a478a494a · B2 11f120eb-bc0f-4075-b797-35fc44de2c89 · C2 c16e9f12-5502-4dd9-b9c1-1d45243ba91f · F2 b92ad387-8fcd-43ca-91c6-6735516c63f4 (audio media 5b8dd245/66eca6f1/591ccad7/0c02c7ee)
+- v2 final with lip-synced clips A2/B2/C2/F2 (same mix and captions). +24 credits. Total ≈ 192 credits (+25 vidIQ).
