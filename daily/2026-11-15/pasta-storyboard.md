@@ -57,3 +57,10 @@ Sound: kitchen ambience, water, pot clanks, plate clatter, wet spaghetti splat, 
 
 ## Stills (Gate 2, 18 credits): 1 key 304b2827-d129-424a-8a9d-e3e45c67db02 · 2 handoff 0c604048-328e-4453-b5b4-5f3efe9c8d9a · 3 plate 45e0c307-2b01-472c-b958-9c2359602009 · 4 fail 641fd106-9ef5-405c-927c-79a795788ca2 · 5 Yuki rage close-up 60c94d2f-83e9-4598-8438-a7b0652c4f6b · 6 kick 8b15f06f-4020-40f9-ad4c-ee34bc6dbdce · 7 hallway, pot on head 6cee8b2c-8e6f-4313-a4fd-4a2f7af1f04f
 Rejected: e71ff80c (second pot, spaghetti already falling) · e70a01a5 (Kenji lost his clothes)
+
+## User changes 2 (2026-11-15): casual Yuki + pot lid
+- Yuki outfit (was too formal): oversized pastel-pink t-shirt, light-grey cotton shorts, barefoot.
+  New outfit line: "Yuki: oversized pastel-pink t-shirt, light-grey cotton shorts, barefoot, no hair accessories. Kenji: plain white t-shirt, black sweatpants."
+- The pot's own red lid replaces the plate (he holds it slightly open to drain; it slips off).
+- New stills (12 credits): 1 402d95ab-659a-4610-8a85-a212bb0e32a0 · 2 6be08555-af71-42db-bea3-fff4efa15074 · 3 c79ef6fb-acb7-4a9b-963c-3d78df5b7798 · 4 68d7da64-a420-4010-b6e7-b563f66aab64 · 5 a292b34f-0ec9-43ca-9f01-6f0deeb825c5 · 6 7ad2d70b-566b-4f9f-b4b3-09c437523d94 · 7 (unchanged) 6cee8b2c-8e6f-4313-a4fd-4a2f7af1f04f
+- KENJI's line 2 becomes: "Put the lid right here..."
