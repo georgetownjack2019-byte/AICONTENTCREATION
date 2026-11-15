@@ -19,3 +19,12 @@
 - "helped in ways that ruin the task": IG @ronnies.family.show 1M https://www.instagram.com/reel/DfZJFVcMd-A
 - "until someone feels the urgent need to help and breaks it": IG @baran_robin_ 814K https://www.instagram.com/reel/De-PsgQNPO4
 Series idea: "Kenji tried to help" episodes (egg → laundry → houseplant → her makeup).
+
+## Husband helps wife, fails miserably (real couples, Sep 1–Nov 15)
+- Pasta draining fail, "POV: when you have a husband": IG @noahandcaroline 3.8M (38x) https://www.instagram.com/reel/De0jusVNqZF
+- Same gag, "POV: You have a husband" (dumps the pot wrong): IG @theblondebrewer 2.4M https://www.instagram.com/reel/DdmtVz_zgWQ
+- Snack-toss into her mouth fails, he recovers: IG @aqueela 6.7M (57x) https://www.instagram.com/reel/DdsDQJzPIG5
+- Watching him assemble furniture ("I just want to rip it out of his hands"): TikTok @miajakovlevs 3.9M (673x), 5 s https://www.tiktok.com/@miajakovlevs/video/7696612393857649953
+- "Boy brain" compilation of husbands failing to help: IG @james_and_amanda 4.4M (981x) https://www.instagram.com/reel/DdhgIIijfc6
+- "Men's cleaning logic": IG @micahandsarahhh 2.9M https://www.instagram.com/reel/DeAFprKTu7-
+- "In an emergency situation..." she cleans a spill using him as a prop: TikTok @thehartigfamily 1.1M (67x) https://www.tiktok.com/@thehartigfamily/video/7685175505045196046
