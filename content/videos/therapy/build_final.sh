@@ -30,9 +30,9 @@ ffmpeg -nostdin -v error -y -f concat -safe 0 -i $T/list2.txt -c:v libx264 -crf 
 S=../../../assets/sfx
 ffmpeg -nostdin -v error -y -f lavfi -i "aevalsrc='0.5*sin(2*PI*(330-120*t)*t)*exp(-t*2.2)':s=44100:d=1.2" $T/wah.wav
 # sad violin/piano ONLY under the intro (0–1.63 s); the user adds happy music in-app for the therapy part
-ffmpeg -nostdin -v error -y -f lavfi -i "anullsrc=r=44100:cl=stereo" -i $T/wah.wav -i $S/magic-sparkle.mp3 -i $S/straw-slurp.mp3 -i $S/napkin-rustle.mp3 -i $S/happy-hum.mp3 -i audio/sad_intro.mp3 -filter_complex "\
-[6]atrim=1.70:3.33,asetpts=PTS-STARTPTS,afade=t=in:d=0.05,afade=t=out:st=1.45:d=0.18,volume=1.6,aformat=sample_rates=44100:channel_layouts=stereo[sad];\
-[0]atrim=0:7.1[base];[base][sad]amix=inputs=2:normalize=0:duration=first[m];[1]adelay=200|200,volume=0.35[w];\
+ffmpeg -nostdin -v error -y -f lavfi -i "anullsrc=r=44100:cl=stereo" -i $T/wah.wav -i $S/magic-sparkle.mp3 -i $S/straw-slurp.mp3 -i $S/napkin-rustle.mp3 -i $S/happy-hum.mp3 -i audio/dramatic_intro.mp3 -filter_complex "\
+[6]atrim=0.20:1.83,asetpts=PTS-STARTPTS,afade=t=out:st=1.45:d=0.18,volume=1.3,aformat=sample_rates=44100:channel_layouts=stereo[sad];\
+[0]atrim=0:7.1[base];[base][sad]amix=inputs=2:normalize=0:duration=first[m];[1]adelay=200|200,volume=0.2[w];\
 [2]asplit=4[d1][d2][d3][d4];[d1]adelay=1000|1000,volume=0.6[a1];[d2]adelay=2400|2400,volume=0.5[a2];[d3]adelay=3700|3700,volume=0.5[a3];[d4]adelay=4940|4940,volume=0.6[a4];\
 [3]adelay=3250|3250,volume=0.6[sl];[4]adelay=4450|4450,volume=0.5[rs];[5]adelay=5700|5700,volume=0.6[hm];\
 [m][w][a1][a2][a3][a4][sl][rs][hm]amix=inputs=9:normalize=0:duration=first,loudnorm=I=-14:TP=-1.5:LRA=11[out]" \

@@ -34,3 +34,8 @@ Pinned: `be honest… which one is your therapy: nails, matcha, shopping or spa?
 Sad violin + piano (ElevenLabs Music `7c5efe42-7653-4705-ad9c-b3dba0adf727`, `audio/sad_intro.mp3`, segment 1.70–3.33 s) under 0–1.63 s only,
 fade-out ending exactly at the cut; "wah" lowered under it. Therapy part (1.63–7.10) = SFX only. Intro ≈ −17 dB mean, rest ≈ −23 dB.
 Tip for the user: in TikTok, start the happy song at ~1.6 s (or keep it low in the first 1.6 s) so it doesn't cover the sad intro.
+
+## v3 audio (user: attention-grabbing music for the first seconds)
+Intro now = dramatic soap-opera orchestral stab ("dun-dun-DUN", timpani + strings) landing on frame 1, then a crying violin
+(ElevenLabs Music `634778c7-26ad-4bd9-9cfb-6102b20c7e08`, `audio/dramatic_intro.mp3`, segment 0.20–1.83 s), fade-out at the 1.63 s cut.
+Levels: first 0.4 s ≈ −13 dB (loudest moment of the video), intro ≈ −16 dB, therapy part (SFX only) ≈ −25 dB.
