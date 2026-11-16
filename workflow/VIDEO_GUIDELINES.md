@@ -7,12 +7,14 @@ Owner: you. Edit this file anytime; every session reads it before planning a vid
 
 ## 1. Attention-catching: win the first 2 seconds
 - **Frame 1 is a face mid-emotion** (smirk, pout, side-eye, shock). Never an empty room or a slow establishing shot.
+- **First frame = conflict (user rule, 2026-11-16).** The very first frame already shows tension or stakes (a glare, someone mid-slip, a pile of cash, a standoff), never a character calmly doing a chore. If the original opens slowly, start our version on its first tense moment.
 - **No cold-open flash-forwards (user rule, 2026-11-14).** Showing the ending for 0.7 s before the story read as a glitch. Hook with the first real shot (strong action, text) instead.
 - **Text hook on screen from 0.0 s**: ≤ 8 words, a relatable "POV / when…" line that makes people want the ending.
 - **Something moves or changes within 1 second** (a roll, a grab, a zoom, a sound hit).
 - Bright, readable, vertical 9:16; characters fill at least a third of the frame.
 - Keep it short: **8–16 s** for daily shorts. Every shot must earn its place; cut dead air.
 - **End on a loop or a punchline face** (Kenji's deadpan to camera, Yuki's side-eye) so people rewatch.
+- **Loop ending (user rule, 2026-11-16).** The last frame flows back into the first (same framing or position, so the restart feels seamless), or the video ends on a punchline face held for at least 1 s. Plan the loop in the beat sheet.
 
 ## 2. Funny: the joke must land without explanation
 - **Keep the original's joke and timing.** Copy the beats (setup → escalation → punchline → reaction), not the footage.
@@ -110,7 +112,12 @@ Goal: every video is posted from the first animation. Every past remake came fro
 - the full credit estimate.
 The user approves or edits; nothing is generated until then.
 
+**Gate 1.5 — Set test still (user rule, 2026-11-16).** Before making all the stills, make ONE test still (the key shot) that locks the location, camera angle, outfits and character scale (Kenji a head taller, counters at Kenji's waist). The user approves it first; only then make the other stills, all anchored on it. On the pasta video, changing these late cost ~100 credits of redos.
+
 **Gate 2 — Stills (2 credits each).** One still per scene, outfit-locked, checked against the beat sheet before showing. The user approves every still. Changes here cost 2 credits, not 10+.
+- **Screen direction (user rule, 2026-11-16).** Keep the camera on one side of the action between shots: if a character exits or flies to the left, the next shot shows them arriving or landing on the left, at the depth they were moving. Check every cut for "does the movement continue where it went?"
+
+**Credit cap (user rule, 2026-11-16).** About 60 credits per video, research included. If fixes would push past that, stop and ask the user before spending more (show what is left to fix and its cost).
 
 **Gate 3 — Animation.** Prompts copy the approved beat-sheet actions word for word, plus "natural, calm movement" unless the beat says otherwise. QC every clip (contact sheet) against the beat sheet before editing; a glitched clip is retried once silently, then reported.
 
