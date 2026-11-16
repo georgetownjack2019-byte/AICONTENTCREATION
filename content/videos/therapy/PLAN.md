@@ -12,3 +12,8 @@ Cuts at 1.63 · 3.03 · 4.33 · 5.57 s. Text: "i need to go to therapy" (0–1.6
 Boosters: 200% sad face in shot 1; ding/sparkle + quick zoom on each cut; hold the blissful end face for the loop.
 Production: 5 stills (10 cr) · Wan on shots 3–4 · stills + push-in on 1, 2, 5 · SFX only (song added in-app) · ≈ 18–20 cr.
 Status: plan sent to the user for approval.
+
+## Stills (user said go, 2026-11-16), 10 credits
+1 sad `8ab97228-8f53-4956-a79b-1c29714f09f0` (ears drooped as a sad expression; flag for review) · 2 nails `1b545441-56d5-4745-8045-513c779d4b7e` ·
+3 matcha `99e5d196-d84b-49dd-bc25-50cdfc4d3ea7` · 4 shopping `b21c210d-7b85-4e7b-b68f-a817ec39ef92` · 5 spa `1b0a821d-a1be-4717-99e7-07b33bc2b6f8`
+Status: awaiting user review → animate 3 + 4 (Wan), push-ins on 1, 2, 5, edit at 7.10 s.
