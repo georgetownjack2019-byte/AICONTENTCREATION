@@ -29,3 +29,8 @@ TikTok: `my therapist accepts matcha and gel nails 💅🍵 #shiba #shibainu #ai
 Pinned: `what's YOUR kind of therapy? 👇`
 Instagram: `Therapy? Booked. 💅 Matcha, nails, shopping and a spa day 🍵🛍️` / `Tag the friend who needs this therapy session 👇` + #shibainu #shiba #aianimation #3danimation #selfcare #retailtherapy #selfcaresunday #relatable
 Pinned: `be honest… which one is your therapy: nails, matcha, shopping or spa? 👀`
+
+## v2 audio (user: sad sound for the first ~2 s; they add happy music in-app for the therapy part)
+Sad violin + piano (ElevenLabs Music `7c5efe42-7653-4705-ad9c-b3dba0adf727`, `audio/sad_intro.mp3`, segment 1.70–3.33 s) under 0–1.63 s only,
+fade-out ending exactly at the cut; "wah" lowered under it. Therapy part (1.63–7.10) = SFX only. Intro ≈ −17 dB mean, rest ≈ −23 dB.
+Tip for the user: in TikTok, start the happy song at ~1.6 s (or keep it low in the first 1.6 s) so it doesn't cover the sad intro.
