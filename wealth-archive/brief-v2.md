@@ -21,10 +21,21 @@ Curiosity loop in the first 5 s, closed near the end; a twist every 10–15 s; c
 - ★ **Word-by-word animated subtitles** on every line, big and centered in the lower third, with key numbers highlighted.
 - ★ **Sound design:** a tension music bed, a riser before each twist, a hit on each big number.
 
-## Structure ★ (shorter)
+## Structure ★ (61–75 s, built to hold attention past the 1-minute mark)
 Hook → "This is the Wealth Archive." (★ see below) → quick context → rising stakes → twist → consequence → one money lesson → ending.
-- ★ **Length 30–50 s** (max 60). New accounts lose most viewers after 20–30 s; shorter videos get rewatched and pushed.
-- ★ **Big stories that don't fit in 50 s become Part 1 / Part 2** (see Follower growth).
+- ★ **Length 61–75 s**, so the video qualifies for monetization programs that only pay for videos over 1 minute (for example TikTok's creator rewards; check the current rules in the app, they change). Never pad to reach it: add a story beat instead.
+- ★ **Beat map for 65 s:**
+  - 0–3 s hook (on screen + voice) and the promise.
+  - 3–4 s "This is the Wealth Archive." stamp.
+  - 4–15 s context and the open question.
+  - ~15 s first surprise ("But that wasn't the strange part.").
+  - ~30 s stakes double (a bigger number, a worse risk).
+  - ~45–55 s **the biggest twist**, placed just before the 1-minute mark so viewers stay past 60 s.
+  - 55–61 s consequence, today's link, the money lesson.
+  - 61–65 s the ending lines.
+- ★ **A mini-cliffhanger line every 10–15 s** ("And then the bank called.", "Nobody saw what came next.").
+- ★ **Part 1 / Part 2:** each part is also 61 s or more, and each has its own hook.
+- ★ **Optional growth cut for Instagram:** a 30–45 s edit of the same video (hook → twist → lesson). Shorter Reels get pushed more to new viewers while the full version earns on TikTok.
 
 ## Ending (unchanged, ★ timing)
 Two short lines, under 30 words in total: (1) the inspiring "keep learning / follow" line, (2) a simple opinion question linked to the story. Vary the wording every time; no episode numbers.
